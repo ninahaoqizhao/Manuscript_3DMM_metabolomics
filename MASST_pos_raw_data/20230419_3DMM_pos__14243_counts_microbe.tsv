@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P1_H11_GH11_01_52931	-0.02	mzspec:MSV000085071:P1_H11_GH11_01_52931:scan:1082	1	0.8	6	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P1_mzXML/P1_H11_GH11_01_52931.mzXML	MSV000085071/P1_H11_GH11_01_52931.mzXML	MSV000085071	Chalciporus piperatus		145387	automatic	Yes	No	No

@@ -1,0 +1,7 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009974975	CCMSLIB00009974975	0.86	6	Suspect related to NCGC00385190-01_C16H24O7_4-(3-Hydroxybutyl)phenyl beta-D-glucopyranoside (predicted molecular formula: unknown) with delta m/z -17.026 (putative explanation: Isopeptide bond formation with loss of ammonia|Loss of ammonia|Pyro-glu from Q; atomic difference: -3H,-1N|-3H,-1N|-3H,-1N)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004714843	CCMSLIB00004714843	0.86	7	(2S,3R,4S,5S,6R)-2-[4-(3-hydroxybutyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009974976	CCMSLIB00009974976	0.86	6	Suspect related to NCGC00385190-01_C16H24O7_4-(3-Hydroxybutyl)phenyl beta-D-glucopyranoside (predicted molecular formula: unknown) with delta m/z -17.009 (putative explanation: unspecified; atomic difference: unspecified)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004714842	CCMSLIB00004714842	0.86	6	(2S,3R,4S,5S,6R)-2-[4-(3-hydroxybutyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000853492	CCMSLIB00000853492	0.82	6	NCGC00385190-01_C16H24O7_4-(3-Hydroxybutyl)phenyl beta-D-glucopyranoside	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004714844	CCMSLIB00004714844	0.78	5	(2S,3R,4S,5S,6R)-2-[4-(3-hydroxybutyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	[M+H]+	1

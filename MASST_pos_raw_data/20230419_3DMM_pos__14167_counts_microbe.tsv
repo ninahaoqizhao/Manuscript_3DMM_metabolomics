@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083118:20180626-Cfe-DMSO-14point784-14point788	0.0	mzspec:MSV000083118:20180626-Cfe-DMSO-14point784-14point788:scan:4465	1	0.74	5	MSV000083118	NoID	MSV000083118/ccms_peak/20180626-Cfe-DMSO-14point784-14point788.mzML	MSV000083118/20180626-Cfe-DMSO-14point784-14point788.mzML	MSV000083118	Cystobacter ferrugineus		83449	automatic	No	No	No

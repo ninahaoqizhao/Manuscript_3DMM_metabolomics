@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000090007:Yeast_12_C_pos_1	0.0	mzspec:MSV000090007:Yeast_12_C_pos_1:scan:3212	1	0.79	7	MSV000090007	NoID	MSV000090007/peak/lipid_RP_MZML/Yeast_12_C_pos_1.mzML	MSV000090007/Yeast_12_C_pos_1.mzML	MSV000090007	Komagataella phaffii		460519	automatic	No	No	No
+mzspec:MSV000079472:M17	0.04	mzspec:MSV000079472:M17:scan:4294967295	1	0.72	5	MSV000079472	NoID	MSV000079472/peak/M17.mzXML	MSV000079472/M17.mzXML	MSV000079472	Salinospora	Salinispora	168694	automatic	No	No	No
+mzspec:MSV000079472:M15	0.04	mzspec:MSV000079472:M15:scan:4294967295	1	0.72	5	MSV000079472	NoID	MSV000079472/peak/M15.mzXML	MSV000079472/M15.mzXML	MSV000079472	Salinospora	Salinispora	168694	automatic	No	No	No
+mzspec:MSV000088827:TiAVfm4-C	0.0	mzspec:MSV000088827:TiAVfm4-C:scan:4294967295	1	0.72	5	MSV000088827	NoID	MSV000088827/peak/TiAVfm4-C.mzML	MSV000088827/TiAVfm4-C.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No

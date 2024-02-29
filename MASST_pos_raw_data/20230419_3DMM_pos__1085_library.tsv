@@ -1,0 +1,99 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003140129	CCMSLIB00003140129	1.0	7	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009975113	CCMSLIB00009975113	0.99	6	Suspect related to NCGC00385223-01!(2R,3S)-7-[(2S,3R,4R)-3,4-dihydroxy-4-(hydroxymethyl)oxolan-2-yl]oxy-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5-diol (predicted molecular formula: C15H14O6) with delta m/z -132.042 (putative explanation: Pentose (reverse); atomic difference: -5C,-8H,-4O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691487	CCMSLIB00004691487	0.99	6	(-)-epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000222542	CCMSLIB00000222542	0.98	6	Massbank:PB006281 (-)-Epicatechin|(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000081476	CCMSLIB00000081476	0.98	6	Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139109	CCMSLIB00003139109	0.98	6	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136942	CCMSLIB00003136942	0.98	6	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138104	CCMSLIB00003138104	0.98	6	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135875	CCMSLIB00003135875	0.97	6	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135476	CCMSLIB00003135476	0.97	6	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000213701	CCMSLIB00000213701	0.97	6	Massbank:FIO00068 (-)-Epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000215185	CCMSLIB00000215185	0.97	6	Massbank:FIO00068 (-)-Epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136155	CCMSLIB00003136155	0.96	6	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010111124	CCMSLIB00010111124	0.96	5	Cianidanol CollisionEnergy:102040	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009947154	CCMSLIB00009947154	0.96	5	Suspect related to Epigallocatechin gallate (predicted molecular formula: unknown) with delta m/z 2.016 (putative explanation: Pro->Val substitution|reduction; atomic difference: 2H|2H)	[M-C7H6O5+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009970303	CCMSLIB00009970303	0.96	6	Suspect related to NCGC00347390-02!(2R,3S)-7-[(2S,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5-diol (predicted molecular formula: C15H14O6) with delta m/z -132.042 (putative explanation: Pentose (reverse); atomic difference: -5C,-8H,-4O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006366826	CCMSLIB00006366826	0.96	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005739294	CCMSLIB00005739294	0.96	6	Massbank:PR302738 (-)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679850	CCMSLIB00006679850	0.95	5	CATECHIN	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010112793	CCMSLIB00010112793	0.95	5	Epicatechin CollisionEnergy:102040	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010111123	CCMSLIB00010111123	0.95	5	Cianidanol CollisionEnergy:102040	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719835	CCMSLIB00004719835	0.95	5	Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005742131	CCMSLIB00005742131	0.95	6	Massbank:PR302713 (-)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004684181	CCMSLIB00004684181	0.95	5	Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000222062	CCMSLIB00000222062	0.95	5	Massbank:PB001330 Catechin|(2R,3S)-2-(3,4-dihydroxyphenyl)chroman-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135625	CCMSLIB00003135625	0.95	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010111122	CCMSLIB00010111122	0.95	5	Cianidanol CollisionEnergy:102040	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719856	CCMSLIB00004719856	0.95	5	Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679971	CCMSLIB00006679971	0.95	5	EPICATECHIN	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006367074	CCMSLIB00006367074	0.95	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684695	CCMSLIB00006684695	0.95	5	EPICATECHIN	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000222069	CCMSLIB00000222069	0.95	5	Massbank:PB001338 Epicatechin|(2R,3R)-2-(3,4-dihydroxyphenyl)chroman-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411203	CCMSLIB00006411203	0.94	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112904	CCMSLIB00006112904	0.94	5	D-(+)-Catechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006366867	CCMSLIB00006366867	0.94	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006115151	CCMSLIB00006115151	0.94	5	(?)-Epicatechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010012009	CCMSLIB00010012009	0.94	5	(+)-catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005738975	CCMSLIB00005738975	0.93	5	Massbank:PR302623 (+)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009976418	CCMSLIB00009976418	0.93	6	Suspect related to NCGC00385785-01!(2R,3R,4S,5S,6R)-2-[[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3,4-dihydro-2H-chromen-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol (predicted molecular formula: C12H18O6S) with delta m/z -162.052 (putative explanation: Glucuronidation (reverse)|Hexose (reverse); atomic difference: -6C,-10H,-5O|-6C,-10H,-5O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006366949	CCMSLIB00006366949	0.93	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112901	CCMSLIB00006112901	0.93	5	D-(+)-Catechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006367155	CCMSLIB00006367155	0.93	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112909	CCMSLIB00006112909	0.93	5	D-(+)-Catechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009975123	CCMSLIB00009975123	0.93	5	Suspect related to NCGC00385223-01!(2R,3S)-7-[(2S,3R,4R)-3,4-dihydroxy-4-(hydroxymethyl)oxolan-2-yl]oxy-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5-diol [IIN-based: Match] (predicted molecular formula: C15H14O6) with delta m/z -132.042 (putative explanation: Pentose (reverse); atomic difference: -5C,-8H,-4O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009968017	CCMSLIB00009968017	0.93	5	Suspect related to NCGC00169146-02!2-[[(2R,3S)-2-(3,4-dihydroxyphenyl)-3,5-dihydroxy-3,4-dihydro-2H-chromen-7-yl]oxy]oxane-3,4,5-triol (predicted molecular formula: C15H14O6) with delta m/z -132.042 (putative explanation: Pentose (reverse); atomic difference: -5C,-8H,-4O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112902	CCMSLIB00006112902	0.93	5	D-(+)-Catechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006115147	CCMSLIB00006115147	0.93	5	(?)-Epicatechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112907	CCMSLIB00006112907	0.93	5	D-(+)-Catechin - 40.0 eV	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139989	CCMSLIB00003139989	0.93	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006366990	CCMSLIB00006366990	0.93	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134625	CCMSLIB00003134625	0.93	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005745432	CCMSLIB00005745432	0.93	5	Massbank:PR310492 (+)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000081479	CCMSLIB00000081479	0.93	5	Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684730	CCMSLIB00006684730	0.93	5	EPICATECHIN	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411004	CCMSLIB00006411004	0.92	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000222544	CCMSLIB00000222544	0.92	5	Massbank:PB006301 (-)-Epicatechin|(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006367197	CCMSLIB00006367197	0.92	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719857	CCMSLIB00004719857	0.92	5	Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006366784	CCMSLIB00006366784	0.92	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135865	CCMSLIB00003135865	0.92	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719836	CCMSLIB00004719836	0.92	5	Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006367032	CCMSLIB00006367032	0.91	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000848301	CCMSLIB00000848301	0.91	5	NCGC00017331-10!(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000213699	CCMSLIB00000213699	0.91	5	Massbank:FIO00067 (-)-Epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691488	CCMSLIB00004691488	0.91	5	(-)-epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005744578	CCMSLIB00005744578	0.91	5	Massbank:PR302743 (-)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006367113	CCMSLIB00006367113	0.91	5	(+)Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005745943	CCMSLIB00005745943	0.91	5	Massbank:PR302573 Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952663	CCMSLIB00009952663	0.91	5	Suspect related to Massbank: Epigallocatechin|(2R,3R)-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol|(-)-epigallocatechin|(-)-Epigallo catechin (predicted molecular formula: C15H14O6) with delta m/z -15.995 (putative explanation: Ser->Ala substitution|Tyr->Phe substitution|reduction; atomic difference: -1O|-1O|-1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005741250	CCMSLIB00005741250	0.91	5	Massbank:PR310493 (-)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411028	CCMSLIB00006411028	0.91	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000215183	CCMSLIB00000215183	0.91	5	Massbank:FIO00067 (-)-Epicatechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005747047	CCMSLIB00005747047	0.91	5	Massbank:PR302693 (-)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010152854	CCMSLIB00010152854	0.91	5	Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005747174	CCMSLIB00005747174	0.91	6	Massbank:PR302629 (+)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411127	CCMSLIB00006411127	0.91	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411076	CCMSLIB00006411076	0.9	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005749376	CCMSLIB00005749376	0.9	5	Massbank:PR302549 Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005745802	CCMSLIB00005745802	0.9	5	Massbank:PR302647 (+)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005741108	CCMSLIB00005741108	0.9	5	Massbank:PR311008 Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005738267	CCMSLIB00005738267	0.9	6	Massbank:RP017802 Catechin(+)|(+)-catechin|(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138056	CCMSLIB00003138056	0.9	5	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411102	CCMSLIB00006411102	0.9	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009976621	CCMSLIB00009976621	0.9	5	Suspect related to NCGC00385833-01![(2S,3R)-2-(3,4-dihydroxyphenyl)-3,5-dihydroxy-3,4-dihydro-2H-chromen-7-yl] 3,4,5-trihydroxybenzoate [IIN-based: Match] (predicted molecular formula: C15H14O6) with delta m/z -152.011 (putative explanation: 3,4,5-Trihydroxybenzoic acid (reverse)|4-Chloro-Threonine (reverse); atomic difference: -7C,- 4H,- 4O|-nan)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138822	CCMSLIB00003138822	0.9	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005746848	CCMSLIB00005746848	0.89	5	Massbank:PR302677 (+)-Epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411152	CCMSLIB00006411152	0.89	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006411177	CCMSLIB00006411177	0.89	5	(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138004	CCMSLIB00003138004	0.89	5	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136404	CCMSLIB00003136404	0.89	5	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138030	CCMSLIB00003138030	0.89	5	Spectral Match to (-)-Epicatechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006674289	CCMSLIB00006674289	0.87	5	epicatechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139250	CCMSLIB00003139250	0.85	6	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136735	CCMSLIB00003136735	0.82	5	Spectral Match to (+)-Catechin from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004717617	CCMSLIB00004717617	0.82	5	Catechin	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009969953	CCMSLIB00009969953	0.76	5	Suspect related to NCGC00180795-02!(2S,3S)-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol (predicted molecular formula: C11H10N6O4) with delta m/z -15.995 (putative explanation: Ser->Ala substitution|Tyr->Phe substitution|reduction; atomic difference: -1O|-1O|-1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000579277	CCMSLIB00000579277	0.74	6	Catechin	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000085750	CCMSLIB00000085750	0.74	5	"""MLS002154016-01!Catechin-(+,-) hydrate7295-85-4"""	M+H	1

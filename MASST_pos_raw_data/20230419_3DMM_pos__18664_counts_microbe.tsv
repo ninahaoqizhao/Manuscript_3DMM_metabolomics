@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084945:K56_2_hmgA_SPE_1_P2-A-5_01_4736	0.04	mzspec:MSV000084945:K56_2_hmgA_SPE_1_P2-A-5_01_4736:scan:3458	1	0.76	5	MSV000084945	NoID	MSV000084945/ccms_peak/Pigment_mutant_posmode_2/B.cenocepacia_K562_jhmgA/K56_2_hmgA_SPE_1_P2-A-5_01_4736.mzML	MSV000084945/K56_2_hmgA_SPE_1_P2-A-5_01_4736.mzML	MSV000084945	Bulkholderia	Burkholderia	32008	maual	No	No	No

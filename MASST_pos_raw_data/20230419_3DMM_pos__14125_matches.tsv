@@ -1,0 +1,20 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.04	mzspec:MSV000089558:Mom_C8-B7:scan:1222	0.86	6	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_1:scan:977	0.86	5	NoID
+0.0	mzspec:MSV000089558:Blank_Solvent_4:scan:1227	0.84	5	NoID
+0.0	mzspec:MSV000089540:I4_Ctrl:scan:2170	0.84	5	NoID
+0.0	mzspec:MSV000083559:11713.15.O.15B:scan:1571	0.83	5	NoID
+0.0	mzspec:MSV000083559:11713.15.S.15D:scan:1579	0.82	5	NoID
+0.0	mzspec:MSV000089540:B6_Ctrl:scan:2124	0.82	5	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_2:scan:961	0.81	5	NoID
+0.0	mzspec:MSV000083559:11713.12.O.12F:scan:1583	0.81	5	NoID
+0.0	mzspec:MSV000083559:11713.13.O.13D:scan:1577	0.78	5	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_10:scan:1035	0.77	5	NoID
+0.04	mzspec:MSV000083541:S2_50EtOH_171006200957:scan:1660	0.77	5	NoID
+0.04	mzspec:MSV000083559:11713.9.S.9E:scan:1343	0.75	5	NoID
+0.04	mzspec:MSV000089558:I_C4-B1:scan:1285	0.75	5	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_14:scan:963	0.74	5	NoID
+0.02	mzspec:MSV000089558:I_C8-B7:scan:819	0.72	5	NoID
+0.0	mzspec:MSV000089558:Blank_Solvent_3:scan:1335	0.72	5	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_8:scan:955	0.72	5	NoID
+0.04	mzspec:MSV000089558:Blank_Solvent_7:scan:959	0.71	5	NoID

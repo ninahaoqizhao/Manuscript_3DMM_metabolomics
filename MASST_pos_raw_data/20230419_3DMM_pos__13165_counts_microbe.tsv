@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086107:VVP3-2_EtOh	-0.0	mzspec:MSV000086107:VVP3-2_EtOh:scan:2546	1	0.89	5	MSV000086107	NoID	MSV000086107/ccms_peak/VVP3-2_EtOh.mzML	MSV000086107/VVP3-2_EtOh.mzML	MSV000086107	Pseudomonas aeruginosa		287	automatic	No	No	No
+mzspec:MSV000089834:MS58_1_18	0.0	mzspec:MSV000089834:MS58_1_18:scan:5618	1	0.86	5	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2022/MS58_1_18.mzML	MSV000089834/MS58_1_18.mzML	MSV000089834	Algibacter lectus wadden sea isolate	Algibacter lectus	221126	manual	No	No	No
+mzspec:MSV000085071:P1_C8_GC8_01_52862	0.01	mzspec:MSV000085071:P1_C8_GC8_01_52862:scan:930	1	0.79	5	MSV000085071	NoID	MSV000085071/ccms_peak/Mushrooms_POS_P1_mzXML/P1_C8_GC8_01_52862.mzML	MSV000085071/P1_C8_GC8_01_52862.mzML	MSV000085071	Fungi		4751	automatic	No	No	No

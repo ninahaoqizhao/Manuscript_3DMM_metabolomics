@@ -1,0 +1,22 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000085713:hydroxyl_Solventblank_2:scan:11402	0.93	7	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1018_col1_02232016:scan:10718	0.92	6	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1018_col2_02232016:scan:11377	0.92	6	NoID
+0.0	mzspec:MSV000084116:GNPS_IIN_CoralReefSurvey_SIRIUS:scan:3891	0.92	6	NoID
+0.0	mzspec:MSV000084116:GNPS_IIN_CoralReefSurvey:scan:3891	0.92	6	NoID
+0.0	mzspec:MSV000080507:pos_Haweii_2016_100ml_28:scan:4107	0.92	6	NoID
+0.0	mzspec:MSV000082085:pos_Haweii_2016_100ml_28:scan:4107	0.92	6	NoID
+0.0	mzspec:MSV000084116:pos_Haweii_2016_100ml_28:scan:4107	0.92	6	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1016_col2_02232016:scan:11328	0.91	6	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_Solventblank_1:scan:10681	0.9	6	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1022_col2_02232016:scan:11450	0.9	6	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1029_col1_02232016:scan:10616	0.9	6	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-21:scan:5219	0.9	5	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_FC_col2_02232016:scan:11502	0.9	5	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-33_soak:scan:6046	0.9	5	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-33_soak:scan:6046	0.9	5	NoID
+-0.0	mzspec:MSV000085713:hydroxyl_1016_col1_02232016:scan:10832	0.89	5	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-16:scan:5237	0.89	5	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-24:scan:5226	0.89	5	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_4-9:scan:5220	0.87	5	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-5:scan:5338	0.83	5	NoID

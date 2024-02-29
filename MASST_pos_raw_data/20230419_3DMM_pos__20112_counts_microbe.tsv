@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:12	0.0	mzspec:MSV000083835:12:scan:6130	1	0.81	5	MSV000083835	NoID	MSV000083835/peak/MeOH_High_res_mzML/12.mzML	MSV000083835/12.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:12 Control TSB meth-pos	0.0	mzspec:MSV000083835:12 Control TSB meth-pos:scan:6130	1	0.81	5	MSV000083835	NoID	MSV000083835/updates/2019-05-21_lfnothias_ad043d61/peak/Methanol/Control/12 Control TSB meth-pos.mzXML	MSV000083835/12 Control TSB meth-pos.mzXML	MSV000083835	Streptomyces		qc	automatic	No	No	Yes
+mzspec:MSV000080559:O_1	0.0	mzspec:MSV000080559:O_1:scan:2428	1	0.78	6	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_1.mzXML	MSV000080559/O_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000088827:Blank1	0.01	mzspec:MSV000088827:Blank1:scan:4294967295	1	0.78	5	MSV000088827	NoID	MSV000088827/peak/Blank1.mzML	MSV000088827/Blank1.mzML	MSV000088827	Tolypocladium species	Tolypocladium	blank	maual	No	Yes	No

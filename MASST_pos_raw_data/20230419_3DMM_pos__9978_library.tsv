@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009931644	CCMSLIB00009931644	0.75	7	Suspect related to 13-Keto-9Z,11E-octadecadienoic acid (predicted molecular formula: C21H36O5) with delta m/z 74.035 (putative explanation: unspecified|unspecified; atomic difference: 1C,4H,3N,1O|3C,6H,2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009940298	CCMSLIB00009940298	0.73	6	Suspect related to 9(10)-Epoxy-12Z-octadecenoic acid (predicted molecular formula: C21H38O6) with delta m/z 90.031 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

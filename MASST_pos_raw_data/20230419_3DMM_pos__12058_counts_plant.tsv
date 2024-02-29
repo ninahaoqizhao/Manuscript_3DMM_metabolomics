@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085119:P5_B1_GB1_01_53939	0.02	mzspec:MSV000085119:P5_B1_GB1_01_53939:scan:912	1	0.85	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate5_POS/P5_B1_GB1_01_53939.mzML	MSV000085119/P5_B1_GB1_01_53939.mzML	MSV000085119	Heteropterys leona	176641	Yes	No	No
+mzspec:MSV000085119:P2_B1_BB1_01_53659	0.01	mzspec:MSV000085119:P2_B1_BB1_01_53659:scan:881	1	0.82	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate2_POS/P2_B1_BB1_01_53659.mzML	MSV000085119/P2_B1_BB1_01_53659.mzML	MSV000085119	Heteropterys leona	176641	Yes	No	No

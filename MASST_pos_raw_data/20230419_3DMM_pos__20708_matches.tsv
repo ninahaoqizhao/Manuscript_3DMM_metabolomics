@@ -1,0 +1,20 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.04	mzspec:MSV000087995:DOM_Interlab-LCMS_Lab018_A15M_Pos_MS2_rep2:scan:6456	0.74	8	NoID
+-0.04	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab018_A5M_Pos_MS2_rep1:scan:6388	0.74	8	NoID
+-0.04	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab018_A15M_Pos_MS2_rep2:scan:6456	0.74	8	NoID
+-0.04	mzspec:MSV000087995:DOM_Interlab-LCMS_Lab018_A5M_Pos_MS2_rep1:scan:6388	0.74	8	NoID
+-0.03	mzspec:MSV000079034:150116_EF_PMA_PSN475_NC-30-22-f_ddMS2_pos:scan:4984	0.74	7	NoID
+-0.04	mzspec:MSV000086236:CCE2020_SC_44:scan:3447	0.73	7	NoID
+0.01	mzspec:MSV000083523:1606-3610_seed_1_5_days_inicio_raiz:scan:2551	0.72	9	NoID
+0.01	mzspec:MSV000082380:1606-3610_seed_1_5_days_inicio_raiz:scan:2551	0.72	9	NoID
+-0.04	mzspec:MSV000085480:ENTP_32:scan:3276	0.72	8	NoID
+-0.04	mzspec:MSV000085025:Xeno_1ng_pH2_1:scan:3380	0.72	7	NoID
+-0.0	mzspec:MSV000089558:ME_C10-E17:scan:2414	0.72	7	NoID
+-0.04	mzspec:MSV000088040:Bacteroides_dorei_DSM_17855_CO-3:scan:1973	0.72	6	NoID
+0.0	mzspec:MSV000082633:C1C10Res_pos_2:scan:2932	0.71	8	NoID
+0.0	mzspec:MSV000082633:P1B10Res_pos_2:scan:3137	0.71	8	NoID
+-0.04	mzspec:MSV000084314:MSV000088823:scan:721181	0.71	7	NoID
+-0.04	mzspec:MSV000085025:Xeno_10ng_2:scan:3304	0.71	7	NoID
+-0.0	mzspec:MSV000088040:Bacteroides_massiliensis_DSM_17679_CO-2:scan:1996	0.71	6	NoID
+-0.04	mzspec:MSV000088040:Bacteroides_uniformis_AO9_CO-2:scan:2222	0.71	6	NoID
+-0.04	mzspec:MSV000085025:Xeno_10ng_1:scan:3401	0.7	7	NoID

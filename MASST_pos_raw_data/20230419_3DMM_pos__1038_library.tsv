@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010000921	CCMSLIB00010000921	0.83	5	Suspect related to Sucrose (predicted molecular formula: C12H20O10) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009945349	CCMSLIB00009945349	0.71	6	Suspect related to D-Fructose (predicted molecular formula: unknown) with delta m/z 127.016 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009978491	CCMSLIB00009978491	0.71	6	Suspect related to Palatinose (predicted molecular formula: C13H20N4O8) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)	[M-3H2O+H]+	1

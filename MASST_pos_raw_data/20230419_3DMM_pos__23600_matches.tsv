@@ -1,0 +1,13 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.03	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_T00_NoBileSalts:scan:2725	0.79	5	NoID
+-0.03	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_20210802054840:scan:2729	0.78	5	NoID
+-0.04	mzspec:MSV000088570:MRS_medium_blank_T72_BileSaltsAdded:scan:2738	0.78	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_T00_NoBileSalts:scan:2722	0.78	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_gasseri_MV-22_20210802053743:scan:2720	0.77	5	NoID
+-0.03	mzspec:MSV000088570:MRS_medium_blank:scan:2733	0.77	5	NoID
+-0.04	mzspec:MSV000078670:EH_11092013_Ento_Sponge:scan:4061	0.75	5	NoID
+-0.04	mzspec:MSV000078667:EH_11092013_Ento_Sponge:scan:4061	0.75	5	NoID
+-0.03	mzspec:MSV000088570:MRS_medium_blank_T72_NoBileSalts:scan:2723	0.75	5	NoID
+-0.04	mzspec:MSV000079709:group1_P1_D10:scan:2562	0.74	6	NoID
+-0.04	mzspec:MSV000079697:group1_P1_D10:scan:2562	0.74	6	NoID
+-0.03	mzspec:MSV000088570:Lactobacillus_gasseri_MV-22_T72_NoBileSalts:scan:2723	0.73	5	NoID

@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010002041	CCMSLIB00010002041	0.78	7	Suspect related to Tricaprylin  (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009948679	CCMSLIB00009948679	0.74	5	Suspect related to Glyceryl trioctanoate (predicted molecular formula: unknown) with delta m/z 28.021 (putative explanation: unspecified; atomic difference: unspecified)	[M+NH4]+	1

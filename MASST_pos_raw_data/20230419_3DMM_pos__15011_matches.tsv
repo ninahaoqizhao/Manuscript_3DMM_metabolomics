@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000088137:BLANK1_1G:scan:1689	0.94	8	NoID
+0.0	mzspec:MSV000084116:pos_Haweii_2016_DOM_18:scan:4041	0.8	6	NoID
+0.0	mzspec:MSV000080507:pos_Haweii_2016_DOM_18:scan:4041	0.8	6	NoID
+0.0	mzspec:MSV000082085:pos_Haweii_2016_DOM_18:scan:4041	0.8	6	NoID
+0.0	mzspec:MSV000082085:pos_Haweii_2016_100ml_19:scan:3980	0.78	6	NoID
+0.0	mzspec:MSV000080507:pos_Haweii_2016_100ml_19:scan:3980	0.76	6	NoID
+0.0	mzspec:MSV000084116:pos_Haweii_2016_100ml_19:scan:3980	0.76	6	NoID

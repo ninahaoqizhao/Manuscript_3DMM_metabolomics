@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085018:Streptomyces_SW4_R4_GD8_01_38296	0.04	mzspec:MSV000085018:Streptomyces_SW4_R4_GD8_01_38296:scan:2757	1	0.8	5	MSV000085018	NoID	MSV000085018/ccms_peak/Streptomyces_SW4_R4_GD8_01_38296.mzML	MSV000085018/Streptomyces_SW4_R4_GD8_01_38296.mzML	MSV000085018	Bacteria		2	automatic	No	No	No

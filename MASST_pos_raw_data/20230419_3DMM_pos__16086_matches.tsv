@@ -1,0 +1,10 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000080016:SC_healthy_G01:scan:2141	0.72	7	NoID
+0.0	mzspec:MSV000083320:99890:scan:2353	0.72	7	NoID
+0.0	mzspec:MSV000079710:group1_P2_A8:scan:2149	0.71	7	NoID
+0.0	mzspec:MSV000079697:group1_P2_A8:scan:2149	0.71	7	NoID
+0.0	mzspec:MSV000085858:28_2_scab_M_SAMPLE_WT_OBA_14_C4:scan:2425	0.71	6	NoID
+0.0	mzspec:MSV000084595:28_2_scab_M_SAMPLE_WT_OBA_14_C4:scan:2425	0.71	6	NoID
+0.0	mzspec:MSV000084595:29_2_scab_M_SAMPLE_KO_OBA_14_C5:scan:2411	0.7	6	NoID
+-0.0	mzspec:MSV000079714:group4_P2_A6:scan:1996	0.7	6	NoID
+-0.0	mzspec:MSV000079697:group4_P2_A6:scan:1996	0.7	6	NoID

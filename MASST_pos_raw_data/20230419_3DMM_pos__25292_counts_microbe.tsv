@@ -1,0 +1,7 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:H_4	0.0	mzspec:MSV000080559:H_4:scan:2857	1	0.9	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_4.mzXML	MSV000080559/H_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:I_2	0.0	mzspec:MSV000080559:I_2:scan:2863	1	0.88	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_2.mzXML	MSV000080559/I_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:J_2	0.0	mzspec:MSV000080559:J_2:scan:2809	1	0.84	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/J_2.mzXML	MSV000080559/J_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:I_4	0.0	mzspec:MSV000080559:I_4:scan:2798	1	0.84	10	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_4.mzXML	MSV000080559/I_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000088332:190225_AR_BS_17_Pos	-0.0	mzspec:MSV000088332:190225_AR_BS_17_Pos:scan:3468	1	0.75	9	MSV000088332	NoID	MSV000088332/peak/Converted/Converted neg/190225_AR_BS_17_Pos.mzXML	MSV000088332/190225_AR_BS_17_Pos.mzXML	MSV000088332	Cortinarius trivialis		86074	automatic	No	No	No
+mzspec:MSV000080559:H_2	0.0	mzspec:MSV000080559:H_2:scan:2818	1	0.74	9	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_2.mzXML	MSV000080559/H_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

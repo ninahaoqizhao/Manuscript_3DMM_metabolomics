@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087130:PLT1_E12	-0.0	mzspec:MSV000087130:PLT1_E12:scan:3699	6	0.9	11	MSV000087130	NoID	MSV000087130/ccms_peak/Bt_raw/PLT1_E12.mzML	MSV000087130/PLT1_E12.mzML	MSV000087130	Bacteroides thetaiotaomicron		818	automatic	No	No	No

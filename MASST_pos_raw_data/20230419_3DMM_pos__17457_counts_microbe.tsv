@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086666:01003-88-23	0.0	mzspec:MSV000086666:01003-88-23:scan:2230	1	0.85	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-23.mzML	MSV000086666/01003-88-23.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000088745:127_3_Ppisc_LYO_55_P1-A-4_01_12081	0.0	mzspec:MSV000088745:127_3_Ppisc_LYO_55_P1-A-4_01_12081:scan:4236	1	0.85	5	MSV000088745	NoID	MSV000088745/ccms_peak/127_3_Ppisc_LYO_55_P1-A-4_01_12081.mzML	MSV000088745/127_3_Ppisc_LYO_55_P1-A-4_01_12081.mzML	MSV000088745	Bacteria		2	automatic	No	No	No
+mzspec:MSV000079820:Rothia_4	-0.04	mzspec:MSV000079820:Rothia_4:scan:1554	1	0.71	5	MSV000079820	NoID	MSV000079820/ccms_peak/Rothia_4.mzXML	MSV000079820/Rothia_4.mzXML	MSV000079820	Rothia sp.		1885016	automatic	No	No	No

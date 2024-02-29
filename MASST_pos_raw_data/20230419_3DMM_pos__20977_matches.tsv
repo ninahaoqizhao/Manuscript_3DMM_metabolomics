@@ -1,0 +1,37 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000083475:2D6_4_47_rohwer-85-s022-a04:scan:2181	0.99	5	NoID
+0.0	mzspec:MSV000083475:P9_Qcmix_end:scan:2191	0.99	5	NoID
+0.0	mzspec:MSV000087728:VGF140_F07_pos:scan:3146	0.99	5	NoID
+-0.0	mzspec:MSV000085944:skin_11_480_FH:scan:2573	0.98	5	NoID
+0.0	mzspec:MSV000083475:P5_Qcmix_middle:scan:2452	0.98	5	NoID
+-0.0	mzspec:MSV000088842:14A:scan:2551	0.98	5	NoID
+-0.0	mzspec:MSV000085944:skin_11_30_FH:scan:2593	0.98	5	NoID
+0.0	mzspec:MSV000083475:P9_Qcmix_begin:scan:2213	0.98	5	NoID
+0.0	mzspec:MSV000085944:skin_11_600_UB:scan:2558	0.98	5	NoID
+-0.0	mzspec:MSV000085944:skin_11_480_UB:scan:2577	0.98	5	NoID
+0.0	mzspec:MSV000085944:skin_11_0_OF:scan:2573	0.98	5	NoID
+-0.0	mzspec:MSV000085944:skin_11_1440_FH:scan:2567	0.98	5	NoID
+0.0	mzspec:MSV000085944:skin_11_30_OF:scan:2577	0.97	5	NoID
+0.0	mzspec:MSV000087885:PooledSample_exo_pos_II_MSMS:scan:6585	0.97	5	NoID
+0.0	mzspec:MSV000088842:14B:scan:2550	0.97	5	NoID
+-0.0	mzspec:MSV000087728:VGF140_F04_pos:scan:3140	0.97	5	NoID
+0.0	mzspec:MSV000083475:P8_Qcmix_middle:scan:2270	0.97	5	NoID
+0.0	mzspec:MSV000087885:PooledSample_exo_pos_I_MSMS:scan:6511	0.97	5	NoID
+0.0	mzspec:MSV000085944:skin_03_60_UB:scan:2570	0.96	5	NoID
+0.0	mzspec:MSV000088842:35C:scan:2560	0.96	5	NoID
+0.0	mzspec:MSV000085944:skin_11_1440_UB:scan:2586	0.96	5	NoID
+0.0	mzspec:MSV000086293:pos n2 exo ms2 top5:scan:7434	0.96	5	NoID
+-0.0	mzspec:MSV000083475:3B3_6_10_tucker-58-s002-a04:scan:1391	0.96	5	NoID
+0.0	mzspec:MSV000085944:skin_03_1440_OF:scan:2561	0.95	5	NoID
+0.0	mzspec:MSV000083475:P8_Qcmix_end:scan:2186	0.95	5	NoID
+0.0	mzspec:MSV000085944:skin_02_1440_OF:scan:2543	0.95	5	NoID
+0.0	mzspec:MSV000085944:skin_11_120_OF:scan:2574	0.95	5	NoID
+0.0	mzspec:MSV000085944:skin_11_720_UB:scan:2577	0.94	5	NoID
+-0.0	mzspec:MSV000088842:26C:scan:2553	0.93	5	NoID
+-0.0	mzspec:MSV000088842:14D:scan:2549	0.93	5	NoID
+0.0	mzspec:MSV000085944:skin_03_0_UB:scan:2585	0.92	5	NoID
+0.0	mzspec:MSV000088842:43D:scan:2555	0.91	5	NoID
+0.0	mzspec:MSV000088842:20B:scan:2558	0.91	5	NoID
+-0.0	mzspec:MSV000088842:8D:scan:2496	0.88	5	NoID
+-0.0	mzspec:MSV000088842:8B:scan:2507	0.8	5	NoID
+0.0	mzspec:MSV000085261:Dwa41.01-SCA:scan:4294967295	0.7	5	NoID

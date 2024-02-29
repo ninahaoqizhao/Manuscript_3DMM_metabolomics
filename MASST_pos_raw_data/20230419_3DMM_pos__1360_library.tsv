@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010006216	CCMSLIB00010006216	0.8	5	Suspect related to phenylacetylglutamine (predicted molecular formula: C12H20N2O4) with delta m/z -7.968 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010012991	CCMSLIB00010012991	0.8	5	Putative Lys-C7:1	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009979419	CCMSLIB00009979419	0.8	5	Suspect related to Phenylacetyl-L-glutamine (predicted molecular formula: C12H20N2O4) with delta m/z -7.968 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

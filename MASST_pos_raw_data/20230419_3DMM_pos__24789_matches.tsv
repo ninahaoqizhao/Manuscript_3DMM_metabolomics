@@ -1,0 +1,50 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000082953:P2_C10:scan:4040	0.94	9	NoID
+0.0	mzspec:MSV000081492:dhmc_9_10:scan:3709	0.94	9	NoID
+-0.0	mzspec:MSV000082953:P4_D5:scan:4227	0.94	9	NoID
+0.0	mzspec:MSV000082953:P2_A4:scan:4031	0.94	9	NoID
+-0.0	mzspec:MSV000082647:Wash_01:scan:1295	0.94	8	NoID
+0.0	mzspec:MSV000082953:P4_D11:scan:4090	0.93	9	NoID
+0.0	mzspec:MSV000082953:MzMine_Export_MS2Filtered_forGNPS:scan:20144	0.93	9	NoID
+0.0	mzspec:MSV000081949:Dilution_test_1:scan:3774	0.93	8	NoID
+0.0	mzspec:MSV000082953:P2_D10:scan:4077	0.92	8	NoID
+-0.0	mzspec:MSV000081949:jb418_alone_rep_1:scan:3799	0.91	7	NoID
+-0.0	mzspec:MSV000081492:72849:scan:3561	0.9	7	NoID
+-0.0	mzspec:MSV000081492:dhmc_7_1:scan:3777	0.9	5	NoID
+-0.0	mzspec:MSV000082953:P5_B6:scan:4186	0.89	8	NoID
+0.0	mzspec:MSV000082953:P2_A5:scan:4088	0.88	8	NoID
+0.0	mzspec:MSV000081492:72847:scan:3656	0.87	6	NoID
+-0.0	mzspec:MSV000081492:QC_01:scan:3713	0.85	7	NoID
+0.0	mzspec:MSV000089061:Soil_F5F_pos:scan:5795	0.85	5	NoID
+0.0	mzspec:MSV000089061:Soil_F5_pos:scan:5652	0.84	5	NoID
+0.0	mzspec:MSV000081470:G. gladius 2_20:scan:22674	0.84	5	NoID
+0.0	mzspec:MSV000081351:38755:scan:3815	0.83	5	NoID
+-0.0	mzspec:MSV000087127:20170728_KBL_PZ-KM_Root_SMs__QE139-UV_C18_102_POS-MSMS_C_Root-Exudate-Control_B_EthAce__205060eV_80to1200_S1_Run78:scan:3131	0.82	6	NoID
+0.0	mzspec:MSV000081949:e_coli_sam_rep_1:scan:3893	0.82	6	NoID
+-0.0	mzspec:MSV000087127:20170728_KBL_PZ-KM_Root_SMs__QE139-UV_C18_102_POS-MSMS_S_Root-Exudate-Sample_B_EthAce__205060eV_80to1200_S1_Run75:scan:3194	0.82	6	NoID
+0.0	mzspec:MSV000082953:P4_D9:scan:4157	0.81	6	NoID
+-0.0	mzspec:MSV000081470:B. childressi 2_14:scan:22668	0.81	5	NoID
+0.0	mzspec:MSV000082953:P5_C11:scan:4120	0.8	5	NoID
+0.0	mzspec:MSV000082953:P2_C9:scan:4265	0.8	5	NoID
+-0.0	mzspec:MSV000088535:17-20_BHI_x2:scan:3581	0.78	5	NoID
+0.0	mzspec:MSV000081470:B. puteoserpentis 1_17:scan:21914	0.78	5	NoID
+0.0	mzspec:MSV000081470:B. puteoserpentis 2_05:scan:22668	0.78	5	NoID
+-0.0	mzspec:MSV000087127:20170728_KBL_PZ-KM_Root_SMs__QE139-UV_C18_102_POS-MSMS_S_Root-Exudate-Sample_A_EthAce__102040eV_80to1200_S1_Run72:scan:3192	0.77	7	NoID
+0.0	mzspec:MSV000081470:V. insolatus 1_19:scan:22682	0.77	5	NoID
+0.0	mzspec:MSV000081470:B. gladius 3_09:scan:22669	0.77	5	NoID
+0.0	mzspec:MSV000081470:B. azoricus 1_12:scan:21965	0.77	5	NoID
+0.0	mzspec:MSV000081470:B. brooksi 2_22:scan:21868	0.77	5	NoID
+0.0	mzspec:MSV000081949:e_coli_pen12_rep_1:scan:3928	0.76	6	NoID
+-0.0	mzspec:MSV000087127:20170728_KBL_PZ-KM_Root_SMs__QE139-UV_C18_102_POS-MSMS_C_Root-Exudate-Control_A_EthAce__102040eV_80to1200_S1_Run69:scan:3111	0.75	6	NoID
+0.0	mzspec:MSV000089061:Soil_F4_pos:scan:5686	0.75	5	NoID
+0.0	mzspec:MSV000089313:14HM226:scan:2744	0.75	5	NoID
+-0.0	mzspec:MSV000087449:18-SPE-38C:scan:4294967295	0.74	5	NoID
+0.0	mzspec:MSV000081470:B. childressi 3_07:scan:21906	0.74	5	NoID
+0.04	mzspec:MSV000082953:P5_D11:scan:4056	0.73	5	NoID
+0.0	mzspec:MSV000081470:V. insolatus 3_15:scan:21872	0.73	5	NoID
+0.0	mzspec:MSV000081492:QC_01_170626113747:scan:3685	0.73	5	NoID
+-0.0	mzspec:MSV000081949:jb418_rs17_rep_1:scan:3888	0.73	5	NoID
+0.0	mzspec:MSV000082953:P4_D4:scan:4615	0.73	5	NoID
+0.0	mzspec:MSV000081470:G. gladius 4_24:scan:21953	0.71	5	NoID
+-0.0	mzspec:MSV000081949:e_coli_rs17_rep_1:scan:4010	0.71	5	NoID
+-0.0	mzspec:MSV000081949:e_coli_sam_rep_3:scan:3907	0.7	5	NoID

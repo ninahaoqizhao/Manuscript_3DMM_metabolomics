@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085417:TE3796_PDB	-0.0	mzspec:MSV000085417:TE3796_PDB:scan:1467	1	0.72	5	MSV000085417	NoID	MSV000085417/ccms_peak/TE31/TE3796_PDB.mzML	MSV000085417/TE3796_PDB.mzML	MSV000085417	Bacteria		2	automatic	No	No	No

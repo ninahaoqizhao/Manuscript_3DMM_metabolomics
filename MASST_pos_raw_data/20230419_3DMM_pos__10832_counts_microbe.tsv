@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082377:SPE80	0.03	mzspec:MSV000082377:SPE80:scan:1778	7	0.91	11	MSV000082377	NoID	MSV000082377/ccms_peak/180517_raw/SPE80.mzML	MSV000082377/SPE80.mzML	MSV000082377	Pseudomonas		286	automatic	No	No	No

@@ -1,0 +1,11 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000080627:ONR_Stool_23:scan:1083	0.85	6	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_13:scan:1086	0.85	5	NoID
+0.01	mzspec:MSV000080627:ONR_Stool_21:scan:1083	0.82	5	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_36:scan:1076	0.81	5	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_35:scan:1086	0.77	6	NoID
+-0.0	mzspec:MSV000083559:11713.9.O.9C:scan:955	0.74	5	NoID
+-0.01	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-17_soak:scan:4493	0.73	5	NoID
+-0.01	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-17_soak:scan:4493	0.73	5	NoID
+0.0	mzspec:MSV000079697:group1_P1_A5:scan:1099	0.71	5	NoID
+0.0	mzspec:MSV000079710:group1_P1_A5:scan:1099	0.71	5	NoID

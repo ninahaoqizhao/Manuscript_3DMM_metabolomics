@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082402:1606_72h_2	-0.01	mzspec:MSV000082402:1606_72h_2:scan:1493	4	0.9	11	MSV000082402	NoID	MSV000082402/ccms_peak/raw/1606_72h_2.mzML	MSV000082402/1606_72h_2.mzML	MSV000082402	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082379:1606_72h_2	-0.01	mzspec:MSV000082379:1606_72h_2:scan:1493	4	0.9	11	MSV000082379	NoID	MSV000082379/ccms_peak/raw/1606_72h_2.mzML	MSV000082379/1606_72h_2.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000083383:QC_3	0.0	mzspec:MSV000083383:QC_3:scan:1652	4	0.86	11	MSV000083383	NoID	MSV000083383/ccms_peak/Blanks_QC_wash/QC_3.mzML	MSV000083383/QC_3.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes
+mzspec:MSV000082402:T6SS_LB_96h_03	-0.01	mzspec:MSV000082402:T6SS_LB_96h_03:scan:1507	4	0.75	7	MSV000082402	NoID	MSV000082402/ccms_peak/raw/T6SS_LB_96h_03.mzML	MSV000082402/T6SS_LB_96h_03.mzML	MSV000082402	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082379:T6SS_LB_96h_03	-0.01	mzspec:MSV000082379:T6SS_LB_96h_03:scan:1507	4	0.75	7	MSV000082379	NoID	MSV000082379/ccms_peak/raw/T6SS_LB_96h_03.mzML	MSV000082379/T6SS_LB_96h_03.mzML	MSV000082379	Bacteria		2	automatic	No	No	No

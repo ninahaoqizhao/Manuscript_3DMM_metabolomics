@@ -1,0 +1,5 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000082953:P4_C2:scan:4465	0.91	5	NoID
+0.0	mzspec:MSV000089061:Soil_F4_pos:scan:6244	0.87	5	NoID
+0.0	mzspec:MSV000089061:Soil_F1_pos:scan:5444	0.76	5	NoID
+-0.0	mzspec:MSV000081741:poolFin_Top5MSMS:scan:6769	0.73	5	NoID

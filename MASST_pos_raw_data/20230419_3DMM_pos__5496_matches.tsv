@@ -1,0 +1,10 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000082433:M-435:scan:1159	0.99	7	NoID
+-0.0	mzspec:MSV000085467:180821_PMA_JM_030:scan:939	0.98	6	NoID
+0.0	mzspec:MSV000082380:Pect_seed_2_5_days_inicio_raiz:scan:1186	0.88	5	NoID
+0.0	mzspec:MSV000082380:Pect_seed_1_5_days_inicio_raiz:scan:1191	0.88	5	NoID
+0.0	mzspec:MSV000082380:1606-3610_seed_1_5_days_inicio_raiz:scan:1224	0.87	5	NoID
+0.0	mzspec:MSV000082380:1606-FZB42_seed_4_5_days_inicio_raiz:scan:1181	0.87	5	NoID
+0.0	mzspec:MSV000083523:1606-3610_seed_1_5_days_inicio_raiz:scan:1224	0.87	5	NoID
+0.0	mzspec:MSV000083523:1606-FZB42_seed_4_5_days_inicio_raiz:scan:1181	0.87	5	NoID
+-0.03	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-9:scan:4793	0.73	5	NoID

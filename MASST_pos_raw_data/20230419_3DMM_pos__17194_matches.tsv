@@ -1,0 +1,11 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000083541:S1_blank_50MeOH:scan:2333	0.78	11	NoID
+0.0	mzspec:MSV000083541:Swab_compatability_study_20190426_GNPS:scan:4679	0.78	11	NoID
+0.0	mzspec:MSV000083541:S1_blank_90MeOH:scan:2349	0.76	10	NoID
+-0.0	mzspec:MSV000083541:Swab_compatability_study_20190426_sirius:scan:48571	0.74	10	NoID
+-0.0	mzspec:MSV000083541:S1_blank_50EtOH:scan:2329	0.73	10	NoID
+-0.03	mzspec:MSV000081351:38848:scan:2885	0.73	10	NoID
+-0.0	mzspec:MSV000083541:S1_blank_100H2O_171005225338:scan:2356	0.72	10	NoID
+0.0	mzspec:MSV000079773:D05_Swab_2013_016_8_C:scan:2232	0.71	11	NoID
+0.01	mzspec:MSV000083541:S1_blank_90EtOH_171006013450:scan:2363	0.71	10	NoID
+0.0	mzspec:MSV000083541:S1_50MeOH:scan:2371	0.7	10	NoID

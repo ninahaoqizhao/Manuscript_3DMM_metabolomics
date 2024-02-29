@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086956:PLT3_F7	0.05	mzspec:MSV000086956:PLT3_F7:scan:630	1	0.72	5	MSV000086956	NoID	MSV000086956/ccms_peak/Pf_Raw/PLT3_F7.mzML	MSV000086956/PLT3_F7.mzML	MSV000086956	Pseudomonas fragi		296	automatic	No	No	No

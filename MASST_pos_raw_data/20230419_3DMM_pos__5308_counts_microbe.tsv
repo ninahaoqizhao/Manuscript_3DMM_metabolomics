@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P1_C4_GC4_01_52858	0.01	mzspec:MSV000085071:P1_C4_GC4_01_52858:scan:675	1	0.88	6	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P1_mzXML/P1_C4_GC4_01_52858.mzXML	MSV000085071/P1_C4_GC4_01_52858.mzXML	MSV000085071	Bolbitius titubans		1276655	automatic	Yes	No	No

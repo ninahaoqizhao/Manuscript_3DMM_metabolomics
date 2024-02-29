@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088196:P1R2C9	-0.0	mzspec:MSV000088196:P1R2C9:scan:889	1	0.79	8	MSV000088196	NoID	MSV000088196/ccms_peak/ORNL R2 Raw/P1R2C9.mzML	MSV000088196/P1R2C9.mzML	MSV000088196	Rhodococcus sp. OK551		2135730	automatic	Yes	No	No
+mzspec:MSV000088196:P1R3F4	-0.0	mzspec:MSV000088196:P1R3F4:scan:913	1	0.77	8	MSV000088196	NoID	MSV000088196/updates/2021-10-07_amcaraballor_edffce1d/peak/ORNL R3 mzML/P1R3F4.mzML	MSV000088196/P1R3F4.mzML	MSV000088196	Pseudomonas sp. GM78		1144337	automatic	Yes	No	No

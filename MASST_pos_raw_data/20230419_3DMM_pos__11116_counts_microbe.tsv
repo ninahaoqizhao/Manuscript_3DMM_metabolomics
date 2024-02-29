@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088697:08_Tolypothrix_tenius_SPE	0.0	mzspec:MSV000088697:08_Tolypothrix_tenius_SPE:scan:4045	1	0.77	5	MSV000088697	NoID	MSV000088697/peak/mzML/dda_msms_mzml/08_Tolypothrix_tenius_SPE.mzML	MSV000088697/08_Tolypothrix_tenius_SPE.mzML	MSV000088697	Tolypothrix tenius SAG 94.79		1521527	automatic	No	No	No
+mzspec:MSV000083835:30	-0.01	mzspec:MSV000083835:30:scan:3528	1	0.72	5	MSV000083835	NoID	MSV000083835/peak/MeOH_Neg_mzML/30.mzML	MSV000083835/30.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No

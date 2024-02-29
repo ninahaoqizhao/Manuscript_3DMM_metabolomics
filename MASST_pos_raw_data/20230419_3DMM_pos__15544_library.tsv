@@ -1,0 +1,9 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138638	CCMSLIB00003138638	1.0	6	Spectral Match to 2,4,6-Triallyloxy-1,3,5-triazine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005763752	CCMSLIB00005763752	0.99	6	Massbank:LU040702 2,4,6-Tris(allyloxy)-1,3,5-triazine|Triallyl cyanurate|2,4,6-tris(prop-2-enoxy)-1,3,5-triazine	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010114794	CCMSLIB00010114794	0.99	6	"""1,3,5-triprop-2-enyl-1,3,5-triazaperhydroine-2,4,6-trione CollisionEnergy:205060"""	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005762706	CCMSLIB00005762706	0.94	6	Massbank:LU040701 2,4,6-Tris(allyloxy)-1,3,5-triazine|Triallyl cyanurate|2,4,6-tris(prop-2-enoxy)-1,3,5-triazine	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010103456	CCMSLIB00010103456	0.94	5	"""1,3,5-triprop-2-enyl-1,3,5-triazaperhydroine-2,4,6-trione CollisionEnergy:102040"""	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135080	CCMSLIB00003135080	0.94	5	Spectral Match to 2,4,6-Triallyloxy-1,3,5-triazine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139107	CCMSLIB00003139107	0.94	5	Spectral Match to 2,4,6-Triallyloxy-1,3,5-triazine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139380	CCMSLIB00003139380	0.93	5	Spectral Match to 2,4,6-Triallyloxy-1,3,5-triazine from NIST14	M+H	1

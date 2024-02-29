@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952692	CCMSLIB00009952692	0.97	5	Suspect related to Massbank: Lauramidopropyl betaine|3-(Dodecanoylamino)propyl(carboxymethyl)dimethylammonium|carboxymethyl-[3-(dodecanoylamino)propyl]-dimethylazanium (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)	unknown	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726201	CCMSLIB00005726201	0.88	5	Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium	M	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726278	CCMSLIB00005726278	0.82	5	Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium	M	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726266	CCMSLIB00005726266	0.76	5	Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium	M	1

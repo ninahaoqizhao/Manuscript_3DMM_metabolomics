@@ -1,0 +1,6 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009942620	CCMSLIB00009942620	0.98	8	Suspect related to Asperphenamate analogue phenylalanine to tyrosine substitution (predicted molecular formula: C22H26N12O3) with delta m/z -15.995 (putative explanation: Ser->Ala substitution|Tyr->Phe substitution|reduction; atomic difference: -1O|-1O|-1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009949533	CCMSLIB00009949533	0.92	7	Suspect related to Hypothallin (predicted molecular formula: C24H34N4O6S) with delta m/z 33.985 (putative explanation: Leu/Ile->Phe substitution; atomic difference: 3C,-2H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000478524	CCMSLIB00000478524	0.89	6	Asperphenamate_130119	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000478094	CCMSLIB00000478094	0.89	6	Asperphenamate_120258	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006392376	CCMSLIB00006392376	0.87	5	(S,S)-asperphenamate	[M+H]+	1

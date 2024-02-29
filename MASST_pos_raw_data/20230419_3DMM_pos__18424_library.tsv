@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009936073	CCMSLIB00009936073	0.9	8	Suspect related to 3,6,9,12,15-Pentaoxanonacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -72.057 (putative explanation: nan (reverse); atomic difference: -2C,-6H,-3N)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009936056	CCMSLIB00009936056	0.88	7	Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -44.026 (putative explanation: Dealkoxylation, dehydroxyethylation|Thr->Gly substitution; atomic difference: -1C,-2H,-1O|-2C,-4H,-1O)	[M+NH4]+	1

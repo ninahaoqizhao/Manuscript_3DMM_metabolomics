@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086428:PLT2_A1_GA1_01_59845	-0.02	mzspec:MSV000086428:PLT2_A1_GA1_01_59845:scan:985	1	0.89	5	MSV000086428	NoID	MSV000086428/ccms_peak/Plate2_mzXML/PLT2_A1_GA1_01_59845.mzML	MSV000086428/PLT2_A1_GA1_01_59845.mzML	MSV000086428	Bacteria		2	automatic	No	No	No

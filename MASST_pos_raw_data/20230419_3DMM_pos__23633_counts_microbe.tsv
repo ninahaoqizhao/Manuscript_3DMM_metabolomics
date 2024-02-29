@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:H_1	-0.0	mzspec:MSV000080559:H_1:scan:2771	2	0.82	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_1.mzXML	MSV000080559/H_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:L_3	-0.0	mzspec:MSV000080559:L_3:scan:2948	2	0.79	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/L_3.mzXML	MSV000080559/L_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:I_1	0.01	mzspec:MSV000080559:I_1:scan:2878	2	0.79	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_1.mzXML	MSV000080559/I_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:O_3	0.01	mzspec:MSV000080559:O_3:scan:2848	2	0.78	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_3.mzXML	MSV000080559/O_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:N_3	0.01	mzspec:MSV000080559:N_3:scan:2893	2	0.77	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/N_3.mzXML	MSV000080559/N_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

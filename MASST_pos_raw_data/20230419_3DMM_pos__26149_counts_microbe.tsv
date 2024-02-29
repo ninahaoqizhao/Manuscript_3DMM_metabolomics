@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:80	0.0	mzspec:MSV000083835:80:scan:2831	3	0.76	7	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/80.mzML	MSV000083835/80.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:22 Control SA EthAc-pos	0.0	mzspec:MSV000083835:22 Control SA EthAc-pos:scan:2846	3	0.75	7	MSV000083835	NoID	MSV000083835/updates/2019-05-21_lfnothias_ad043d61/peak/Ethyl Acetate/Control/22 Control SA EthAc-pos.mzXML	MSV000083835/22 Control SA EthAc-pos.mzXML	MSV000083835	Streptomyces		qc	automatic	No	No	Yes
+mzspec:MSV000083835:22	0.0	mzspec:MSV000083835:22:scan:2846	3	0.75	7	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/22.mzML	MSV000083835/22.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000088770:SF-II-002-E17175_B	0.0	mzspec:MSV000088770:SF-II-002-E17175_B:scan:2607	3	0.72	6	MSV000088770	NoID	MSV000088770/peak/LEGE12446/SF-II-002-E17175_B.mzML	MSV000088770/SF-II-002-E17175_B.mzML	MSV000088770	Cyanobacteria		1117	automatic	No	No	No

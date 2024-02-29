@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_1_b	0.02	mzspec:MSV000082999:Isa_1_b:scan:1795	1	0.71	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_1_b.mzML	MSV000082999/Isa_1_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000087130:PLT4_B7	-0.0	mzspec:MSV000087130:PLT4_B7:scan:5485	1	0.71	7	MSV000087130	NoID	MSV000087130/ccms_peak/Bt_raw/PLT4_B7.mzML	MSV000087130/PLT4_B7.mzML	MSV000087130	Bacteroides thetaiotaomicron		818	automatic	No	No	No

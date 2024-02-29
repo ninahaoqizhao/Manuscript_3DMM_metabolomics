@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009932787	CCMSLIB00009932787	0.77	5	Suspect related to 17-trans-Prostaglandin E3 (predicted molecular formula: C17H32O4) with delta m/z -49.982 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009973149	CCMSLIB00009973149	0.76	5	Suspect related to NCGC00381425-01!8-hydroxy-8-(3-octyloxiran-2-yl)octanoic acid [IIN-based on: CCMSLIB00000846585] (predicted molecular formula: unknown) with delta m/z 4.032 (putative explanation: x2 reduction; atomic difference: 4H)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009998585	CCMSLIB00009998585	0.73	5	Suspect related to Spectral Match to Stearidonic acid from NIST14 (predicted molecular formula: C16H26O4) with delta m/z 5.974 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

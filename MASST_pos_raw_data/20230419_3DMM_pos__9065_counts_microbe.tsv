@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:Blank_2	0.01	mzspec:MSV000080559:Blank_2:scan:1585	4	0.87	9	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_2.mzXML	MSV000080559/Blank_2.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No
+mzspec:MSV000083134:blank_0	0.01	mzspec:MSV000083134:blank_0:scan:2737	4	0.86	10	MSV000083134	NoID	MSV000083134/ccms_peak/raw/blank_0.mzML	MSV000083134/blank_0.mzML	MSV000083134	Escherichia coli		blank	automatic	No	Yes	No
+mzspec:MSV000081065:5_23_III	0.01	mzspec:MSV000081065:5_23_III:scan:3031	4	0.86	9	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_III.mzXML	MSV000081065/5_23_III.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No

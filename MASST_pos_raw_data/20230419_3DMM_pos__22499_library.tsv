@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009996374	CCMSLIB00009996374	0.81	8	Suspect related to Spectral Match to N-Cyclohexanecarbonylpentadecylamine from NIST14 (predicted molecular formula: C23H45NO3) with delta m/z 46.005 (putative explanation: formic acid adduct; atomic difference: 1C,2H,2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009988295	CCMSLIB00009988295	0.73	7	Suspect related to Spectral Match to 13-Docosenamide, (Z)- from NIST14 (predicted molecular formula: unknown) with delta m/z -291.328 (putative explanation: unspecified; atomic difference: unspecified)	[2M+H]+	1

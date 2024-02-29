@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088967:33_GE1_01_28258.d	0.01	mzspec:MSV000088967:33_GE1_01_28258.d:scan:287	1	0.92	5	MSV000088967	NoID	MSV000088967/peak/33_GE1_01_28258.d.mzXML	MSV000088967/33_GE1_01_28258.d.mzXML	MSV000088967	Bacteria		2	automatic	No	No	No
+mzspec:MSV000086879:Pooled_3	0.01	mzspec:MSV000086879:Pooled_3:scan:4294967295	1	0.79	5	MSV000086879	NoID	MSV000086879/ccms_peak/peak/Pooled_3.mzML	MSV000086879/Pooled_3.mzML	MSV000086879	qc/control		qc	maual	No	No	Yes
+mzspec:MSV000086879:C2_1	0.01	mzspec:MSV000086879:C2_1:scan:4294967295	1	0.75	5	MSV000086879	NoID	MSV000086879/ccms_peak/peak/C2_1.mzML	MSV000086879/C2_1.mzML	MSV000086879	Homo sapiens		9606	automatic	No	No	No

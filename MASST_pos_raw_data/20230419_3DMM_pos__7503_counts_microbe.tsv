@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083383:QC_2	0.01	mzspec:MSV000083383:QC_2:scan:1510	3	0.9	10	MSV000083383	NoID	MSV000083383/ccms_peak/Blanks_QC_wash/QC_2.mzML	MSV000083383/QC_2.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes
+mzspec:MSV000083383:isa_2	0.0	mzspec:MSV000083383:isa_2:scan:1724	3	0.71	6	MSV000083383	NoID	MSV000083383/updates/2019-10-30_allegraaron_e0b9cac9/other/allegraaron/190222_isa_wine_fungus infusion/mzXML/isa_2.mzML	MSV000083383/isa_2.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	316435	maual	No	No	No

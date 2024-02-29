@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082379:T6SS-3610_LB_96h_03x	-0.04	mzspec:MSV000082379:T6SS-3610_LB_96h_03x:scan:2629	1	0.73	5	MSV000082379	NoID	MSV000082379/ccms_peak/raw/T6SS-3610_LB_96h_03x.mzML	MSV000082379/T6SS-3610_LB_96h_03x.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:T6SS-3610_LB_96h_03x	-0.04	mzspec:MSV000082402:T6SS-3610_LB_96h_03x:scan:2629	1	0.73	5	MSV000082402	NoID	MSV000082402/ccms_peak/raw/T6SS-3610_LB_96h_03x.mzML	MSV000082402/T6SS-3610_LB_96h_03x.mzML	MSV000082402	Bacteria		2	automatic	No	No	No

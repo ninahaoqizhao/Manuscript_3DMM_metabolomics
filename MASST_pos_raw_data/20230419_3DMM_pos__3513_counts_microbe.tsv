@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089834:Pig_32	-0.02	mzspec:MSV000089834:Pig_32:scan:1053	1	0.71	5	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2020/Pig_32.mzML	MSV000089834/Pig_32.mzML	MSV000089834	Maribacter dokdonensis wadden sea isolate	Maribacter dokdonensis	320912	manual	No	No	No
+mzspec:MSV000088519:Biotic_3	-0.02	mzspec:MSV000088519:Biotic_3:scan:1022	1	0.71	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Biotic_3.mzML	MSV000088519/Biotic_3.mzML	MSV000088519	Bacteria		2	automatic	No	No	No
+mzspec:MSV000088519:Biotic_2	-0.02	mzspec:MSV000088519:Biotic_2:scan:1024	1	0.71	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Biotic_2.mzML	MSV000088519/Biotic_2.mzML	MSV000088519	Bacteria		2	automatic	No	No	No

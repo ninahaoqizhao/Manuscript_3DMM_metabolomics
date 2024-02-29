@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P3_A12_BA12_01_52758	0.05	mzspec:MSV000085071:P3_A12_BA12_01_52758:scan:122	1	0.89	5	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P3_mzXML/P3_A12_BA12_01_52758.mzXML	MSV000085071/P3_A12_BA12_01_52758.mzXML	MSV000085071	Battarrea phalloides		107919	automatic	Yes	No	No

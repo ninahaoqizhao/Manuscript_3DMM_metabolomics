@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009947744	CCMSLIB00009947744	0.72	7	Suspect related to Fucosterol (predicted molecular formula: C25H48O6) with delta m/z 31.972 (putative explanation: Ala->Cys substitution|Val->Met substitution|persulfide; atomic difference: 1S|1S|1S)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009942812	CCMSLIB00009942812	0.72	6	Suspect related to Bacoside A3 (predicted molecular formula: unknown) with delta m/z -27.995 (putative explanation: Asp->Ser substitution|Glu->Thr substitution|Pyrrolidone from Proline|Secondary amine cleavage, decarbonylation; atomic difference: -1C,-1O|-1C,-1O|-1C,-1O|-1C,-1O)	[M-C17H30O15+H]+	1

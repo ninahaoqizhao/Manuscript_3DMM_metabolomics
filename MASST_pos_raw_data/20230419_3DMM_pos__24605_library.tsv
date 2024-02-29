@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009931846	CCMSLIB00009931846	0.75	7	Suspect related to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid (predicted molecular formula: C27H46O3) with delta m/z 124.126 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009966652	CCMSLIB00009966652	0.75	7	Suspect related to N-Oleoylglycine (predicted molecular formula: unknown) with delta m/z 154.099 (putative explanation: 4-Oxononenal (ONE); atomic difference: 9C,14H,2O)	[M-C2H7NO3+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010000713	CCMSLIB00010000713	0.74	7	Suspect related to Stearidonic acid methyl ester (predicted molecular formula: C27H44O2) with delta m/z 110.11 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

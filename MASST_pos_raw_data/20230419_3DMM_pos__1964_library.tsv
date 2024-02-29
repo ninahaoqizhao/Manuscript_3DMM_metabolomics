@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009998548	CCMSLIB00009998548	0.89	5	Suspect related to Spectral Match to Stearidonic acid from NIST14 (predicted molecular formula: C9H12O2) with delta m/z -124.123 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009945167	CCMSLIB00009945167	0.89	5	Suspect related to Curcumol (predicted molecular formula: C9H12O2) with delta m/z -66.084 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009991886	CCMSLIB00009991886	0.89	5	Suspect related to Spectral Match to Curcumol from NIST14 (predicted molecular formula: C9H12O2) with delta m/z -66.084 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

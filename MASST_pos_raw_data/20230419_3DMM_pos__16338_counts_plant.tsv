@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF154_G09_pos	0.0	mzspec:MSV000087728:VGF154_G09_pos:scan:2240	1	0.92	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF154_G09_pos.mzML	MSV000087728/VGF154_G09_pos.mzML	MSV000087728	Garcinia mangostana	58228	Yes	No	No
+mzspec:MSV000088114:Celosia argentea flower	-0.0	mzspec:MSV000088114:Celosia argentea flower:scan:3891	1	0.92	6	MSV000088114	NoID	MSV000088114/raw/Celosia argentea flower.mzML	MSV000088114/Celosia argentea flower.mzML	MSV000088114	Celosia argentea	46112	No	No	No
+mzspec:MSV000087728:VGF157_G04_pos	-0.0	mzspec:MSV000087728:VGF157_G04_pos:scan:2301	1	0.91	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF157_G04_pos.mzML	MSV000087728/VGF157_G04_pos.mzML	MSV000087728	Rhizophora apiculata	106626	Yes	No	No

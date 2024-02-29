@@ -1,0 +1,19 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000084314:MSV000081949:scan:27608	0.95	7	NoID
+-0.0	mzspec:MSV000082647:81995:scan:4101	0.94	8	NoID
+-0.01	mzspec:MSV000081949:e_coli_alone__rep_3:scan:3784	0.93	7	NoID
+0.0	mzspec:MSV000081949:jb418_alone_rep_2:scan:3768	0.92	7	NoID
+-0.0	mzspec:MSV000081949:jb418_alone_rep_1:scan:3791	0.91	7	NoID
+0.0	mzspec:MSV000081492:dhmc_9_10:scan:3670	0.89	7	NoID
+0.0	mzspec:MSV000081949:jb418_rs17_rep_2:scan:3879	0.89	7	NoID
+-0.0	mzspec:MSV000081492:QC_01:scan:3671	0.88	7	NoID
+-0.01	mzspec:MSV000081949:e_coli_alone__rep_1:scan:3799	0.88	6	NoID
+-0.0	mzspec:MSV000081492:72849:scan:3519	0.87	6	NoID
+-0.03	mzspec:MSV000084314:MSV000083077:scan:87493	0.87	5	NoID
+-0.0	mzspec:MSV000081949:jb418_rs17_rep_1:scan:3872	0.85	6	NoID
+0.02	mzspec:MSV000084314:MSV000083073:scan:238312	0.84	5	NoID
+-0.01	mzspec:MSV000081949:e_coli_rs17_rep_2:scan:3988	0.82	5	NoID
+0.0	mzspec:MSV000082953:P4_D11:scan:4079	0.77	6	NoID
+0.0	mzspec:MSV000082953:MzMine_Export_MS2Filtered_forGNPS:scan:20214	0.77	6	NoID
+-0.0	mzspec:MSV000082953:P5_B6:scan:4182	0.74	6	NoID
+0.0	mzspec:MSV000082953:P4_B2:scan:4261	0.71	5	NoID

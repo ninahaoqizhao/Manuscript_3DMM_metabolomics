@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_8_b	0.01	mzspec:MSV000082999:Isa_8_b:scan:3307	2	0.93	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_b.mzML	MSV000082999/Isa_8_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000088827:Toly-200A2	0.01	mzspec:MSV000088827:Toly-200A2:scan:4294967295	2	0.89	8	MSV000088827	NoID	MSV000088827/peak/Toly-200A2.mzML	MSV000088827/Toly-200A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No
+mzspec:MSV000082999:Isa_8_a	0.01	mzspec:MSV000082999:Isa_8_a:scan:3323	2	0.87	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_a.mzML	MSV000082999/Isa_8_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_10_a	0.01	mzspec:MSV000082999:Isa_10_a:scan:2841	2	0.82	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_10_a.mzML	MSV000082999/Isa_10_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000088827:Blank3	0.0	mzspec:MSV000088827:Blank3:scan:4294967295	2	0.81	5	MSV000088827	NoID	MSV000088827/peak/Blank3.mzML	MSV000088827/Blank3.mzML	MSV000088827	Tolypocladium species	Tolypocladium	blank	maual	No	Yes	No

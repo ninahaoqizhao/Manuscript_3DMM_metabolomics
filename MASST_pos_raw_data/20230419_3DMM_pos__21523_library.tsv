@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009988294	CCMSLIB00009988294	0.78	7	Suspect related to Spectral Match to 13-Docosenamide, (Z)- from NIST14 (predicted molecular formula: unknown) with delta m/z -319.323 (putative explanation: unspecified; atomic difference: unspecified)	[2M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009977620	CCMSLIB00009977620	0.7	6	Suspect related to Oleic acid (predicted molecular formula: C20H45N4O2) with delta m/z 91.1 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

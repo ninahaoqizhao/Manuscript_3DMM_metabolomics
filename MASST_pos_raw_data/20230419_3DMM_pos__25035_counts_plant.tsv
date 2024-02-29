@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000083812:Celosia_argentea_flower	0.0	mzspec:MSV000083812:Celosia_argentea_flower:scan:9056	1	0.83	12	MSV000083812	NoID	MSV000083812/ccms_peak/Celosia_argentea_flower.mzML	MSV000083812/Celosia_argentea_flower.mzML	MSV000083812	Celosia argentea	46112	No	No	No
+mzspec:MSV000082522:Amaranth_grain	0.0	mzspec:MSV000082522:Amaranth_grain:scan:8850	1	0.82	12	MSV000082522	NoID	MSV000082522/raw/Amaranth_grain.mzXML	MSV000082522/Amaranth_grain.mzXML	MSV000082522	Amaranthus hypochondriacus	28502	No	No	No
+mzspec:MSV000082527:LB-root	0.0	mzspec:MSV000082527:LB-root:scan:10751	1	0.77	11	MSV000082527	NoID	MSV000082527/ccms_peak/LB-root.mzML	MSV000082527/LB-root.mzML	MSV000082527	Lycium barbarum	112863	No	No	No
+mzspec:MSV000087711:AM_11RF4575_POS	0.0	mzspec:MSV000087711:AM_11RF4575_POS:scan:5604	1	0.76	14	MSV000087711	NoID	MSV000087711/ccms_peak/AM_11RF4575_POS.mzML	MSV000087711/AM_11RF4575_POS.mzML	MSV000087711	Solanum argenteum	2072293	No	No	No

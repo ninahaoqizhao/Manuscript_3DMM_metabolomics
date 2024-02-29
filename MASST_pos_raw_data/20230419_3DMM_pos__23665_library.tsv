@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944834	CCMSLIB00009944834	0.81	16	Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z -146.039 (putative explanation: hydroxycinnamyl (reverse)|p-coumaric acid (reverse); atomic difference: -9C,-6H,-2O|-nan)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944833	CCMSLIB00009944833	0.76	12	Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z -146.058 (putative explanation: Fucose (reverse); atomic difference: -6C,-10H,-4O)	[M+NH4]+	1

@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF152_B03_pos	-0.0	mzspec:MSV000087728:VGF152_B03_pos:scan:1684	1	0.92	12	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF152_B03_pos.mzML	MSV000087728/VGF152_B03_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No
+mzspec:MSV000087728:VGF141_F03_pos	0.0	mzspec:MSV000087728:VGF141_F03_pos:scan:1687	1	0.92	11	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF141_F03_pos.mzML	MSV000087728/VGF141_F03_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No
+mzspec:MSV000087728:VGF156_A08_pos	0.0	mzspec:MSV000087728:VGF156_A08_pos:scan:1655	1	0.92	11	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF156_A08_pos.mzML	MSV000087728/VGF156_A08_pos.mzML	MSV000087728	Ficus altissima	309270	Yes	No	No

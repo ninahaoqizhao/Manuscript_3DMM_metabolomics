@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009974045	CCMSLIB00009974045	0.76	6	Suspect related to NCGC00384762-01_C19H28O10_beta-D-Glucopyranoside, 2-phenylethyl 2-O-beta-D-xylopyranosyl- (predicted molecular formula: unknown) with delta m/z -33.984 (putative explanation: Phe->Leu/Ile substitution; atomic difference: -3C,2H)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009997231	CCMSLIB00009997231	0.76	6	Suspect related to Spectral Match to Palatinose from NIST14 (predicted molecular formula: unknown) with delta m/z 40.068 (putative explanation: unspecified; atomic difference: unspecified)	[M+NH4]+	1

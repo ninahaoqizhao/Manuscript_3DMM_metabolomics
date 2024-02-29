@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009997860	CCMSLIB00009997860	0.97	6	Suspect related to Spectral Match to Phytol from NIST14 (predicted molecular formula: C8H20N3O) with delta m/z -122.146 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136253	CCMSLIB00003136253	0.87	5	Spectral Match to .beta.-Citronellol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136285	CCMSLIB00003136285	0.86	5	Spectral Match to (Z)-4-Decen-1-ol from NIST14	M+H	1

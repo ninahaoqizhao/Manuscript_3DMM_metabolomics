@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009928709	CCMSLIB00009928709	0.72	8	Suspect related to 1-Monolinoleoyl-rac-glycerol (predicted molecular formula: C21H40O4) with delta m/z 2.016 (putative explanation: Pro->Val substitution|reduction; atomic difference: 2H|2H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010005632	CCMSLIB00010005632	0.72	7	Suspect related to lithocholic acid (predicted molecular formula: C24H38O3) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H)	[M-H2O+H]+	1

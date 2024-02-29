@@ -1,0 +1,17 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000083559:11713.13.F.13E:scan:198	0.97	8	NoID
+-0.0	mzspec:MSV000085944:skin_09_360_FH:scan:166	0.81	5	NoID
+-0.0	mzspec:MSV000085944:skin_09_0_FH:scan:160	0.81	5	NoID
+-0.04	mzspec:MSV000085944:skin_09_90_FH:scan:168	0.8	5	NoID
+-0.0	mzspec:MSV000085944:skin_09_600_FH:scan:160	0.8	5	NoID
+0.0	mzspec:MSV000088255:Urine_NGS023_FragPos:scan:2805	0.8	5	NoID
+-0.0	mzspec:MSV000085944:skin_09_120_FH:scan:159	0.8	5	NoID
+-0.0	mzspec:MSV000085944:skin_09_30_FH:scan:164	0.8	5	NoID
+-0.0	mzspec:MSV000085944:skin_09_480_FH:scan:167	0.78	5	NoID
+0.0	mzspec:MSV000086131:Sample-1B1:scan:811	0.76	6	NoID
+-0.04	mzspec:MSV000085944:skin_09_60_FH:scan:167	0.76	5	NoID
+-0.0	mzspec:MSV000087364:SH038_N:scan:185	0.75	5	NoID
+-0.04	mzspec:MSV000085944:skin_09_720_FH:scan:171	0.75	5	NoID
+0.0	mzspec:MSV000086131:Sample-1B6:scan:810	0.73	6	NoID
+0.0	mzspec:MSV000086131:QC1:scan:811	0.7	5	NoID
+-0.04	mzspec:MSV000082953:P2_A2:scan:154	0.7	5	NoID

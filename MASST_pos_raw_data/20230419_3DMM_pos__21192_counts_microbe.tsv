@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:O_1	-0.0	mzspec:MSV000080559:O_1:scan:2476	1	0.75	6	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_1.mzXML	MSV000080559/O_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:O_2	-0.0	mzspec:MSV000080559:O_2:scan:2535	1	0.73	6	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_2.mzXML	MSV000080559/O_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000082999:Isa_11_b	-0.03	mzspec:MSV000082999:Isa_11_b:scan:3218	1	0.7	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_11_b.mzML	MSV000082999/Isa_11_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

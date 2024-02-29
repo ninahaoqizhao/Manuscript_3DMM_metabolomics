@@ -1,0 +1,11 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.04	mzspec:MSV000079710:group1_P2_G6:scan:1881	0.76	5	NoID
+-0.04	mzspec:MSV000079697:group1_P2_G6:scan:1881	0.76	5	NoID
+0.0	mzspec:MSV000083320:99536:scan:991	0.74	6	NoID
+0.0	mzspec:MSV000083320:99436:scan:980	0.72	6	NoID
+-0.0	mzspec:MSV000085862:Lipidomics_diluted_T_72h_Leaf_I926_5uL:scan:14966	0.71	5	NoID
+0.0	mzspec:MSV000083320:99534:scan:983	0.71	5	NoID
+0.0	mzspec:MSV000079697:group3_P2_F4:scan:1433	0.71	5	NoID
+-0.0	mzspec:MSV000083320:99591:scan:968	0.71	5	NoID
+0.0	mzspec:MSV000083320:99497:scan:981	0.71	5	NoID
+0.0	mzspec:MSV000079706:group3_P2_F4:scan:1433	0.71	5	NoID

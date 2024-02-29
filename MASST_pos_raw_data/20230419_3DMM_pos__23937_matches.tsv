@@ -1,0 +1,16 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000080167:P5C12_160602021526:scan:4510	0.89	8	NoID
+-0.0	mzspec:MSV000088570:Lactobacillus_rhamnosus_ATCC_8530_T72_BileSaltsAdded:scan:2814	0.88	8	NoID
+0.0	mzspec:MSV000088570:Streptococcus_mitis_bv2_F0392_T00_NoBileSalts:scan:2834	0.88	8	NoID
+0.01	mzspec:MSV000080167:P7A12_160603212721:scan:4497	0.88	7	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_reuteri_CF48-3A_20210802063230:scan:2868	0.87	8	NoID
+-0.0	mzspec:MSV000088570:Blank_04_PlateB_no_inj:scan:2795	0.86	9	NoID
+-0.0	mzspec:MSV000080167:P1C12_160525204336:scan:4282	0.86	7	NoID
+0.0	mzspec:MSV000080167:P5B08:scan:4614	0.86	7	NoID
+0.0	mzspec:MSV000080167:P5G06:scan:4654	0.85	7	NoID
+-0.0	mzspec:MSV000080167:P4B02:scan:4759	0.84	7	NoID
+-0.0	mzspec:MSV000088570:Streptococcus_mitis_bv2_F0392_T72_NoBileSalts:scan:2764	0.83	8	NoID
+-0.01	mzspec:MSV000080167:P6H02:scan:4684	0.83	7	NoID
+-0.0	mzspec:MSV000080167:P6F05:scan:4678	0.81	7	NoID
+-0.0	mzspec:MSV000080167:P7D02:scan:4764	0.79	6	NoID
+0.0	mzspec:MSV000088570:Streptococcus_mitis_bv2_F0392_20210802070525:scan:2834	0.78	6	NoID

@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009929620	CCMSLIB00009929620	1.0	6	Suspect related to 1-Palmitoyl-2-linoleoyl-rac-glycerol (predicted molecular formula: unknown) with delta m/z -0.912 (putative explanation: unspecified; atomic difference: unspecified)	[M-C18H32O2+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946325	CCMSLIB00009946325	0.95	5	Suspect related to Dimethyldioctadecylammonium cation (predicted molecular formula: unknown) with delta m/z -238.267 (putative explanation: unspecified; atomic difference: unspecified)	[M]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009930087	CCMSLIB00009930087	0.85	5	Suspect related to 1-Palmitoylglycerol (predicted molecular formula: unknown) with delta m/z -0.912 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

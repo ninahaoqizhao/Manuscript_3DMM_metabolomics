@@ -1,0 +1,17 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.03	mzspec:MSV000083559:11713.25.S.25F:scan:1126	0.96	8	NoID
+-0.04	mzspec:MSV000083559:11713.10.O.10D:scan:1107	0.94	8	NoID
+0.0	mzspec:MSV000087872:Euthamia-graminifolia-stem-nBuOH:scan:2331	0.94	6	NoID
+0.0	mzspec:MSV000087872:Satureja-montana-flower-nBuOH:scan:2335	0.93	6	NoID
+0.0	mzspec:MSV000084314:MSV000087872:scan:101351	0.93	5	NoID
+0.0	mzspec:MSV000087872:Pycnanthemum-tenuifolium-flower-nBuOH:scan:2285	0.92	5	NoID
+0.0	mzspec:MSV000087872:Pycnanthemum-tenuifolium-stem-nBuOH:scan:2285	0.92	5	NoID
+0.0	mzspec:MSV000087872:Capsicum-annuum-stem-nBuOH:scan:2362	0.91	5	NoID
+0.0	mzspec:MSV000087872:Satureja-montana-stem-nBuOH:scan:2163	0.91	5	NoID
+0.0	mzspec:MSV000087872:Monarda-punctata-stem-nBuOH:scan:2264	0.91	5	NoID
+0.0	mzspec:MSV000087872:Pycnanthemum-tenuifolium-leaf-nBuOH:scan:2278	0.91	5	NoID
+0.0	mzspec:MSV000087872:Satureja-montana-leaf-nBuOH:scan:2328	0.91	5	NoID
+0.0	mzspec:MSV000087872:Nematanthus-leaf-nBuOH:scan:2488	0.91	5	NoID
+-0.02	mzspec:MSV000080627:ONR_Stool_36:scan:669	0.79	5	NoID
+-0.02	mzspec:MSV000083559:11713.22.F.22D:scan:726	0.78	5	NoID
+-0.02	mzspec:MSV000080627:ONR_Stool_17:scan:678	0.76	5	NoID

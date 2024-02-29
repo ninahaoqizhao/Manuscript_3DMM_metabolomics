@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085119:P4_G2_BG2_01_53896	0.01	mzspec:MSV000085119:P4_G2_BG2_01_53896:scan:448	1	0.94	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate4_POS/P4_G2_BG2_01_53896.mzML	MSV000085119/P4_G2_BG2_01_53896.mzML	MSV000085119	Callaeum psilophyllum	1027114	Yes	No	No
+mzspec:MSV000085119:P4_F3_BF3_01_53884	0.01	mzspec:MSV000085119:P4_F3_BF3_01_53884:scan:436	1	0.91	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate4_POS/P4_F3_BF3_01_53884.mzML	MSV000085119/P4_F3_BF3_01_53884.mzML	MSV000085119	Byrsonima	4269	Yes	No	No

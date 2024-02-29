@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086314:P013_LCMSMS	0.0	mzspec:MSV000086314:P013_LCMSMS:scan:4760	1	0.95	5	MSV000086314	NoID	MSV000086314/ccms_peak/Microbes_LCMSMS/P013_LCMSMS.mzML	MSV000086314/P013_LCMSMS.mzML	MSV000086314	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000086639:PLT2_D7	-0.0	mzspec:MSV000086639:PLT2_D7:scan:5246	1	0.87	5	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT2_D7.mzML	MSV000086639/PLT2_D7.mzML	MSV000086639	Akkermansia muciniphila		239935	automatic	Yes	No	No

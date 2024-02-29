@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010004105	CCMSLIB00010004105	0.93	8	Suspect related to cis-13-Docosenoic acid (predicted molecular formula: C21H41NO2) with delta m/z 1.003 (putative explanation: C isotope; atomic difference: (13)C)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009989876	CCMSLIB00009989876	0.93	8	Suspect related to Spectral Match to 9-Octadecenamide, (Z)- from NIST14 (predicted molecular formula: C21H41NO2) with delta m/z 40.031 (putative explanation: Gly->Pro substitution|Propionaldehyde +40|unspecified; atomic difference: 3C,4H|3C,4H|3C,4H)	[M+H]+	1

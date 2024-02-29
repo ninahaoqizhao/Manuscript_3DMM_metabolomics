@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083383:S_WT-1_Zn	-0.04	mzspec:MSV000083383:S_WT-1_Zn:scan:1356	1	0.89	6	MSV000083383	NoID	MSV000083383/ccms_peak/raw/S_WT-1_Zn.mzML	MSV000083383/S_WT-1_Zn.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	316435	maual	No	No	No
+mzspec:MSV000080559:N_4	-0.04	mzspec:MSV000080559:N_4:scan:620	1	0.78	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/N_4.mzXML	MSV000080559/N_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:L_4	-0.04	mzspec:MSV000080559:L_4:scan:626	1	0.76	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/L_4.mzXML	MSV000080559/L_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

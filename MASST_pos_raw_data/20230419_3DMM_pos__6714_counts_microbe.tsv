@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086639:PLT2_F8	0.02	mzspec:MSV000086639:PLT2_F8:scan:1892	1	0.8	5	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT2_F8.mzML	MSV000086639/PLT2_F8.mzML	MSV000086639	Bifidobacterium longum		216816	automatic	Yes	No	No
+mzspec:MSV000088670:CNYN3_batch9_300nguL_5uLiny_20dic2021	-0.0	mzspec:MSV000088670:CNYN3_batch9_300nguL_5uLiny_20dic2021:scan:4294967295	1	0.78	5	MSV000088670	NoID	MSV000088670/peak/CNYN3_batch9_300nguL_5uLiny_20dic2021.mzXML	MSV000088670/CNYN3_batch9_300nguL_5uLiny_20dic2021.mzXML	MSV000088670	Vibrio cholerae		666	automatic	No	No	No

@@ -1,0 +1,26 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.01	mzspec:MSV000079517:Lys_J1074_Lab0:scan:6965	0.76	6	NoID
+-0.01	mzspec:MSV000079517:Lys_J1074_Lab1:scan:6944	0.75	6	NoID
+-0.02	mzspec:MSV000083835:blank:scan:4152	0.75	5	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_Tissue_7_pos:scan:4540	0.74	6	NoID
+-0.02	mzspec:MSV000083835:QCmix:scan:4458	0.74	5	NoID
+-0.02	mzspec:MSV000083835:55:scan:4936	0.73	5	NoID
+-0.02	mzspec:MSV000083835:52:scan:4851	0.73	5	NoID
+-0.0	mzspec:MSV000084314:MSV000087728:scan:1463548	0.72	8	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_Tissue_113_pos:scan:4328	0.72	6	NoID
+-0.04	mzspec:MSV000083729:StromTissue050719_adducts:scan:6845	0.72	6	NoID
+-0.04	mzspec:MSV000083729:StromTissueOnlyGNPS042119:scan:6845	0.72	6	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_no_IIN:scan:12792	0.72	6	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_SIRIUS:scan:12792	0.72	6	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_with_IIN:scan:12792	0.72	6	NoID
+-0.02	mzspec:MSV000083835:15 SC on TSB EthAc-pos:scan:4723	0.72	5	NoID
+-0.02	mzspec:MSV000083835:15:scan:4783	0.72	5	NoID
+-0.02	mzspec:MSV000083835:72:scan:4386	0.72	5	NoID
+-0.02	mzspec:MSV000087628:15+SC+on+TSB+EthAc-pos:scan:4723	0.72	5	NoID
+-0.02	mzspec:MSV000083835:31:scan:4425	0.72	5	NoID
+-0.02	mzspec:MSV000083835:80:scan:4241	0.72	5	NoID
+-0.04	mzspec:MSV000083098:GBMF18-01-1BDM:scan:6341	0.71	6	NoID
+-0.04	mzspec:MSV000083098:MN-IX-1121_b:scan:4151	0.71	6	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_Tissue_111_pos:scan:4259	0.71	6	NoID
+-0.04	mzspec:MSV000083098:GBMF18-01-1BDM_2:scan:4629	0.7	6	NoID
+-0.04	mzspec:MSV000083729:Stromatolite_Tissue_1_pos:scan:4535	0.7	6	NoID

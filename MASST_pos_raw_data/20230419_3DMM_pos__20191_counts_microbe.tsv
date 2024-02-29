@@ -1,0 +1,13 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_11_a	0.0	mzspec:MSV000082999:Isa_11_a:scan:3121	3	0.81	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_11_a.mzML	MSV000082999/Isa_11_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_12_a	0.0	mzspec:MSV000082999:Isa_12_a:scan:2577	3	0.73	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_12_a.mzML	MSV000082999/Isa_12_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_8_b	0.01	mzspec:MSV000082999:Isa_8_b:scan:2955	3	0.72	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_b.mzML	MSV000082999/Isa_8_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_2_b	-0.01	mzspec:MSV000082999:Isa_2_b:scan:2762	3	0.72	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_2_b.mzML	MSV000082999/Isa_2_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_8_a	0.0	mzspec:MSV000082999:Isa_8_a:scan:2966	3	0.72	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_a.mzML	MSV000082999/Isa_8_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_11_b	0.0	mzspec:MSV000082999:Isa_11_b:scan:2727	3	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_11_b.mzML	MSV000082999/Isa_11_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_7_b	-0.01	mzspec:MSV000082999:Isa_7_b:scan:2621	3	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_7_b.mzML	MSV000082999/Isa_7_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_7_a	-0.0	mzspec:MSV000082999:Isa_7_a:scan:2619	3	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_7_a.mzML	MSV000082999/Isa_7_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_12_b	0.0	mzspec:MSV000082999:Isa_12_b:scan:2570	3	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_12_b.mzML	MSV000082999/Isa_12_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_2_a	-0.0	mzspec:MSV000082999:Isa_2_a:scan:2768	3	0.7	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_2_a.mzML	MSV000082999/Isa_2_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_1_b	-0.0	mzspec:MSV000082999:Isa_1_b:scan:2702	3	0.7	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_1_b.mzML	MSV000082999/Isa_1_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_1_a	-0.0	mzspec:MSV000082999:Isa_1_a:scan:2724	3	0.7	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_1_a.mzML	MSV000082999/Isa_1_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

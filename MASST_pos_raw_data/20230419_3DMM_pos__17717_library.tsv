@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009953612	CCMSLIB00009953612	0.89	7	Suspect related to Massbank:AU406506 3,6,9,12-Tetraoxatetracosan-1-ol|Tetraethylene glycol monododecyl ether|2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethanol (predicted molecular formula: C22H46O6) with delta m/z 61.053 (putative explanation: unspecified|unspecified; atomic difference: 2C,7H,1N,1O|5H,4N)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009936053	CCMSLIB00009936053	0.79	7	Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -79.957 (putative explanation: O-Sulfonation (reverse); atomic difference: -3O,-1S)	[M+NH4]+	1

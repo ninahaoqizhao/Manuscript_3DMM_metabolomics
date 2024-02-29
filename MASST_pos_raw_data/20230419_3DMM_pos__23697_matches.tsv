@@ -1,0 +1,22 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000084314:MSV000080030:scan:2346816	0.9	5	NoID
+0.0	mzspec:MSV000080030:P3_BC3v30_Middle_BC3_01_23696:scan:3691	0.84	5	NoID
+0.0	mzspec:MSV000080030:P3_BB12v30_Palm_BB12_01_23693:scan:3699	0.82	5	NoID
+0.0	mzspec:MSV000081116:Contr_TSB__Mix3_SampleG5:scan:4820	0.77	5	NoID
+0.0	mzspec:MSV000081116:Contr_TSB__Mix6_SampleG8:scan:4954	0.77	5	NoID
+0.0	mzspec:MSV000081116:P_syn_32_Mix3_SampleF5:scan:4776	0.77	5	NoID
+0.0	mzspec:MSV000081116:P_sp_WCS312_Mix1_SampleE3:scan:4664	0.77	5	NoID
+0.0	mzspec:MSV000081116:ISP2_SampleC2_control:scan:3408	0.76	5	NoID
+0.0	mzspec:MSV000081116:Contr_TSB__Mix2_SampleG4:scan:4919	0.76	5	NoID
+0.0	mzspec:MSV000081116:P_fluo_BW11P2_SampleD1_media:scan:4794	0.76	5	NoID
+0.01	mzspec:MSV000081116:ISP2_Mix2_SampleC4:scan:3513	0.76	5	NoID
+0.0	mzspec:MSV000081116:P_sp_WCS312_Mix4_SampleE6:scan:4832	0.76	5	NoID
+0.0	mzspec:MSV000081116:P_syn_32_Mix4_SampleF6:scan:4465	0.76	5	NoID
+0.0	mzspec:MSV000081116:S_albus_J1074_Mix4_SampleA6:scan:3819	0.76	5	NoID
+0.0	mzspec:MSV000081116:P_syn_32_Mix1_SampleF3:scan:4595	0.76	5	NoID
+0.0	mzspec:MSV000081116:P_sp_WCS312_SampleE1_media:scan:4706	0.75	5	NoID
+0.0	mzspec:MSV000081116:ISP2_Mix1_SampleC3:scan:3605	0.75	5	NoID
+0.0	mzspec:MSV000081116:Contr_TSB_SampleG2_control:scan:4690	0.75	5	NoID
+0.0	mzspec:MSV000081116:Strept_roseosporus_Mix1_SampleB3:scan:3845	0.75	5	NoID
+0.0	mzspec:MSV000081116:S_albus_J1074_Mix2_SampleA4:scan:3949	0.74	5	NoID
+0.0	mzspec:MSV000081116:P_syn_32_SampleF2_control:scan:4641	0.74	5	NoID

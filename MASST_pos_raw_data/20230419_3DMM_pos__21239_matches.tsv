@@ -1,0 +1,18 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088570:Lactobacillus_acidophilus_ATCC_832_T00_NoBileSalts:scan:2428	0.99	10	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_T00_NoBileSalts:scan:2429	0.99	10	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_rhamnosus_ATCC_8530_20210802064329:scan:2441	0.99	10	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_reuteri_CF48-3A_T72_BileSaltsAdded:scan:2441	0.98	10	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_gasseri_MV-22_T00_NoBileSalts:scan:2425	0.96	9	NoID
+0.02	mzspec:MSV000079697:group3_P1_E8:scan:2525	0.94	9	NoID
+0.02	mzspec:MSV000079707:group3_P1_E8:scan:2525	0.94	9	NoID
+0.01	mzspec:MSV000082869:95279_R-E1:scan:2090	0.86	8	NoID
+0.01	mzspec:MSV000082869:95642_R-F4:scan:2044	0.84	8	NoID
+-0.02	mzspec:MSV000083320:99671:scan:3286	0.84	7	NoID
+0.02	mzspec:MSV000080142:Plate3_G11:scan:1472	0.83	9	NoID
+0.0	mzspec:MSV000082869:94850_R-B8:scan:2067	0.82	8	NoID
+0.01	mzspec:MSV000082869:Cntrl_J5_R-D6:scan:2047	0.81	7	NoID
+0.0	mzspec:MSV000082869:95108_R-F12:scan:2064	0.8	8	NoID
+0.01	mzspec:MSV000082869:94809_R-D9:scan:2065	0.78	7	NoID
+0.01	mzspec:MSV000082869:95738_B-E5:scan:2060	0.77	8	NoID
+0.01	mzspec:MSV000082869:95274_R-C2:scan:2066	0.72	7	NoID

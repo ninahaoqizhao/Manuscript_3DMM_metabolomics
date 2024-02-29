@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000086427:VGF147_E07	0.0	mzspec:MSV000086427:VGF147_E07:scan:1126	1	0.84	7	MSV000086427	NoID	MSV000086427/ccms_peak/ecometabo_rawfiles/VGF147_E07.mzML	MSV000086427/VGF147_E07.mzML	MSV000086427	Banisteriopsis muricata	1027072	Yes	No	No
+mzspec:MSV000087728:VGF156_H04_pos	0.0	mzspec:MSV000087728:VGF156_H04_pos:scan:1283	1	0.73	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF156_H04_pos.mzML	MSV000087728/VGF156_H04_pos.mzML	MSV000087728	Bruguiera cylindrica	106616	Yes	No	No

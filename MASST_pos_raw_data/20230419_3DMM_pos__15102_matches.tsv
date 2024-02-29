@@ -1,0 +1,5 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.01	mzspec:MSV000083651:Marinobacter_A3_Fe_3mM:scan:2065	0.76	9	NoID
+-0.01	mzspec:MSV000083651:Marinobacter_A2_Fe_3mM:scan:2059	0.75	8	NoID
+-0.0	mzspec:MSV000084314:MSV000083651:scan:6093	0.72	7	NoID
+0.0	mzspec:MSV000079598:26534_1_2:scan:2976	0.7	9	NoID

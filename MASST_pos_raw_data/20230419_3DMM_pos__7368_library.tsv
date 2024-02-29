@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009962518	CCMSLIB00009962518	0.94	6	Suspect related to Massbank:RP024902 Decanoyl-L-Carnitine|Decanoylcarnitine|3-decanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C17H29NO4) with delta m/z -4.031 (putative explanation: x2 reduction (reverse); atomic difference: -4H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950203	CCMSLIB00009950203	0.88	6	Suspect related to L-Arachidonoylcarnitine (predicted molecular formula: C17H29NO4) with delta m/z -136.125 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009993842	CCMSLIB00009993842	0.87	6	Suspect related to Spectral Match to Hexanoylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 52.032 (putative explanation: unspecified; atomic difference: 4C,4H)	[M+H]+	1

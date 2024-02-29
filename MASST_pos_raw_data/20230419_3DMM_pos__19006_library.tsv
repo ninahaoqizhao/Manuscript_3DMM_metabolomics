@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009990813	CCMSLIB00009990813	0.91	5	Suspect related to Spectral Match to Benzyldodecyldimethylammonium from NIST14 (predicted molecular formula: unknown) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)	[M]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009990831	CCMSLIB00009990831	0.84	5	Suspect related to Spectral Match to Benzyltetradecyldimethylammonium from NIST14 (predicted molecular formula: C26H47) with delta m/z 28.04 (putative explanation: Gln->Arg substitution; atomic difference: 1C,4H,2N,-1O)	[M+H]+	1

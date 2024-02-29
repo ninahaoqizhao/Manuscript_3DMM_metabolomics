@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009940125	CCMSLIB00009940125	0.76	5	Suspect related to 8Z,14Z-Eicosadienoic acid (predicted molecular formula: C20H30O3) with delta m/z 9.948 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950175	CCMSLIB00009950175	0.75	5	Suspect related to Kirenol (predicted molecular formula: C20H32O4) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H)	[M-H2O+H]+	1

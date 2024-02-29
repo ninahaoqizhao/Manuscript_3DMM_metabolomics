@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082384:AH187_eps_LB_48h_1	-0.02	mzspec:MSV000082384:AH187_eps_LB_48h_1:scan:2597	3	0.88	7	MSV000082384	NoID	MSV000082384/ccms_peak/raw/AH187_eps_LB_48h_1.mzML	MSV000082384/AH187_eps_LB_48h_1.mzML	MSV000082384	Bacillus cereus		1396	automatic	No	No	No

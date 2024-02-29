@@ -1,0 +1,23 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000086415:54324848:scan:1138	0.97	7	NoID
+0.0	mzspec:MSV000086415:20501668:scan:1115	0.97	7	NoID
+0.0	mzspec:MSV000087612:62:scan:1124	0.95	7	NoID
+0.0	mzspec:MSV000084314:MSV000086415:scan:517537	0.95	6	NoID
+0.0	mzspec:MSV000083559:11713.5.S.5A:scan:1042	0.94	6	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_8:scan:1225	0.93	7	NoID
+0.0	mzspec:MSV000086415:50109927:scan:1131	0.93	6	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_24:scan:1231	0.93	6	NoID
+0.0	mzspec:MSV000086415:50301549:scan:1131	0.92	6	NoID
+0.0	mzspec:MSV000086415:46369736:scan:1130	0.92	6	NoID
+0.0	mzspec:MSV000087872:Quercus-suber-stem-nBuOH:scan:2613	0.91	5	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_18:scan:1233	0.9	6	NoID
+0.0	mzspec:MSV000087872:Quercus-suber-leaf-nBuOH:scan:2588	0.9	5	NoID
+-0.0	mzspec:MSV000087872:Echeveria-leucotricha-leaf-nBuOH:scan:2414	0.9	5	NoID
+0.0	mzspec:MSV000087872:Quercus-muehlenbergii-stem-nBuOH:scan:2654	0.9	5	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_10:scan:1237	0.89	6	NoID
+0.0	mzspec:MSV000087872:Betula-populifolia-stem-nBuOH:scan:2585	0.89	5	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_17:scan:1239	0.87	5	NoID
+0.0	mzspec:MSV000084314:MSV000080627:scan:38649	0.86	5	NoID
+0.0	mzspec:MSV000087872:Quercus-velutina-stem-nBuOH:scan:2548	0.85	5	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_2:scan:1216	0.8	5	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_26:scan:1248	0.78	5	NoID

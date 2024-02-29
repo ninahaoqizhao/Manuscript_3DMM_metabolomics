@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF152_H09_pos	-0.0	mzspec:MSV000087728:VGF152_H09_pos:scan:1172	1	0.81	7	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF152_H09_pos.mzML	MSV000087728/VGF152_H09_pos.mzML	MSV000087728	Nauclea orientalis	43526	Yes	No	No
+mzspec:MSV000085129:02304_Pl_6	-0.0	mzspec:MSV000085129:02304_Pl_6:scan:1916	1	0.78	6	MSV000085129	NoID	MSV000085129/ccms_peak/mzMLs_1/02304_Pl_6.mzML	MSV000085129/02304_Pl_6.mzML	MSV000085129	Magnoliopsida	3398	No	No	No

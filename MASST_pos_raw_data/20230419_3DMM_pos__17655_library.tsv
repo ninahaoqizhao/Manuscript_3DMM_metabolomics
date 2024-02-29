@@ -1,0 +1,23 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005761458	CCMSLIB00005761458	0.89	9	Massbank:LU049102 Triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005730509	CCMSLIB00005730509	0.88	9	Massbank:EQ363802 Triphenyl phosphate (TPP)|Triphenyl phosphate|Triphenoxyphosphine oxide	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946392	CCMSLIB00009946392	0.87	9	Suspect related to Diphenylphosphate (predicted molecular formula: C13H15N2O6P) with delta m/z 76.031 (putative explanation: Acrolein addition +76|Ala->Phe substitution|Ser->Tyr substitution|unspecified; atomic difference: 6C,4H|6C,4H|6C,4H|6C,4H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005763436	CCMSLIB00005763436	0.87	9	Massbank:LU049103 Triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005775347	CCMSLIB00005775347	0.85	8	Massbank:AU246406 Triphenylphosphate|triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000579900	CCMSLIB00000579900	0.85	9	Triphenylphosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000841635	CCMSLIB00000841635	0.85	9	MassbankEU:SM824902 Triphenylphosphate|Triphenyl phosphate	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005773241	CCMSLIB00005773241	0.85	8	Massbank:AU246403 Triphenylphosphate|triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489854	CCMSLIB00005489854	0.84	8	Spectral Match to Triphenyl phosphate from NIST14 [IIN-based: Match]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000568948	CCMSLIB00000568948	0.83	8	MoNA:904060 phosphoric acid triphenyl ester	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005733797	CCMSLIB00005733797	0.83	8	Massbank:EQ363803 Triphenyl phosphate (TPP)|Triphenyl phosphate|Triphenoxyphosphine oxide	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000842044	CCMSLIB00000842044	0.82	8	MassbankEU:SM879502 Triphenylphosphate|Triphenyl phosphate	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138054	CCMSLIB00003138054	0.81	7	Spectral Match to Triphenyl phosphate from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000565019	CCMSLIB00000565019	0.79	8	MoNA:2721463 phosphoric acid triphenyl ester	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005773700	CCMSLIB00005773700	0.79	8	Massbank:AU246402 Triphenylphosphate|triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726337	CCMSLIB00005726337	0.79	8	Massbank:UF417504 Triphenylphosphate|Triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000565021	CCMSLIB00000565021	0.79	8	MoNA:2721195 phosphoric acid triphenyl ester	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010002121	CCMSLIB00010002121	0.77	7	Suspect related to Triphenyl phosphate (predicted molecular formula: unknown) with delta m/z 76.031 (putative explanation: Acrolein addition +76|Ala->Phe substitution|Ser->Tyr substitution|unspecified; atomic difference: 6C,4H|6C,4H|6C,4H|6C,4H)	[M-C6H4+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726361	CCMSLIB00005726361	0.76	7	Massbank:UF417501 Triphenylphosphate|Triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000565015	CCMSLIB00000565015	0.76	7	MoNA:2725405 phosphoric acid triphenyl ester	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005774433	CCMSLIB00005774433	0.72	6	Massbank:AU246404 Triphenylphosphate|triphenyl phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005726532	CCMSLIB00005726532	0.71	6	Massbank:UF417503 Triphenylphosphate|Triphenyl phosphate	M+H	1

@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933034	CCMSLIB00009933034	0.97	9	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C26H36O11) with delta m/z 180.064 (putative explanation: hexose analog and water loss; atomic difference: 6C,12H,6O)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009981508	CCMSLIB00009981508	0.97	9	Suspect related to SECOISOLARICIRESINOL (predicted molecular formula: C26H36O11) with delta m/z 162.053 (putative explanation: Glucuronidation|Hexose; atomic difference: 6C,10H,5O|6C,10H,5O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933019	CCMSLIB00009933019	0.86	6	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C26H40O13) with delta m/z 198.073 (putative explanation: unspecified; atomic difference: unspecified)	[M-2H2O+H]+	1

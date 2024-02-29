@@ -1,0 +1,12 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000080299:Bsub_P4_C02:scan:728	0.83	5	NoID
+0.0	mzspec:MSV000080299:Bsub_P3_G04:scan:726	0.82	5	NoID
+0.0	mzspec:MSV000083274:PiperAuritum_Stem:scan:2315	0.81	7	NoID
+0.0	mzspec:MSV000087087:5556776:scan:792	0.81	6	NoID
+0.0	mzspec:MSV000083274:PiperAuritum_Leaf:scan:2302	0.79	7	NoID
+-0.04	mzspec:MSV000083462:11712.SUBJECT21.STOOL.456:scan:264	0.75	5	NoID
+-0.04	mzspec:MSV000083302:S11_RB1_01_40267:scan:437	0.73	6	NoID
+-0.04	mzspec:MSV000082616:GIMap_P1_LI_Aq-Org_Mixed_A11:scan:1070	0.71	5	NoID
+-0.04	mzspec:MSV000083302:S177_RB8_01_40484:scan:340	0.7	6	NoID
+-0.04	mzspec:MSV000082616:GIMap_P1_LI_Aq-Org_Mixed_C7:scan:1143	0.7	5	NoID
+-0.04	mzspec:MSV000084325:Pos_P34_C10_liver_uninfected:scan:246	0.7	5	NoID

@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992745	CCMSLIB00009992745	0.77	5	Suspect related to Spectral Match to Diisooctyl phthalate from NIST14 (predicted molecular formula: unknown) with delta m/z 0.948 (putative explanation: Lys->Glu substitution; atomic difference: -1C,-5H,-1N,2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992833	CCMSLIB00009992833	0.76	5	Suspect related to Spectral Match to Dioctyl phthalate from NIST14 (predicted molecular formula: C12H25N9O6) with delta m/z 0.919 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009990916	CCMSLIB00009990916	0.72	6	Suspect related to Spectral Match to Bis(2-ethylhexyl) phthalate from NIST14 (predicted molecular formula: unknown) with delta m/z 0.886 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

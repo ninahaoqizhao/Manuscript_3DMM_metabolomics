@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009947740	CCMSLIB00009947740	0.81	10	Suspect related to Fucosterol (predicted molecular formula: C29H48O2) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009939831	CCMSLIB00009939831	0.74	10	Suspect related to 8(9)-Dehydrocholesterol (predicted molecular formula: C29H48O2) with delta m/z 44.026 (putative explanation: Ethanolation|Gly->Thr substitution|PEG repeat unit|unspecified; atomic difference: 2C,4H,1O|2C,4H,1O|2C,4H,1O|2H,3N)	[M-H2O+H]+	1

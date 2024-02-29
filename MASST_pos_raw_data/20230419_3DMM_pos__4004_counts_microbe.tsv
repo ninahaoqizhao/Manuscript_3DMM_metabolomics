@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087354:190814_Alanin_WP3	0.04	mzspec:MSV000087354:190814_Alanin_WP3:scan:3143	1	0.75	8	MSV000087354	NoID	MSV000087354/raw/190814_Alanin_WP3.mzXML	MSV000087354/190814_Alanin_WP3.mzXML	MSV000087354	Streptomyces chartreusis NRRL 3882		1079985	automatic	No	No	No
+mzspec:MSV000083734:MeOH_blank_GE7_01_40244	0.04	mzspec:MSV000083734:MeOH_blank_GE7_01_40244:scan:2581	1	0.7	6	MSV000083734	NoID	MSV000083734/ccms_peak/mzxml/MeOH_blank_GE7_01_40244.mzML	MSV000083734/MeOH_blank_GE7_01_40244.mzML	MSV000083734	Eggerthella lenta		blank	automatic	No	Yes	No

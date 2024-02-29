@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF141_C05_pos	0.0	mzspec:MSV000087728:VGF141_C05_pos:scan:2476	1	0.75	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF141_C05_pos.mzML	MSV000087728/VGF141_C05_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No
+mzspec:MSV000087728:VGF141_G10_pos	-0.0	mzspec:MSV000087728:VGF141_G10_pos:scan:2163	1	0.72	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF141_G10_pos.mzML	MSV000087728/VGF141_G10_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No
+mzspec:MSV000087728:VGF140_A11_pos	-0.0	mzspec:MSV000087728:VGF140_A11_pos:scan:2074	1	0.71	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF140_A11_pos.mzML	MSV000087728/VGF140_A11_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No

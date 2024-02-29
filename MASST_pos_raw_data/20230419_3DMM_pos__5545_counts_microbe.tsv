@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089522:129-2_1-62_01_6110	0.0	mzspec:MSV000089522:129-2_1-62_01_6110:scan:1965	1	0.71	5	MSV000089522	NoID	MSV000089522/ccms_peak/129-2_1-62_01_6110.mzML	MSV000089522/129-2_1-62_01_6110.mzML	MSV000089522	Streptomyces coelicolor		1902	automatic	Yes	No	No

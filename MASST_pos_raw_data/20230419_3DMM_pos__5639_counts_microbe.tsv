@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084475:HM_493_BC5_01_46125	-0.04	mzspec:MSV000084475:HM_493_BC5_01_46125:scan:1704	1	0.7	6	MSV000084475	NoID	MSV000084475/peak/mzXML files/FCM Plates/FCM Plate 3A/HM_493_BC5_01_46125.mzXML	MSV000084475/HM_493_BC5_01_46125.mzXML	MSV000084475	Propionibacterium acnes HL005PA2	Cutibacterium acnes HL005PA2	765097	automatic	Yes	No	No

@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009993766	CCMSLIB00009993766	0.98	5	Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C10H22O6) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009949375	CCMSLIB00009949375	0.81	6	Suspect related to Hexaethylene glycol (predicted molecular formula: C10H22O6) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

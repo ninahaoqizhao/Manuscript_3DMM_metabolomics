@@ -1,0 +1,9 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.04	mzspec:MSV000087872:Huernia-zebrina-leaf-nBuOH:scan:1837	0.88	6	NoID
+0.04	mzspec:MSV000087872:Hechtia-texensis-leaf-nBuOH:scan:1952	0.86	6	NoID
+-0.0	mzspec:MSV000083274:PiperNigrum_Leaf:scan:3288	0.85	6	NoID
+-0.0	mzspec:MSV000083274:PiperNigrum_Stem:scan:3276	0.84	6	NoID
+-0.02	mzspec:MSV000084314:MSV000083274:scan:3778	0.78	5	NoID
+-0.04	mzspec:MSV000080016:SC_tissue_type_F08:scan:1503	0.71	5	NoID
+-0.04	mzspec:MSV000080016:SC_healthy_F08:scan:1491	0.7	5	NoID
+-0.04	mzspec:MSV000080016:SC_healthy_B06:scan:1496	0.7	5	NoID

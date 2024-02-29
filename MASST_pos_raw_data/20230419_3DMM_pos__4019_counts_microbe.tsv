@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083660:37_2_3mMFe	0.0	mzspec:MSV000083660:37_2_3mMFe:scan:1070	1	0.91	9	MSV000083660	NoID	MSV000083660/peak/mzXML/9min_method/37_2_3mMFe.mzXML	MSV000083660/37_2_3mMFe.mzXML	MSV000083660	Pseudomonas psychrophila		122355	automatic	No	No	No
+mzspec:MSV000083387:QC1	-0.0	mzspec:MSV000083387:QC1:scan:1229	1	0.88	9	MSV000083387	NoID	MSV000083387/ccms_peak/Raw/QC1.mzML	MSV000083387/QC1.mzML	MSV000083387	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes
+mzspec:MSV000083383:QC1	-0.0	mzspec:MSV000083383:QC1:scan:1229	1	0.88	9	MSV000083383	NoID	MSV000083383/updates/2019-10-30_allegraaron_e0b9cac9/other/allegraaron/190114_Hui_Ecoli/mzXML/QC1.mzXML	MSV000083383/QC1.mzXML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes

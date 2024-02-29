@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946582	CCMSLIB00009946582	0.74	5	Suspect related to Dodecanedioic acid (predicted molecular formula: C11H20O6) with delta m/z 17.973 (putative explanation: Pro->Asp substitution; atomic difference: -1C,-2H,2O)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009941155	CCMSLIB00009941155	0.74	5	Suspect related to 9S-Hydroxy-10E,12Z,15Z-octadecatrienoic acid (predicted molecular formula: C12H22O4) with delta m/z -64.068 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009936758	CCMSLIB00009936758	0.72	5	Suspect related to 3-Furancarboxylic acid, tetrahydro-4-methylene-2-octyl-5-oxo-, (2R,3S)-rel- (predicted molecular formula: C11H18O5) with delta m/z -24.037 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

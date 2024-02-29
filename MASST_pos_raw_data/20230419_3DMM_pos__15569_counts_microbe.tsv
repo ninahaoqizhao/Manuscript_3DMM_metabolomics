@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086884:PLT4_H1	0.0	mzspec:MSV000086884:PLT4_H1:scan:5545	1	0.81	5	MSV000086884	NoID	MSV000086884/ccms_peak/raw/PLT4_H1.mzML	MSV000086884/PLT4_H1.mzML	MSV000086884	Bacteroides thetaiotaomicron		818	automatic	No	No	No
+mzspec:MSV000080559:O_3	-0.04	mzspec:MSV000080559:O_3:scan:1911	1	0.76	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_3.mzXML	MSV000080559/O_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000086666:01003-88-27	-0.04	mzspec:MSV000086666:01003-88-27:scan:1753	1	0.73	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-27.mzML	MSV000086666/01003-88-27.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No

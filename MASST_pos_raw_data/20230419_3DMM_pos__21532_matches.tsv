@@ -1,0 +1,10 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.04	mzspec:MSV000081351:39119:scan:3334	0.75	9	NoID
+0.04	mzspec:MSV000086483:Wash_20201110104503:scan:1020	0.75	6	NoID
+-0.05	mzspec:MSV000083098:MN-IX-1105_b:scan:5180	0.74	7	NoID
+-0.05	mzspec:MSV000080188:Control_D01:scan:2285	0.72	6	NoID
+-0.05	mzspec:MSV000084314:MSV000086178:scan:9806	0.71	5	NoID
+-0.05	mzspec:MSV000081470:V. insolatus 1_19:scan:22084	0.7	7	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab018_A_Pos_MS2_rep3:scan:5979	0.7	7	NoID
+0.0	mzspec:MSV000087995:DOM_Interlab-LCMS_Lab018_A_Pos_MS2_rep3:scan:5979	0.7	7	NoID
+-0.05	mzspec:MSV000083729:Stromatolite_Tissue_68_pos:scan:3701	0.7	6	NoID

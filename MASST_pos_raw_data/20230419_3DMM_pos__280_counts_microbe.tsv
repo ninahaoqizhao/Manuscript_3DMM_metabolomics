@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083383:S_WT-1_Zn	0.0	mzspec:MSV000083383:S_WT-1_Zn:scan:1356	1	0.81	5	MSV000083383	NoID	MSV000083383/ccms_peak/raw/S_WT-1_Zn.mzML	MSV000083383/S_WT-1_Zn.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	316435	maual	No	No	No

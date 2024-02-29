@@ -1,0 +1,14 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136153	CCMSLIB00003136153	1.0	7	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138834	CCMSLIB00003138834	0.97	7	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135040	CCMSLIB00003135040	0.95	7	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003137987	CCMSLIB00003137987	0.93	7	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136073	CCMSLIB00003136073	0.92	6	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136196	CCMSLIB00003136196	0.92	7	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135075	CCMSLIB00003135075	0.9	6	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138003	CCMSLIB00003138003	0.89	6	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139976	CCMSLIB00003139976	0.88	6	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139354	CCMSLIB00003139354	0.87	5	Spectral Match to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol from NIST14	M+H-2H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950144	CCMSLIB00009950144	0.79	6	Suspect related to Kirenol (predicted molecular formula: unknown) with delta m/z -64.031 (putative explanation: nan (reverse); atomic difference: -5C,-4H)	[M-CH8O4+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010000844	CCMSLIB00010000844	0.79	6	Suspect related to Steviol (predicted molecular formula: unknown) with delta m/z -64.031 (putative explanation: nan (reverse); atomic difference: -5C,-4H)	[M-CH4O3+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009988556	CCMSLIB00009988556	0.74	5	Suspect related to Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14 (predicted molecular formula: C14H24O) with delta m/z -86.037 (putative explanation: Alkyl ester/carboxyl loss; atomic difference: -4C,-6H,-2O)	[M-H2O+H]+	1

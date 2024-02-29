@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000081555:B031_GenbankAccession-KY858239	-0.03	mzspec:MSV000081555:B031_GenbankAccession-KY858239:scan:1846	2	0.71	5	MSV000081555	NoID	MSV000081555/ccms_peak/FullSpectra-mzML/B031_GenbankAccession-KY858239.mzML	MSV000081555/B031_GenbankAccession-KY858239.mzML	MSV000081555	Micromonospora chokoriensis		356851	automatic	No	No	No

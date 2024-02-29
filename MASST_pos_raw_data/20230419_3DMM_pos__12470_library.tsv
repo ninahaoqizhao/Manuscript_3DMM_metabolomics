@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009929637	CCMSLIB00009929637	0.93	5	Suspect related to 1-Palmitoyl-2-linoleoyl-rac-glycerol (predicted molecular formula: unknown) with delta m/z 30.021 (putative explanation: unspecified; atomic difference: 2N,2H)	[M-C18H32O2+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009993525	CCMSLIB00009993525	0.93	5	Suspect related to Spectral Match to Glycerol 1-myristate from NIST14 (predicted molecular formula: C19H40N2O4) with delta m/z 58.051 (putative explanation: unspecified; atomic difference: 2C,6H,2N)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952711	CCMSLIB00009952711	0.87	5	Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z -28.015 (putative explanation: unspecified; atomic difference: unspecified)	unknown	1

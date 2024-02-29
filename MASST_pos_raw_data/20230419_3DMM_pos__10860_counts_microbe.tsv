@@ -1,0 +1,8 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083660:13_1_3mMFe	-0.0	mzspec:MSV000083660:13_1_3mMFe:scan:1755	1	0.97	10	MSV000083660	NoID	MSV000083660/peak/mzXML/12min_samples/13_1_3mMFe.mzXML	MSV000083660/13_1_3mMFe.mzXML	MSV000083660	Pseudomonas psychrophila		122355	automatic	No	No	No
+mzspec:MSV000083835:28	-0.0	mzspec:MSV000083835:28:scan:3957	1	0.94	10	MSV000083835	NoID	MSV000083835/peak/MeOH_Neg_mzML/28.mzML	MSV000083835/28.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000084117:blank_00	-0.0	mzspec:MSV000084117:blank_00:scan:2513	1	0.9	9	MSV000084117	NoID	MSV000084117/ccms_peak/mzxml/blank_00.mzML	MSV000084117/blank_00.mzML	MSV000084117	Bacillus subtilis		blank	automatic	No	Yes	No
+mzspec:MSV000083835:34	-0.0	mzspec:MSV000083835:34:scan:3302	1	0.88	9	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/34.mzML	MSV000083835/34.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000088519:PPL_Medium_Blank	-0.0	mzspec:MSV000088519:PPL_Medium_Blank:scan:3497	1	0.86	8	MSV000088519	NoID	MSV000088519/ccms_peak/raw/PPL_Medium_Blank.mzML	MSV000088519/PPL_Medium_Blank.mzML	MSV000088519	Bacteria		blank	automatic	No	Yes	No
+mzspec:MSV000081065:5_23_II	-0.0	mzspec:MSV000081065:5_23_II:scan:2985	1	0.79	8	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_II.mzXML	MSV000081065/5_23_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000087905:Sp44-20R	-0.0	mzspec:MSV000087905:Sp44-20R:scan:3267	1	0.77	7	MSV000087905	NoID	MSV000087905/ccms_peak/raw/Sp44-20R.mzML	MSV000087905/Sp44-20R.mzML	MSV000087905	Bacteria		2	automatic	No	No	No

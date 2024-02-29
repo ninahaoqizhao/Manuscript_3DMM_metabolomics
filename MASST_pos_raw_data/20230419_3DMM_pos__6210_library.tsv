@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010107222	CCMSLIB00010107222	0.92	5	azelaic acid CollisionEnergy:102040	M+H-H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135294	CCMSLIB00003135294	0.92	5	Spectral Match to Azelaic acid from NIST14	M+H-H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138966	CCMSLIB00003138966	0.92	5	Spectral Match to Azelaic acid from NIST14	M+H-H2O	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010118559	CCMSLIB00010118559	0.88	5	azelaic acid CollisionEnergy:205060	M+H-H2O	1

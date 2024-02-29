@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000081542:F10	0.0	mzspec:MSV000081542:F10:scan:5366	1	0.73	5	MSV000081542	NoID	MSV000081542/peak/F10.mzXML	MSV000081542/F10.mzXML	MSV000081542	Sandwithia guyanensis	316729	No	No	No
+mzspec:MSV000081542:F6	0.0	mzspec:MSV000081542:F6:scan:5689	1	0.72	5	MSV000081542	NoID	MSV000081542/peak/F6.mzXML	MSV000081542/F6.mzXML	MSV000081542	Sandwithia guyanensis	316729	No	No	No

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082385:6639_M_medium_37C_03	0.01	mzspec:MSV000082385:6639_M_medium_37C_03:scan:605	1	0.7	5	MSV000082385	NoID	MSV000082385/ccms_peak/raw/6639_M_medium_37C_03.mzML	MSV000082385/6639_M_medium_37C_03.mzML	MSV000082385	Bacillus		1386	automatic	No	No	No

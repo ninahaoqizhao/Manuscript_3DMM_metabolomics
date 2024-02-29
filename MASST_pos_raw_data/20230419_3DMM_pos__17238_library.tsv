@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946562	CCMSLIB00009946562	0.73	5	Suspect related to Dodecanedioic acid (predicted molecular formula: C12H20O4) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946654	CCMSLIB00009946654	0.72	5	Suspect related to Dodecanedioic acid (predicted molecular formula: C10H20N3O4) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O)	[M-3H2O+H]+	1

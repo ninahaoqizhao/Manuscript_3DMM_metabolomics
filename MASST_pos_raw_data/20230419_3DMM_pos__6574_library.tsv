@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009971947	CCMSLIB00009971947	0.96	5	Suspect related to NCGC00380746-01!1,7-bis(4-hydroxyphenyl)heptane-3,5-diol (predicted molecular formula: C19H22O4) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009970375	CCMSLIB00009970375	0.95	6	Suspect related to NCGC00347453-02!(E)-1,7-bis(4-hydroxyphenyl)hept-4-en-3-one (predicted molecular formula: C19H22O4) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000846657	CCMSLIB00000846657	0.9	5	NCGC00384784-01!5-hydroxy-1,7-bis(4-hydroxyphenyl)heptan-3-one	M+H	1

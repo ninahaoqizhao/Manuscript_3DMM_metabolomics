@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000079900:20131003_mth_Anid_wt_organic_extract_b2	0.03	mzspec:MSV000079900:20131003_mth_Anid_wt_organic_extract_b2:scan:762	1	0.83	6	MSV000079900	NoID	MSV000079900/ccms_peak/20131003_mth_Anid_wt_organic_extract_b2.mzML	MSV000079900/20131003_mth_Anid_wt_organic_extract_b2.mzML	MSV000079900	Aspergillus nidulans FGSC A4		227321	automatic	No	No	No
+mzspec:MSV000080559:Blank_2	-0.01	mzspec:MSV000080559:Blank_2:scan:43	1	0.79	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_2.mzXML	MSV000080559/Blank_2.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No
+mzspec:MSV000080559:Blank_6	-0.01	mzspec:MSV000080559:Blank_6:scan:101	1	0.79	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_6.mzXML	MSV000080559/Blank_6.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No

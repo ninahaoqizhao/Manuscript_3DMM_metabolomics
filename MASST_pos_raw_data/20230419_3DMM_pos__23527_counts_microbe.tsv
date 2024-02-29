@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086666:01003-88-27	-0.0	mzspec:MSV000086666:01003-88-27:scan:3229	1	0.93	16	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-27.mzML	MSV000086666/01003-88-27.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000080559:L_1	-0.0	mzspec:MSV000080559:L_1:scan:2663	1	0.87	13	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/L_1.mzXML	MSV000080559/L_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:J_3	-0.0	mzspec:MSV000080559:J_3:scan:2523	1	0.86	12	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/J_3.mzXML	MSV000080559/J_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000083523:FZB42_bmyA_seed_1_5_days_extremo_raiz	0.0	mzspec:MSV000083523:FZB42_bmyA_seed_1_5_days_extremo_raiz:scan:2895	1	0.79	12	MSV000083523	NoID	MSV000083523/ccms_peak/FZB42_bmyA_seed_1_5_days_extremo_raiz.mzML	MSV000083523/FZB42_bmyA_seed_1_5_days_extremo_raiz.mzML	MSV000083523	Bacteria		2	automatic	No	No	No

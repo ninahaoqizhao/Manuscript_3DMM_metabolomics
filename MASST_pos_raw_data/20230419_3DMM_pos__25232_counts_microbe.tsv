@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088535:17-20_TSB	-0.0	mzspec:MSV000088535:17-20_TSB:scan:3352	1	0.72	5	MSV000088535	NoID	MSV000088535/ccms_peak/Raw_peptide_Lukas/17-20_TSB.mzML	MSV000088535/17-20_TSB.mzML	MSV000088535	Staphylococcus		1279	automatic	No	No	No

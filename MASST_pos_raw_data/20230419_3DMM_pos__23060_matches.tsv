@@ -1,0 +1,12 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.04	mzspec:MSV000087854:251:scan:5231	0.79	6	NoID
+-0.01	mzspec:MSV000084314:MSV000083002:scan:231747	0.74	7	NoID
+0.03	mzspec:MSV000087728:VGF152_E11_pos:scan:2927	0.72	7	NoID
+0.03	mzspec:MSV000086427:VGF152_E11:scan:2927	0.72	7	NoID
+0.04	mzspec:MSV000082433:70:scan:2391	0.72	6	NoID
+0.04	mzspec:MSV000087728:VGF150_A04_pos:scan:2967	0.71	7	NoID
+0.04	mzspec:MSV000082380:Triple_seed_1_5_days_mitad_raiz:scan:2661	0.71	7	NoID
+0.04	mzspec:MSV000083523:Triple_seed_1_5_days_mitad_raiz:scan:2661	0.71	7	NoID
+0.0	mzspec:MSV000085025:Xeno_1ng_2:scan:3368	0.71	6	NoID
+-0.03	mzspec:MSV000084945:BmvATCC17616_EA+acid_48_Tri_P1-B-8_01_4995:scan:5104	0.71	5	NoID
+-0.02	mzspec:MSV000087728:VGF144_H07_pos:scan:4014	0.7	7	NoID

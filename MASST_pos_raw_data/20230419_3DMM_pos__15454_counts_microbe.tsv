@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088534:Lugdubactin_SPE_100MeOH_2	0.04	mzspec:MSV000088534:Lugdubactin_SPE_100MeOH_2:scan:2361	1	0.85	5	MSV000088534	NoID	MSV000088534/ccms_peak/Raw_Lugdubactin/Lugdubactin_SPE_100MeOH_2.mzML	MSV000088534/Lugdubactin_SPE_100MeOH_2.mzML	MSV000088534	Staphylococcus lugdunensis		28035	automatic	No	No	No

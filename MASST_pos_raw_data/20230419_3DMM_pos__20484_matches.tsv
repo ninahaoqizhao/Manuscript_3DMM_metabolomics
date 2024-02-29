@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.04	mzspec:MSV000080627:ONR_Stool_12:scan:2412	0.91	9	NoID
+0.01	mzspec:MSV000083559:11713.4.O.4B:scan:2244	0.82	8	NoID
+-0.03	mzspec:MSV000084314:MSV000083383:scan:8694	0.81	6	NoID
+0.05	mzspec:MSV000083383:isa_wine_ALL:scan:627	0.77	5	NoID
+0.01	mzspec:MSV000082869:94860_R-H12:scan:1710	0.76	6	NoID
+-0.0	mzspec:MSV000082382:Soil_control_1:scan:2490	0.71	7	NoID
+0.01	mzspec:MSV000083559:11713.18.S.18D:scan:2240	0.7	8	NoID

@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000082616:GIMap_P2_LI_SC_blank_Pos_restart2:scan:916	0.89	5	NoID
+0.05	mzspec:MSV000084020:RRC_30_39:scan:165	0.85	5	NoID
+-0.0	mzspec:MSV000087087:5555660:scan:646	0.83	5	NoID
+0.04	mzspec:MSV000087087:5556749:scan:275	0.82	5	NoID
+0.04	mzspec:MSV000081097:GNPS_Aspergillus_aculeatus_4:scan:1037	0.81	5	NoID
+0.04	mzspec:MSV000081097:GNPS_Aspergillus_aculeatus_3:scan:1020	0.81	5	NoID
+0.04	mzspec:MSV000081097:GNPS_Aspergillus_aculeatus_2:scan:1047	0.79	5	NoID
+0.04	mzspec:MSV000081097:GNPS_Aspergillu_aculeatus_1:scan:1020	0.78	5	NoID
+0.04	mzspec:MSV000081097:GNPS_Aspergillus_terreus_3:scan:733	0.77	5	NoID
+-0.02	mzspec:MSV000087087:5556817:scan:310	0.76	5	NoID
+0.0	mzspec:MSV000087087:5556682:scan:644	0.74	5	NoID
+-0.02	mzspec:MSV000087087:5556895:scan:320	0.74	5	NoID
+-0.02	mzspec:MSV000088137:2230:scan:308	0.7	5	NoID
+-0.02	mzspec:MSV000082433:M-663:scan:332	0.7	5	NoID

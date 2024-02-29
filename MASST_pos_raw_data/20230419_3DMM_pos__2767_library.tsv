@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009953545	CCMSLIB00009953545	0.94	6	Suspect related to Massbank:AU285706 Triethylcitrate|Triethyl citrate|triethyl 2-hydroxypropane-1,2,3-tricarboxylate (predicted molecular formula: C13H20O5) with delta m/z -19.991 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009926998	CCMSLIB00009926998	0.82	5	Suspect related to 0055_Triethylcitrate (predicted molecular formula: C13H20O5) with delta m/z -19.991 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005749054	CCMSLIB00005749054	0.74	5	Massbank:PR304269 trans-pterostilbene	M+H	1

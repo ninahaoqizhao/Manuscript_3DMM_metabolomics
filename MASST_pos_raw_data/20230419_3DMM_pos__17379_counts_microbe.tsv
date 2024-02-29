@@ -1,0 +1,9 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:59	0.0	mzspec:MSV000083835:59:scan:3845	2	0.8	10	MSV000083835	NoID	MSV000083835/peak/MeOH_High_res_mzML/59.mzML	MSV000083835/59.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:54	0.0	mzspec:MSV000083835:54:scan:4202	2	0.79	10	MSV000083835	NoID	MSV000083835/peak/MeOH_High_res_mzML/54.mzML	MSV000083835/54.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:58	0.0	mzspec:MSV000083835:58:scan:3797	2	0.75	10	MSV000083835	NoID	MSV000083835/peak/MeOH_High_res_mzML/58.mzML	MSV000083835/58.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000089834:Pig_10	0.01	mzspec:MSV000089834:Pig_10:scan:4193	2	0.72	6	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2020/Pig_10.mzML	MSV000089834/Pig_10.mzML	MSV000089834	Erythrobacter vulgaris wadden sea isolate	Erythrobacter vulgaris	291985	manual	No	No	No
+mzspec:MSV000082999:Isa_9_a	0.02	mzspec:MSV000082999:Isa_9_a:scan:1626	2	0.71	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_9_a.mzML	MSV000082999/Isa_9_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_3_a	0.02	mzspec:MSV000082999:Isa_3_a:scan:1617	2	0.7	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_3_a.mzML	MSV000082999/Isa_3_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_9_b	0.02	mzspec:MSV000082999:Isa_9_b:scan:1618	2	0.7	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_9_b.mzML	MSV000082999/Isa_9_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_12_b	0.02	mzspec:MSV000082999:Isa_12_b:scan:1598	2	0.7	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_12_b.mzML	MSV000082999/Isa_12_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

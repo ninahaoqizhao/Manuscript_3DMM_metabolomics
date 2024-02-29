@@ -1,0 +1,20 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000081492:dhmc_9_10:scan:3448	0.93	8	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_15:scan:2800	0.82	8	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_22:scan:2772	0.82	7	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_09:scan:2810	0.82	7	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_18:scan:2833	0.81	7	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_14:scan:2782	0.81	7	NoID
+-0.04	mzspec:MSV000081354:Std_Mix_01:scan:2811	0.8	7	NoID
+-0.01	mzspec:MSV000088842:20B:scan:2746	0.8	6	NoID
+-0.04	mzspec:MSV000081492:Std_MIx_04:scan:2723	0.79	7	NoID
+-0.03	mzspec:MSV000084314:MSV000081470:scan:44715	0.78	7	NoID
+-0.04	mzspec:MSV000081354:Std_Mix_03:scan:2816	0.77	7	NoID
+-0.04	mzspec:MSV000088843:78_2_SI_C:scan:1984	0.77	7	NoID
+0.04	mzspec:MSV000084314:MSV000084904:scan:3562	0.77	6	NoID
+-0.04	mzspec:MSV000081354:Blnk_No_Inj_23:scan:2784	0.76	7	NoID
+-0.04	mzspec:MSV000088843:85_2_SI:scan:1987	0.73	7	NoID
+0.03	mzspec:MSV000089313:14HM485:scan:2143	0.73	6	NoID
+-0.04	mzspec:MSV000081492:Solvent_Blank_01:scan:2728	0.72	7	NoID
+-0.04	mzspec:MSV000088843:67_4_SI:scan:2019	0.71	7	NoID
+-0.04	mzspec:MSV000081343:Solvent_Blank_31:scan:2834	0.71	7	NoID

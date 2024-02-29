@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.04	mzspec:MSV000088570:MRS_medium_blank_T72_BileSaltsAdded:scan:2756	0.92	7	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_gasseri_MV-22_T00_NoBileSalts:scan:2725	0.91	6	NoID
+0.0	mzspec:MSV000084314:MSV000083002:scan:235964	0.9	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_20210802061036:scan:2741	0.89	6	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_20210802054840:scan:2736	0.89	5	NoID
+-0.04	mzspec:MSV000088570:MRS_medium_blank_T00_NoBileSalts:scan:2744	0.89	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_acidophilus_ATCC_832_T00_NoBileSalts:scan:2738	0.88	5	NoID
+-0.04	mzspec:MSV000088570:MRS_medium_blank:scan:2750	0.88	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_T00_NoBileSalts:scan:2741	0.87	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_acidophilus_ATCC_832_20210802065428:scan:2743	0.87	5	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_reuteri_CF48-3A_20210802063230:scan:2741	0.87	5	NoID
+-0.04	mzspec:MSV000087904:Cl12_tetRdel_M8_1_NRPS_Scoelicolor_Butanol:scan:6353	0.84	5	NoID
+-0.04	mzspec:MSV000087904:pCAP03_M8_NRPS_Scoelicolor_Ethylacetat:scan:5974	0.84	5	NoID

@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009934828	CCMSLIB00009934828	0.79	8	Suspect related to 2-Linoleoylglycerol (predicted molecular formula: C22H45NO3) with delta m/z 17.062 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009988390	CCMSLIB00009988390	0.73	7	Suspect related to Spectral Match to 13-Docosenamide, (Z)- from NIST14 (predicted molecular formula: C19H43N6O) with delta m/z 34.005 (putative explanation: Hydroxylation, epoxidation|unspecified; atomic difference: 2H,2O|2H,2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009977421	CCMSLIB00009977421	0.73	7	Suspect related to Oleamide (predicted molecular formula: C22H45NO3) with delta m/z 90.068 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

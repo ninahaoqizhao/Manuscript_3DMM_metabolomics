@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	MassIVE	Filename	node_id
+mzspec:MSV000084900:Silage_3_GB3_01_49139	0.0	mzspec:MSV000084900:Silage_3_GB3_01_49139:scan:994	1	0.84	5	MSV000084900	NoID	MSV000084900	Silage_3_GB3_01_49139.mzXML	corn husk
+mzspec:MSV000084900:sample_18_2dil_RD8_01_49376	-0.04	mzspec:MSV000084900:sample_18_2dil_RD8_01_49376:scan:754	1	0.79	5	MSV000084900	NoID	MSV000084900	sample_18_2dil_RD8_01_49376.mzXML	cowpea
+mzspec:MSV000084900:sample_19_2dil_RD9_01_49377	-0.04	mzspec:MSV000084900:sample_19_2dil_RD9_01_49377:scan:748	1	0.75	5	MSV000084900	NoID	MSV000084900	sample_19_2dil_RD9_01_49377.mzXML	cowpea

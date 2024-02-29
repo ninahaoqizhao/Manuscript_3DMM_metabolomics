@@ -1,0 +1,17 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000087630:17+SK+on+GSPG+EthAc-pos:scan:4030	0.83	6	NoID
+-0.0	mzspec:MSV000083835:17 SK on GSPG EthAc-pos:scan:4030	0.83	6	NoID
+-0.0	mzspec:MSV000083835:17:scan:4030	0.83	6	NoID
+-0.0	mzspec:MSV000083835:68:scan:3545	0.76	5	NoID
+-0.0	mzspec:MSV000087628:13+SC+on+SA+EthAc-pos:scan:3701	0.75	5	NoID
+-0.0	mzspec:MSV000083835:13 SC on SA EthAc-pos:scan:3701	0.75	5	NoID
+-0.0	mzspec:MSV000083835:13:scan:3701	0.75	5	NoID
+0.03	mzspec:MSV000087728:VGF147_G04_neg:scan:1711	0.73	5	NoID
+0.0	mzspec:MSV000083835:Kapil_39-80_EtOAcMeOH_Sirius.mgfg:scan:3845	0.73	5	NoID
+-0.0	mzspec:MSV000083835:62:scan:3845	0.73	5	NoID
+0.0	mzspec:MSV000087629:21+SJ+on+TSB+EthAc-pos:scan:3967	0.73	5	NoID
+0.0	mzspec:MSV000083835:21 SJ on TSB EthAc-pos:scan:3967	0.73	5	NoID
+0.0	mzspec:MSV000083835:21:scan:3967	0.73	5	NoID
+0.01	mzspec:MSV000084314:MSV000087630:scan:3090	0.71	5	NoID
+-0.0	mzspec:MSV000083835:60:scan:3805	0.7	5	NoID
+0.0	mzspec:MSV000083835:67:scan:3526	0.7	5	NoID

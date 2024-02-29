@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085000:KM_EN-dark	-0.04	mzspec:MSV000085000:KM_EN-dark:scan:2340	1	0.7	7	MSV000085000	NoID	MSV000085000/peak/KM_EN-dark.mzXML	MSV000085000/KM_EN-dark.mzXML	MSV000085000	Epicoccum nigrum cf0051	Epicoccum nigrum	105696	manual	Yes	No	No

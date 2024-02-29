@@ -1,0 +1,9 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000083835:19:scan:2167	0.77	8	NoID
+0.0	mzspec:MSV000083835:19 SJ on SA EthAc-pos:scan:2167	0.77	8	NoID
+0.0	mzspec:MSV000087629:19+SJ+on+SA+EthAc-pos:scan:2167	0.77	8	NoID
+0.0	mzspec:MSV000083835:20:scan:2165	0.75	9	NoID
+0.0	mzspec:MSV000083835:20 SJ on GSPG EthAc-pos:scan:2165	0.75	9	NoID
+0.0	mzspec:MSV000087629:20+SJ+on+GSPG+EthAc-pos:scan:2165	0.75	9	NoID
+0.0	mzspec:MSV000083835:22:scan:2163	0.71	6	NoID
+0.0	mzspec:MSV000083835:22 Control SA EthAc-pos:scan:2163	0.71	6	NoID

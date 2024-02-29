@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086673:IS_RA1_01_60829	-0.04	mzspec:MSV000086673:IS_RA1_01_60829:scan:888	1	0.71	5	MSV000086673	NoID	MSV000086673/peak/pilot_anaerob_biotransf_48h_maxis_mzXML/IS_RA1_01_60829.mzXML	MSV000086673/IS_RA1_01_60829.mzXML	MSV000086673	qc/control		qc	maual	No	No	Yes

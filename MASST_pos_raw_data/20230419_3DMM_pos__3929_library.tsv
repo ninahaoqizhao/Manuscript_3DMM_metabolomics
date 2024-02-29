@@ -1,0 +1,16 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134652	CCMSLIB00003134652	0.99	6	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138415	CCMSLIB00003138415	0.99	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138020	CCMSLIB00003138020	0.99	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139197	CCMSLIB00003139197	0.98	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489507	CCMSLIB00005489507	0.98	5	Spectral Match to Undecaethylene glycol from NIST14 [IIN-based: Match]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489519	CCMSLIB00005489519	0.98	6	Spectral Match to Undecaethylene glycol from NIST14 [IIN-based: Match]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489651	CCMSLIB00005489651	0.96	5	Spectral Match to Undecaethylene glycol from NIST14 [IIN-based: Match]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134737	CCMSLIB00003134737	0.95	6	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489703	CCMSLIB00005489703	0.95	5	Spectral Match to Undecaethylene glycol from NIST14 [IIN-based: Match]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138800	CCMSLIB00003138800	0.94	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135327	CCMSLIB00003135327	0.93	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009996968	CCMSLIB00009996968	0.93	6	Suspect related to Spectral Match to Nonaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 88.06 (putative explanation: pyruvate; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136783	CCMSLIB00003136783	0.92	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136774	CCMSLIB00003136774	0.92	5	Spectral Match to Undecaethylene glycol from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009996967	CCMSLIB00009996967	0.78	5	Suspect related to Spectral Match to Nonaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 88.052 (putative explanation: PEG repeat unit x2; atomic difference: 4C,8H,2O)	[M+H]+	1

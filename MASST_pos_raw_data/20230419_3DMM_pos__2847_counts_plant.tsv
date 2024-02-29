@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087872:Myrtus-communis-stem-nBuOH	0.0	mzspec:MSV000087872:Myrtus-communis-stem-nBuOH:scan:1846	1	0.89	9	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Myrtus-communis-stem-nBuOH.mzML	MSV000087872/Myrtus-communis-stem-nBuOH.mzML	MSV000087872	Myrtus communis	119949	No	No	No
+mzspec:MSV000087872:Acacia-paradoxa-nBuOH	0.0	mzspec:MSV000087872:Acacia-paradoxa-nBuOH:scan:1842	1	0.87	9	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Acacia-paradoxa-nBuOH.mzML	MSV000087872/Acacia-paradoxa-nBuOH.mzML	MSV000087872	Acacia paradoxa	139014	No	No	No

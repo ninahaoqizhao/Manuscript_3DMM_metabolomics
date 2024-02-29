@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009926137	CCMSLIB00009926137	0.83	5	Suspect related to .alpha.-Ionone (predicted molecular formula: C12H16O4) with delta m/z -24.074 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950085	CCMSLIB00009950085	0.83	5	Suspect related to Kinoprene (predicted molecular formula: unknown) with delta m/z -52.104 (putative explanation: unspecified; atomic difference: unspecified)	[M-C3H6O2+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010125587	CCMSLIB00010125587	0.8	5	(-)-Myrtenal CollisionEnergy:205060	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010114260	CCMSLIB00010114260	0.78	5	(-)-Myrtenal CollisionEnergy:102040	M+H	1

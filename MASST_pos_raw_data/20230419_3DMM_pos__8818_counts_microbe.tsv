@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082379:T6SS-Triple_72h_2	0.01	mzspec:MSV000082379:T6SS-Triple_72h_2:scan:1510	4	0.79	8	MSV000082379	NoID	MSV000082379/ccms_peak/raw/T6SS-Triple_72h_2.mzML	MSV000082379/T6SS-Triple_72h_2.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:T6SS-Triple_72h_2	0.01	mzspec:MSV000082402:T6SS-Triple_72h_2:scan:1510	4	0.79	8	MSV000082402	NoID	MSV000082402/ccms_peak/raw/T6SS-Triple_72h_2.mzML	MSV000082402/T6SS-Triple_72h_2.mzML	MSV000082402	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082384:AH187_espont_LB_48h_1	0.01	mzspec:MSV000082384:AH187_espont_LB_48h_1:scan:1551	4	0.74	7	MSV000082384	NoID	MSV000082384/ccms_peak/raw/AH187_espont_LB_48h_1.mzML	MSV000082384/AH187_espont_LB_48h_1.mzML	MSV000082384	Bacillus cereus		1396	automatic	No	No	No

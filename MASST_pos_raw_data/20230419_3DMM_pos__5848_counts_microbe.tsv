@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000078646:JEZ1A	0.0	mzspec:MSV000078646:JEZ1A:scan:4344	2	0.79	6	MSV000078646	NoID	MSV000078646/ccms_peak/JEZ1A.mzXML	MSV000078646/JEZ1A.mzXML	MSV000078646	Staphylococcus aureus		1280	automatic	No	No	No
+mzspec:MSV000078646:agrc1b_140225151934	-0.01	mzspec:MSV000078646:agrc1b_140225151934:scan:4341	2	0.73	5	MSV000078646	NoID	MSV000078646/ccms_peak/agrc1b_140225151934.mzXML	MSV000078646/agrc1b_140225151934.mzXML	MSV000078646	Staphylococcus aureus		1280	automatic	No	No	No

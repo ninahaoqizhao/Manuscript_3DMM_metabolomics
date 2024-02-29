@@ -1,0 +1,11 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000085608:TransControl_03B_RA7_01_55189:scan:92	0.91	7	NoID
+-0.0	mzspec:MSV000085608:TransControl_02A_RA4_01_55185:scan:92	0.88	6	NoID
+-0.0	mzspec:MSV000085608:TransControl_03A_RA6_01_55186:scan:92	0.88	6	NoID
+0.0	mzspec:MSV000085608:MedDose_01_RA10_01_55197:scan:88	0.87	6	NoID
+0.0	mzspec:MSV000085608:HighDose_01_RA12_01_55201:scan:92	0.86	6	NoID
+-0.0	mzspec:MSV000085608:TransControl_01B_RA3_01_55190:scan:92	0.86	6	NoID
+-0.0	mzspec:MSV000085608:TransControl_01A_RA2_01_55184:scan:92	0.85	6	NoID
+0.0	mzspec:MSV000085608:LowDose_02_RA9_01_55194:scan:81	0.85	6	NoID
+0.0	mzspec:MSV000085608:LowDose_01_RA8_01_55193:scan:88	0.83	6	NoID
+0.0	mzspec:MSV000085608:MedDose_02_RA11_01_55198:scan:92	0.8	5	NoID

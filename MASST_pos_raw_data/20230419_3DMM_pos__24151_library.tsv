@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009985502	CCMSLIB00009985502	0.92	7	Suspect related to Spectral Match to 1-Hexadecanoyl-sn-glycerol from NIST14 (predicted molecular formula: unknown) with delta m/z 31.05 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009989646	CCMSLIB00009989646	0.91	7	Suspect related to Spectral Match to 9(10)-EpOME from NIST14 (predicted molecular formula: C24H45NO2) with delta m/z 83.11 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

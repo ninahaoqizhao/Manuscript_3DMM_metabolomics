@@ -1,0 +1,18 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.05	mzspec:MSV000088646:248852_BL:scan:1349	0.94	10	NoID
+-0.04	mzspec:MSV000079714:group4_P2_G3:scan:1672	0.9	9	NoID
+-0.04	mzspec:MSV000079697:group4_P2_G3:scan:1672	0.9	9	NoID
+-0.05	mzspec:MSV000085852:Blank_ResusSolvent:scan:2210	0.88	9	NoID
+-0.03	mzspec:MSV000082331:B3_Apple_Apple1:scan:3815	0.85	6	NoID
+-0.03	mzspec:MSV000082331:A3_Peach_Peach1:scan:3347	0.84	6	NoID
+-0.03	mzspec:MSV000082331:C1_Peach_Peach2:scan:3256	0.84	6	NoID
+-0.01	mzspec:MSV000079714:group4_P2_H2:scan:1588	0.83	9	NoID
+-0.01	mzspec:MSV000079697:group4_P2_H2:scan:1588	0.83	9	NoID
+0.0	mzspec:MSV000079697:group4_P1_G3:scan:1570	0.79	9	NoID
+0.0	mzspec:MSV000079712:group4_P1_G3:scan:1570	0.79	9	NoID
+-0.03	mzspec:MSV000079714:group4_P2_F4:scan:1587	0.79	8	NoID
+-0.05	mzspec:MSV000088646:241676_Y2:scan:1342	0.79	8	NoID
+-0.03	mzspec:MSV000079697:group4_P2_F4:scan:1587	0.79	8	NoID
+-0.03	mzspec:MSV000088646:248852_Y1:scan:1248	0.76	5	NoID
+-0.05	mzspec:MSV000088646:248852_Y2:scan:1340	0.75	7	NoID
+-0.02	mzspec:MSV000088646:298234_Y2:scan:1260	0.73	5	NoID

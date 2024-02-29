@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086879:D2O_2	-0.01	mzspec:MSV000086879:D2O_2:scan:4294967295	2	0.72	7	MSV000086879	NoID	MSV000086879/ccms_peak/peak/D2O_2.mzML	MSV000086879/D2O_2.mzML	MSV000086879	Homo sapiens		9606	automatic	No	No	No
+mzspec:MSV000079520:A1_lab_ATCC	0.0	mzspec:MSV000079520:A1_lab_ATCC:scan:3789	2	0.71	7	MSV000079520	NoID	MSV000079520/ccms_peak/Labelled/A1_lab_ATCC.mzXML	MSV000079520/A1_lab_ATCC.mzXML	MSV000079520	Streptomyces albus ATCC 21838	Streptomyces albus subsp. albus DSM 41398	1081613	maual	No	No	No

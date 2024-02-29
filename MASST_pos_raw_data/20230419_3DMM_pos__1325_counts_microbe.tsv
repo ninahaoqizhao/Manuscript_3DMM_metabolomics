@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084056:1034_CTR_I_POS_1-6_01_7552	-0.03	mzspec:MSV000084056:1034_CTR_I_POS_1-6_01_7552:scan:2993	1	0.75	5	MSV000084056	NoID	MSV000084056/ccms_peak/1034_CTR_I_POS_1-6_01_7552.mzML	MSV000084056/1034_CTR_I_POS_1-6_01_7552.mzML	MSV000084056	Pseudonocardia		1847	automatic	No	No	No

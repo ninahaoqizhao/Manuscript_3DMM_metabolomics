@@ -1,0 +1,7 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005435824	CCMSLIB00005435824	0.88	12	Contaminant vial septum ThermoFisher C5000-44B	M+NH4	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944887	CCMSLIB00009944887	0.87	9	Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 90.047 (putative explanation: Gly->Phe substitution; atomic difference: 7C,6H)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944947	CCMSLIB00009944947	0.82	11	Suspect related to Contaminants septum vial Thermo C4000-53 and C4000-54 serie (predicted molecular formula: C35H41N3O15S) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489447	CCMSLIB00005489447	0.78	10	Contaminant vial septum ThermoFisher C5000-44B [IIN-based: Match]	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489574	CCMSLIB00005489574	0.78	10	Contaminant vial septum ThermoFisher C5000-44B [IIN-based: Match]	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489412	CCMSLIB00005489412	0.77	10	Contaminant vial septum ThermoFisher C5000-44B [IIN-based: Match]	[M+NH4]+	1

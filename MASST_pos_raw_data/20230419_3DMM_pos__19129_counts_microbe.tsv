@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087135:C4	0.0	mzspec:MSV000087135:C4:scan:5397	2	0.96	7	MSV000087135	NoID	MSV000087135/ccms_peak/RiPPs_DSM40736_raw/C4.mzML	MSV000087135/C4.mzML	MSV000087135	Streptomyces viridochromogenes		1938	automatic	No	No	No
+mzspec:MSV000087135:B3	0.0	mzspec:MSV000087135:B3:scan:5482	2	0.87	6	MSV000087135	NoID	MSV000087135/ccms_peak/RiPPs_DSM40736_raw/B3.mzML	MSV000087135/B3.mzML	MSV000087135	Streptomyces viridochromogenes		1938	automatic	No	No	No
+mzspec:MSV000087135:C5	-0.01	mzspec:MSV000087135:C5:scan:5281	2	0.84	6	MSV000087135	NoID	MSV000087135/ccms_peak/RiPPs_DSM40736_raw/C5.mzML	MSV000087135/C5.mzML	MSV000087135	Streptomyces viridochromogenes		1938	automatic	No	No	No
+mzspec:MSV000088827:Blank3	0.0	mzspec:MSV000088827:Blank3:scan:4294967295	2	0.84	5	MSV000088827	NoID	MSV000088827/peak/Blank3.mzML	MSV000088827/Blank3.mzML	MSV000088827	Tolypocladium species	Tolypocladium	blank	maual	No	Yes	No

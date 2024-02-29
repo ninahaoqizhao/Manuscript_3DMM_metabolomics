@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.04	mzspec:MSV000084314:MSV000088137:scan:167146	0.98	10	NoID
+0.0	mzspec:MSV000088137:mars00019:scan:758	0.96	10	NoID
+0.04	mzspec:MSV000087872:Amelanchier-arborea-stem-nBuOH:scan:1528	0.81	6	NoID
+0.04	mzspec:MSV000080299:Control_P2_A03:scan:413	0.8	7	NoID
+0.04	mzspec:MSV000080299:Control_P1_A01:scan:552	0.8	7	NoID
+0.04	mzspec:MSV000080299:Control_P1_A02:scan:412	0.8	7	NoID
+0.04	mzspec:MSV000080299:Control_P2_E03:scan:415	0.79	7	NoID
+0.04	mzspec:MSV000084314:MSV000080299:scan:32515	0.79	7	NoID
+0.04	mzspec:MSV000080299:Control_P1_A03:scan:415	0.78	8	NoID
+0.04	mzspec:MSV000088242:PI56_MIX_FE_R6:scan:2456	0.76	7	NoID
+0.04	mzspec:MSV000087872:Epiphyllum-oxypetalum-leaf-nBuOH:scan:1132	0.74	7	NoID
+0.04	mzspec:MSV000080299:Bsub_P4_A03:scan:563	0.74	7	NoID
+0.04	mzspec:MSV000080299:Bsub_P3_E04:scan:413	0.72	7	NoID

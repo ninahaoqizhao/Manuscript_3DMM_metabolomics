@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000081351:Solvent_Blank_05:scan:2528	1.0	5	NoID
+0.01	mzspec:MSV000081351:Solvent_Blank_04:scan:2506	0.99	5	NoID
+0.01	mzspec:MSV000081351:Solvent_Blank_16:scan:2510	0.99	5	NoID
+0.01	mzspec:MSV000081351:blank:scan:2456	0.99	5	NoID
+0.01	mzspec:MSV000081351:Solvent_Blank_12:scan:2476	0.99	5	NoID
+0.01	mzspec:MSV000081351:Solvent_Blank_07:scan:2513	0.99	5	NoID
+0.01	mzspec:MSV000081351:Solvent_Blank_11:scan:2519	0.99	5	NoID

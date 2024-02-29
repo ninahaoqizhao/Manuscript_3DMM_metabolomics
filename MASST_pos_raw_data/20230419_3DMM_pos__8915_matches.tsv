@@ -1,0 +1,22 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000079697:group4_P2_E3:scan:1512	0.92	9	NoID
+0.01	mzspec:MSV000079697:group4_P2_D7:scan:1567	0.92	9	NoID
+0.01	mzspec:MSV000079697:group3_P1_E8:scan:1664	0.92	9	NoID
+0.01	mzspec:MSV000079714:group4_P2_D7:scan:1567	0.92	9	NoID
+0.01	mzspec:MSV000079707:group3_P1_E8:scan:1664	0.92	9	NoID
+0.01	mzspec:MSV000079714:group4_P2_E3:scan:1512	0.92	9	NoID
+0.01	mzspec:MSV000079697:group4_P2_G9:scan:1495	0.91	9	NoID
+0.01	mzspec:MSV000079697:group4_P2_G2:scan:1574	0.91	9	NoID
+0.01	mzspec:MSV000079697:group4_P2_G1:scan:1601	0.91	9	NoID
+0.02	mzspec:MSV000079697:group4_P2_E6:scan:1512	0.91	9	NoID
+0.01	mzspec:MSV000079714:group4_P2_G1:scan:1601	0.91	9	NoID
+0.01	mzspec:MSV000079714:group4_P2_G9:scan:1495	0.91	9	NoID
+0.02	mzspec:MSV000079714:group4_P2_E6:scan:1512	0.91	9	NoID
+0.01	mzspec:MSV000079714:group4_P2_G2:scan:1574	0.91	9	NoID
+0.02	mzspec:MSV000079714:group4_P2_E10:scan:1504	0.9	9	NoID
+0.02	mzspec:MSV000079697:group4_P2_E10:scan:1504	0.9	9	NoID
+0.02	mzspec:MSV000079714:group4_P2_D11:scan:1597	0.9	9	NoID
+0.02	mzspec:MSV000079697:group4_P2_D11:scan:1597	0.9	9	NoID
+0.02	mzspec:MSV000079707:group3_P1_E7:scan:1635	0.81	6	NoID
+0.02	mzspec:MSV000079697:group3_P1_E7:scan:1635	0.81	6	NoID
+0.05	mzspec:MSV000083300:BP000097001_p:scan:2184	0.73	6	NoID

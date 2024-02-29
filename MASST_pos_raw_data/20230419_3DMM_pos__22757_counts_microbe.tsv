@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088690:10021905	0.0	mzspec:MSV000088690:10021905:scan:2239	1	0.77	5	MSV000088690	NoID	MSV000088690/peak/10021905.mzXML	MSV000088690/10021905.mzXML	MSV000088690	Fungi		4751	automatic	No	No	No
+mzspec:MSV000083875:G_Micelio_GYM1	0.0	mzspec:MSV000083875:G_Micelio_GYM1:scan:4294967295	1	0.72	5	MSV000083875	NoID	MSV000083875/ccms_peak/G_Micelio_GYM1.mzML	MSV000083875/G_Micelio_GYM1.mzML	MSV000083875	Streptomyces sp. CBMAI 2043	Streptomyces sp.	1931	maual	No	No	No
+mzspec:MSV000083875:G_Meio_A2	0.0	mzspec:MSV000083875:G_Meio_A2:scan:4294967295	1	0.71	5	MSV000083875	NoID	MSV000083875/ccms_peak/G_Meio_A2.mzML	MSV000083875/G_Meio_A2.mzML	MSV000083875	Streptomyces sp. CBMAI 2043	Streptomyces sp.	1931	maual	No	No	No

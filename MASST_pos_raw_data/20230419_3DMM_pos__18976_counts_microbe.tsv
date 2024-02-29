@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000078891:EH_2014_06_18_WT_colony2N	0.01	mzspec:MSV000078891:EH_2014_06_18_WT_colony2N:scan:3927	1	0.76	9	MSV000078891	NoID	MSV000078891/ccms_peak/massive_cyanos/EH_2014_06_18_WT_colony2N.mzXML	MSV000078891/EH_2014_06_18_WT_colony2N.mzXML	MSV000078891	N. punctiforme PCC 73102	Nostoc punctiforme PCC 73102	63737	manual	Yes	No	No

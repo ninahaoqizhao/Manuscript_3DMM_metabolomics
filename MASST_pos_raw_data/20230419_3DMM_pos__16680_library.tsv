@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009921634	CCMSLIB00009921634	0.72	7	Suspect related to (25S)-7-Dafachronic acid (predicted molecular formula: C19H30O2) with delta m/z -124.089 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944351	CCMSLIB00009944351	0.71	8	Suspect related to Cholic acid (predicted molecular formula: unknown) with delta m/z -100.052 (putative explanation: unspecified; atomic difference: unspecified)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009991912	CCMSLIB00009991912	0.7	6	Suspect related to Spectral Match to Curcumol from NIST14 (predicted molecular formula: C14H26O6) with delta m/z 53.989 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

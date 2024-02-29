@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000083274:PiperAuritum_Stem	0.0	mzspec:MSV000083274:PiperAuritum_Stem:scan:2315	1	0.81	7	MSV000083274	NoID	MSV000083274/peak/PiperAuritum_Stem.mzML	MSV000083274/PiperAuritum_Stem.mzML	MSV000083274	Piper auritum	130385	No	No	No
+mzspec:MSV000083274:PiperAuritum_Leaf	0.0	mzspec:MSV000083274:PiperAuritum_Leaf:scan:2302	1	0.79	7	MSV000083274	NoID	MSV000083274/peak/PiperAuritum_Leaf.mzML	MSV000083274/PiperAuritum_Leaf.mzML	MSV000083274	Piper auritum	130385	No	No	No

@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:34	-0.0	mzspec:MSV000083835:34:scan:3227	1	0.89	9	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/34.mzML	MSV000083835/34.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:35	0.0	mzspec:MSV000083835:35:scan:2906	1	0.84	8	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/35.mzML	MSV000083835/35.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000081064:blank_2_170505112237	0.0	mzspec:MSV000081064:blank_2_170505112237:scan:728	1	0.82	10	MSV000081064	NoID	MSV000081064/ccms_peak/Aaron_May_2017/170501_HPLC_polished/blank_2_170505112237.mzML	MSV000081064/blank_2_170505112237.mzML	MSV000081064	Methylobacter tundripaludum		blank	automatic	No	Yes	No

@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P1_E11_GE11_01_52892	0.01	mzspec:MSV000085071:P1_E11_GE11_01_52892:scan:924	1	0.75	9	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P1_mzXML/P1_E11_GE11_01_52892.mzXML	MSV000085071/P1_E11_GE11_01_52892.mzXML	MSV000085071	Cortinarius anomalus		86079	automatic	Yes	No	No
+mzspec:MSV000080559:O_1	-0.0	mzspec:MSV000080559:O_1:scan:1881	1	0.73	7	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_1.mzXML	MSV000080559/O_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:H_1	0.0	mzspec:MSV000080559:H_1:scan:1878	1	0.71	7	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_1.mzXML	MSV000080559/H_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

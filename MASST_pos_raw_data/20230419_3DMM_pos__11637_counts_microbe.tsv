@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087904:pSK019_M20_Lassopeptide_Burkholderia_Butanol	-0.01	mzspec:MSV000087904:pSK019_M20_Lassopeptide_Burkholderia_Butanol:scan:4119	1	0.77	5	MSV000087904	NoID	MSV000087904/ccms_peak/RAW/pSK019_M20_Lassopeptide_Burkholderia_Butanol.mzML	MSV000087904/pSK019_M20_Lassopeptide_Burkholderia_Butanol.mzML	MSV000087904	Bacteria		2	automatic	No	No	No
+mzspec:MSV000084951:AH49	-0.0	mzspec:MSV000084951:AH49:scan:5803	1	0.75	5	MSV000084951	NoID	MSV000084951/raw/AH49.mzXML	MSV000084951/AH49.mzXML	MSV000084951	Buttiauxella noackiae NSW 11	Buttiauxella noackiae	82992	manual	Yes	No	No

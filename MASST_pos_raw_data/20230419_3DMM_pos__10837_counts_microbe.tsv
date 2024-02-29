@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083523:Control_seed_1_5_days_extremo_raiz	-0.01	mzspec:MSV000083523:Control_seed_1_5_days_extremo_raiz:scan:1775	7	0.86	10	MSV000083523	NoID	MSV000083523/updates/2019-03-13_camolsan_96533cfb/peak/Control_seed_1_5_days_extremo_raiz.mzXML	MSV000083523/Control_seed_1_5_days_extremo_raiz.mzXML	MSV000083523	Bacteria		qc	automatic	No	No	Yes

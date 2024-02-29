@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087148:GNPS - AH-30	0.0	mzspec:MSV000087148:GNPS - AH-30:scan:32471	1	0.91	16	MSV000087148	NoID	MSV000087148/peak/GNPS - AH-30.mzXML	MSV000087148/GNPS - AH-30.mzXML	MSV000087148	Nelumbo nucifera	4432	No	No	No
+mzspec:MSV000083813:Bauhinia_tomentosa_seed	0.0	mzspec:MSV000083813:Bauhinia_tomentosa_seed:scan:8832	1	0.76	11	MSV000083813	NoID	MSV000083813/ccms_peak/Bauhinia_tomentosa_seed.mzML	MSV000083813/Bauhinia_tomentosa_seed.mzML	MSV000083813	Bauhinia tomentosa	204518	No	No	No
+mzspec:MSV000083216:Achyranthes_bidentata_seed	0.0	mzspec:MSV000083216:Achyranthes_bidentata_seed:scan:9150	1	0.74	11	MSV000083216	NoID	MSV000083216/ccms_peak/Achyranthes_bidentata_seed.mzML	MSV000083216/Achyranthes_bidentata_seed.mzML	MSV000083216	Achyranthes bidentata	384659	No	No	No
+mzspec:MSV000087711:AM_28RF20006_POS	0.0	mzspec:MSV000087711:AM_28RF20006_POS:scan:5514	1	0.73	12	MSV000087711	NoID	MSV000087711/ccms_peak/AM_28RF20006_POS.mzML	MSV000087711/AM_28RF20006_POS.mzML	MSV000087711	Solanum	4107	No	No	No

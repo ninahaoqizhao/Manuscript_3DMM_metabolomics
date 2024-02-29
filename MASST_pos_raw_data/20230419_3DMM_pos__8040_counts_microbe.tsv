@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000081065:5_48_I	-0.0	mzspec:MSV000081065:5_48_I:scan:3007	1	0.97	5	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_48_I.mzXML	MSV000081065/5_48_I.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000081065:5_48_II	-0.0	mzspec:MSV000081065:5_48_II:scan:3084	1	0.96	5	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_48_II.mzXML	MSV000081065/5_48_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000084460:190430_PosDDA_17C	-0.03	mzspec:MSV000084460:190430_PosDDA_17C:scan:2141	1	0.83	5	MSV000084460	NoID	MSV000084460/ccms_peak/190430_PosDDA_17C.mzML	MSV000084460/190430_PosDDA_17C.mzML	MSV000084460	Lecanicillium psalliotae		73499	automatic	No	No	No

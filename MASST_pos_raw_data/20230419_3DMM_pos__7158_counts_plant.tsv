@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF142_F06_pos	-0.0	mzspec:MSV000087728:VGF142_F06_pos:scan:1068	1	0.92	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF142_F06_pos.mzML	MSV000087728/VGF142_F06_pos.mzML	MSV000087728	Acalypha siamensis	1532000	Yes	No	No
+mzspec:MSV000087872:Gardenia-jasminoides-stem-nBuOH	0.0	mzspec:MSV000087872:Gardenia-jasminoides-stem-nBuOH:scan:2260	1	0.88	5	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Gardenia-jasminoides-stem-nBuOH.mzML	MSV000087872/Gardenia-jasminoides-stem-nBuOH.mzML	MSV000087872	Gardenia jasminoides	114476	No	No	No

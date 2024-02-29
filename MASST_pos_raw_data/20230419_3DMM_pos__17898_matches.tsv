@@ -1,0 +1,21 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088732:5ugmL_Opti_NCE_50_2:scan:6440	0.94	5	NoID
+0.0	mzspec:MSV000088732:5ugmL_Opti_isolation_3_1:scan:5759	0.93	5	NoID
+0.0	mzspec:MSV000083631:190617_190418_SIRIUS:scan:2431	0.91	5	NoID
+0.0	mzspec:MSV000088823:Interlab-LC-MS_Lab2_M_Pos_MS2_Rep3:scan:2910	0.9	5	NoID
+0.0	mzspec:MSV000087809:Interlab-LC-MS_Lab2_A15M_Pos_MS2_Rep2:scan:2896	0.9	5	NoID
+0.0	mzspec:MSV000087809:Interlab-LC-MS_Lab2_M_Pos_MS2_Rep3:scan:2910	0.9	5	NoID
+0.0	mzspec:MSV000088823:Interlab-LC-MS_Lab2_A15M_Pos_MS2_Rep2:scan:2896	0.9	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab6_A5M_Pos_MS2_rep3:scan:3999	0.88	5	NoID
+0.0	mzspec:MSV000087322:DOM_Interlab-LCMS_Lab6_A5M_Pos_MS2_rep3:scan:3999	0.88	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab6_A15M_Pos_MS2_rep2:scan:4226	0.87	5	NoID
+0.0	mzspec:MSV000087809:Interlab-LC-MS_Lab2_M_Pos_MS2_Rep1:scan:2908	0.87	5	NoID
+0.0	mzspec:MSV000081364:L_C18_Polar_16_Wash_02:scan:1032	0.87	5	NoID
+0.0	mzspec:MSV000084092:L_C18_Polar_16_Wash_02:scan:1032	0.87	5	NoID
+0.0	mzspec:MSV000088823:Interlab-LC-MS_Lab2_M_Pos_MS2_Rep1:scan:2908	0.87	5	NoID
+0.0	mzspec:MSV000087322:DOM_Interlab-LCMS_Lab6_A15M_Pos_MS2_rep2:scan:4226	0.87	5	NoID
+0.0	mzspec:MSV000087322:DOM_Interlab-LCMS_Lab6_QC_Pos_MS2_rep1:scan:3982	0.87	5	NoID
+0.0	mzspec:MSV000088732:5ugmL_Opti_isolation_4_2:scan:5731	0.86	5	NoID
+0.0	mzspec:MSV000088732:5ugmL_Opti_isolation_4_3:scan:5821	0.82	5	NoID
+0.0	mzspec:MSV000088732:5ugmL_Opti_isolation_4_1:scan:5607	0.77	5	NoID
+0.0	mzspec:MSV000084741:20190719_DOM_1:scan:2718	0.76	5	NoID

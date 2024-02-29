@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950592	CCMSLIB00009950592	0.99	5	Suspect related to Lauric acid diethanolamide (predicted molecular formula: C12H25NO3) with delta m/z -56.062 (putative explanation: Dealkylation|Leu/Ile->Gly substitution; atomic difference: -4C,-8H|-4C,-8H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009959568	CCMSLIB00009959568	0.97	5	Suspect related to Massbank:LU100203 2,2'-(Tetradecylimino)diethanol|Tetradecyldiethanolamine (predicted molecular formula: C12H25NO3) with delta m/z -70.114 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

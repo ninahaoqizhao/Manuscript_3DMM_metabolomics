@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005724788	CCMSLIB00005724788	0.96	6	2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol	M-2H2O+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933024	CCMSLIB00009933024	0.96	6	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C20H22O4) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009981502	CCMSLIB00009981502	0.96	6	Suspect related to SECOISOLARICIRESINOL (predicted molecular formula: C20H22O4) with delta m/z -36.021 (putative explanation: 2x water (reverse); atomic difference: -4H,-2O)	[M+H]+	1

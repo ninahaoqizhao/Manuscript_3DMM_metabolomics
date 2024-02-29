@@ -1,0 +1,22 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.04	mzspec:MSV000082953:MzMine_Export_MS2Filtered_forGNPS:scan:7769	0.8	8	NoID
+-0.04	mzspec:MSV000082953:P1_B12:scan:1277	0.79	8	NoID
+-0.04	mzspec:MSV000082433:146:scan:963	0.78	8	NoID
+-0.04	mzspec:MSV000079717:group2_P2_F1:scan:983	0.78	8	NoID
+-0.04	mzspec:MSV000079697:group2_P2_F1:scan:983	0.78	8	NoID
+-0.04	mzspec:MSV000079717:group2_P2_E9:scan:948	0.78	8	NoID
+-0.04	mzspec:MSV000079697:group2_P2_E9:scan:948	0.78	8	NoID
+-0.04	mzspec:MSV000079717:group2_P2_F4:scan:959	0.77	8	NoID
+-0.04	mzspec:MSV000079697:group2_P2_F4:scan:959	0.77	8	NoID
+0.0	mzspec:MSV000087728:VGF153_G11_pos:scan:759	0.76	6	NoID
+-0.03	mzspec:MSV000079697:group2_P2_B10:scan:976	0.74	7	NoID
+-0.03	mzspec:MSV000079717:group2_P2_B10:scan:976	0.74	7	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-9:scan:4209	0.73	6	NoID
+0.0	mzspec:MSV000083559:11713.1.S.1C:scan:850	0.73	6	NoID
+-0.04	mzspec:MSV000086415:15846869:scan:918	0.72	8	NoID
+-0.04	mzspec:MSV000079697:group2_P2_D11:scan:956	0.72	7	NoID
+-0.04	mzspec:MSV000079718:group2_P2_C8:scan:973	0.72	7	NoID
+-0.04	mzspec:MSV000079697:group2_P2_C8:scan:973	0.72	7	NoID
+-0.04	mzspec:MSV000079717:group2_P2_D11:scan:956	0.72	7	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-18:scan:4196	0.72	6	NoID
+0.0	mzspec:MSV000083559:11713.22.O.22E:scan:881	0.71	6	NoID

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086314:P037_LCMSMS	0.0	mzspec:MSV000086314:P037_LCMSMS:scan:3970	1	0.93	5	MSV000086314	NoID	MSV000086314/ccms_peak/Microbes_LCMSMS/P037_LCMSMS.mzML	MSV000086314/P037_LCMSMS.mzML	MSV000086314	Streptomyces		1883	automatic	No	No	No

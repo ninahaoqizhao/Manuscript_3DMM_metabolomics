@@ -1,0 +1,16 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000084314:MSV000087872:scan:209794	0.86	8	NoID
+-0.0	mzspec:MSV000086287:extract-2_Metal-mix_1mM:scan:1791	0.85	8	NoID
+-0.0	mzspec:MSV000086287:extract-1_Metal-mix:scan:1771	0.83	8	NoID
+-0.0	mzspec:MSV000086287:extract-2_Metal-mix:scan:1775	0.83	8	NoID
+0.0	mzspec:MSV000086287:extract-3_Metal-mix_1mM:scan:1814	0.82	8	NoID
+-0.0	mzspec:MSV000087872:Epiphyllum-oxypetalum-leaf-nBuOH:scan:2077	0.82	8	NoID
+-0.0	mzspec:MSV000087872:Teucrium-scorodonia-flower-nBuOH:scan:1924	0.82	8	NoID
+-0.0	mzspec:MSV000086287:extract-3_Metal-mix:scan:1786	0.79	7	NoID
+-0.0	mzspec:MSV000087872:Maranta-leuconeura-leaf-nBuOH:scan:1963	0.78	7	NoID
+0.0	mzspec:MSV000087872:Pachystachys-lutea-stem-nBuOH:scan:1998	0.77	8	NoID
+-0.0	mzspec:MSV000086287:extract-1_Metal-mix_1mM:scan:1798	0.77	7	NoID
+-0.0	mzspec:MSV000087872:Cinnamomum-zeylanicum-leaf-nBuOH:scan:2044	0.75	8	NoID
+-0.0	mzspec:MSV000086287:extract-2:scan:1746	0.72	6	NoID
+0.0	mzspec:MSV000087872:Ruscus-aculeatus-flower-nBuOH:scan:1891	0.72	6	NoID
+-0.0	mzspec:MSV000086287:extract-3:scan:1808	0.71	6	NoID

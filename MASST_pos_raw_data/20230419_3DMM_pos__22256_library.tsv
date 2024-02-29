@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009948117	CCMSLIB00009948117	0.75	9	Suspect related to Ginsenoside Rg3 (R-form) (predicted molecular formula: unknown) with delta m/z -14.052 (putative explanation: Lys->Asn substitution; atomic difference: -2C,-6H,1O)	[M-C12H24O12+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009942391	CCMSLIB00009942391	0.71	7	Suspect related to Asiatic acid (predicted molecular formula: C28H46O4) with delta m/z -42.01 (putative explanation: Glu->Ser substitution|Hydrolysis, deacetylation; atomic difference: -2C,-2H,-1O|-2C,-2H,-1O)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009926022	CCMSLIB00009926022	0.7	8	Suspect related to .alpha.-Hyodeoxycholic acid methyl ester (predicted molecular formula: C29H50O3) with delta m/z 40.068 (putative explanation: unspecified; atomic difference: unspecified)	[M-2H2O+H]+	1

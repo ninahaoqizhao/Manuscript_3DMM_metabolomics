@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085018:KsB_Cntl_GE5_01_38302	0.0	mzspec:MSV000085018:KsB_Cntl_GE5_01_38302:scan:2027	1	0.93	5	MSV000085018	NoID	MSV000085018/ccms_peak/KsB_Cntl_GE5_01_38302.mzML	MSV000085018/KsB_Cntl_GE5_01_38302.mzML	MSV000085018	Bacteria		2	automatic	No	No	No
+mzspec:MSV000085018:P_aurantiaca_PB-St2_KsB_GE2_01_38299	0.0	mzspec:MSV000085018:P_aurantiaca_PB-St2_KsB_GE2_01_38299:scan:2032	1	0.84	5	MSV000085018	NoID	MSV000085018/ccms_peak/P_aurantiaca_PB-St2_KsB_GE2_01_38299.mzML	MSV000085018/P_aurantiaca_PB-St2_KsB_GE2_01_38299.mzML	MSV000085018	Bacteria		2	automatic	No	No	No

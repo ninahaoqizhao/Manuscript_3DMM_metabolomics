@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089834:Pig_19	0.0	mzspec:MSV000089834:Pig_19:scan:4078	1	0.73	5	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2020/Pig_19.mzML	MSV000089834/Pig_19.mzML	MSV000089834	Erythrobacter aquimaris wadden sea isolate	Erythrobacter aquimaris	255984	manual	No	No	No

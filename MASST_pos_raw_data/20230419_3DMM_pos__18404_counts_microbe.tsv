@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P2_H2_BH2_01_53031	-0.0	mzspec:MSV000085071:P2_H2_BH2_01_53031:scan:1140	1	0.71	9	MSV000085071	NoID	MSV000085071/ccms_peak/Mushrooms_POS_P2_mzXML/P2_H2_BH2_01_53031.mzML	MSV000085071/P2_H2_BH2_01_53031.mzML	MSV000085071	Fungi		4751	automatic	No	No	No

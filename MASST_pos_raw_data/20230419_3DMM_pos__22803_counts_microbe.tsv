@@ -1,0 +1,8 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_10_a	0.01	mzspec:MSV000082999:Isa_10_a:scan:2941	2	0.96	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_10_a.mzML	MSV000082999/Isa_10_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_10_b	0.01	mzspec:MSV000082999:Isa_10_b:scan:2955	2	0.95	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_10_b.mzML	MSV000082999/Isa_10_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_8_a	0.01	mzspec:MSV000082999:Isa_8_a:scan:3432	2	0.93	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_a.mzML	MSV000082999/Isa_8_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000087135:B3	0.01	mzspec:MSV000087135:B3:scan:5816	2	0.92	7	MSV000087135	NoID	MSV000087135/ccms_peak/RiPPs_DSM40736_raw/B3.mzML	MSV000087135/B3.mzML	MSV000087135	Streptomyces viridochromogenes		1938	automatic	No	No	No
+mzspec:MSV000088827:Toly-137A2	0.02	mzspec:MSV000088827:Toly-137A2:scan:4294967295	2	0.91	6	MSV000088827	NoID	MSV000088827/peak/Toly-137A2.mzML	MSV000088827/Toly-137A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No
+mzspec:MSV000088827:Toly-200A2	0.02	mzspec:MSV000088827:Toly-200A2:scan:4294967295	2	0.9	6	MSV000088827	NoID	MSV000088827/peak/Toly-200A2.mzML	MSV000088827/Toly-200A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No
+mzspec:MSV000082999:Isa_8_b	0.01	mzspec:MSV000082999:Isa_8_b:scan:3428	2	0.88	7	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_8_b.mzML	MSV000082999/Isa_8_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

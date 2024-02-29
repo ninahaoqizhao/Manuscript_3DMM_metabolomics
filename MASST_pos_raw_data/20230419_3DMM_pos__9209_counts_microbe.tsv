@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:Blank_0	0.0	mzspec:MSV000080559:Blank_0:scan:1572	4	0.91	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_0.mzXML	MSV000080559/Blank_0.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No
+mzspec:MSV000080559:Blank_1	-0.0	mzspec:MSV000080559:Blank_1:scan:1604	4	0.9	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_1.mzXML	MSV000080559/Blank_1.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No
+mzspec:MSV000081065:5_48_II	0.02	mzspec:MSV000081065:5_48_II:scan:3258	4	0.87	10	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_48_II.mzXML	MSV000081065/5_48_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000083383:QC_3	0.0	mzspec:MSV000083383:QC_3:scan:1701	4	0.85	10	MSV000083383	NoID	MSV000083383/ccms_peak/Blanks_QC_wash/QC_3.mzML	MSV000083383/QC_3.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes
+mzspec:MSV000080559:Blank_2	0.01	mzspec:MSV000080559:Blank_2:scan:1600	4	0.82	8	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_2.mzXML	MSV000080559/Blank_2.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No

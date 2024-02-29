@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000088842:30B:scan:2209	0.93	10	NoID
+-0.0	mzspec:MSV000088842:30A:scan:2205	0.93	9	NoID
+0.0	mzspec:MSV000084143:DG-5-91-A2B1:scan:2413	0.81	7	NoID
+0.0	mzspec:MSV000084143:FullIIN_tunicates071919:scan:10718	0.81	5	NoID
+-0.01	mzspec:MSV000088842:36E:scan:2150	0.79	7	NoID
+-0.01	mzspec:MSV000082999:Isa_2_b:scan:2478	0.76	6	NoID
+0.0	mzspec:MSV000082999:Isa_Wine-fungi_MZmine231_GNPS:scan:742	0.76	6	NoID
+-0.01	mzspec:MSV000082999:Isa_3_b:scan:2203	0.76	5	NoID
+-0.0	mzspec:MSV000082999:Isa_6_a:scan:2130	0.76	5	NoID
+-0.0	mzspec:MSV000082999:Isa_1_b:scan:2452	0.75	5	NoID
+0.0	mzspec:MSV000083383:isa_5_fe:scan:2003	0.74	5	NoID
+-0.0	mzspec:MSV000083383:isa_4_fe:scan:2084	0.72	5	NoID
+0.05	mzspec:MSV000084314:MSV000079773:scan:3585	0.7	5	NoID
+0.02	mzspec:MSV000083541:S1_50MeOH_171006141720:scan:3320	0.7	5	NoID

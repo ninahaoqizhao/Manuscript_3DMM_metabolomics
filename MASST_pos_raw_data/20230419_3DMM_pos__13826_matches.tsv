@@ -1,0 +1,16 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000084314:MSV000088734:scan:13211	0.79	6	NoID
+-0.0	mzspec:MSV000082433:blank_extraction_161104064646:scan:1961	0.77	5	NoID
+0.0	mzspec:MSV000086415:87410220:scan:1617	0.76	6	NoID
+0.0	mzspec:MSV000082433:blank_extractionsolvent_161101211147:scan:1951	0.76	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab9_A45M_Pos_MS2_rep3:scan:2344	0.75	6	NoID
+-0.0	mzspec:MSV000082433:blank_extraction_10_161104002424:scan:1945	0.75	5	NoID
+0.0	mzspec:MSV000087588:DOM_Interlab-LCMS_Lab005_A45M_Pos_MS2_rep2:scan:3391	0.74	6	NoID
+0.0	mzspec:MSV000084355:P37_D6_no_no_no_unknown:scan:2613	0.73	5	NoID
+0.0	mzspec:MSV000088137:mars00019:scan:1660	0.72	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab30_A45M_POS_MS2_rep2:scan:4432	0.72	5	NoID
+0.0	mzspec:MSV000087747:DOM_Interlab-LCMS_Lab30_A45M_POS_MS2_rep2:scan:4432	0.72	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab7_A5M_POS_MS2_rep3:scan:2754	0.71	5	NoID
+0.0	mzspec:MSV000087612:Blank_Plate01_00_no_inj:scan:1567	0.71	5	NoID
+0.0	mzspec:MSV000083300:BP000096871_p:scan:1784	0.71	5	NoID
+0.0	mzspec:MSV000082433:557:scan:2026	0.7	5	NoID

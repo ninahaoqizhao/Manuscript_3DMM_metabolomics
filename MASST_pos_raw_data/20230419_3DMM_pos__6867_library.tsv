@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009972808	CCMSLIB00009972808	0.85	5	Suspect related to NCGC00381248-01!4-oxododecanedioic acid (predicted molecular formula: C12H15N5O2) with delta m/z 16.997 (putative explanation: Asn->Met substitution; atomic difference: 1C,3H,-1N,-1O,1S)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000848247	CCMSLIB00000848247	0.76	5	NCGC00381248-01!4-oxododecanedioic acid	M+NH4	1

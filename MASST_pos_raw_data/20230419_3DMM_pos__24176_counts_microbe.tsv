@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089524:I2_batch5_DrLicona_300nguL_2uLiny_21nov2021	0.05	mzspec:MSV000089524:I2_batch5_DrLicona_300nguL_2uLiny_21nov2021:scan:4294967295	2	0.74	5	MSV000089524	NoID	MSV000089524/raw/I2_batch5_DrLicona_300nguL_2uLiny_21nov2021.mzML	MSV000089524/I2_batch5_DrLicona_300nguL_2uLiny_21nov2021.mzML	MSV000089524	Nocardia sp. CC227C	Nocardia sp.	1821	manual	Yes	No	No
+mzspec:MSV000080559:I_4	0.01	mzspec:MSV000080559:I_4:scan:2583	2	0.72	6	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_4.mzXML	MSV000080559/I_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

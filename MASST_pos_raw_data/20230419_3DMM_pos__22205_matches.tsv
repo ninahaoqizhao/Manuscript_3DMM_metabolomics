@@ -1,0 +1,23 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.05	mzspec:MSV000080507:Blank_pos_51:scan:5374	0.83	12	NoID
+0.05	mzspec:MSV000082085:Blank_pos_51:scan:5374	0.83	12	NoID
+0.05	mzspec:MSV000082084:Blank_0:scan:3385	0.83	11	NoID
+0.05	mzspec:MSV000085480:Blank_12_:scan:3667	0.82	11	NoID
+0.05	mzspec:MSV000085480:Blank_14_:scan:3780	0.82	11	NoID
+0.05	mzspec:MSV000080507:Blank_pos_50:scan:5381	0.8	12	NoID
+0.05	mzspec:MSV000080507:Blank_pos_46:scan:5380	0.8	12	NoID
+0.05	mzspec:MSV000082085:Blank_pos_46:scan:5380	0.79	12	NoID
+0.05	mzspec:MSV000081067:blank_0:scan:2912	0.79	10	NoID
+0.05	mzspec:MSV000082085:Blank_pos_48:scan:5428	0.78	12	NoID
+0.05	mzspec:MSV000080507:Blank_pos_49:scan:5406	0.78	11	NoID
+0.05	mzspec:MSV000080507:Blank_pos_48:scan:5428	0.77	12	NoID
+0.05	mzspec:MSV000082085:Blank_pos_49:scan:5406	0.77	11	NoID
+0.05	mzspec:MSV000081067:blank_1:scan:3189	0.77	9	NoID
+0.05	mzspec:MSV000082085:Blank_pos_50:scan:5381	0.76	11	NoID
+0.05	mzspec:MSV000082085:Blank_pos_45:scan:5129	0.75	12	NoID
+0.05	mzspec:MSV000080507:Blank_pos_45:scan:5129	0.75	12	NoID
+0.05	mzspec:MSV000080507:Blank_pos_47:scan:5412	0.75	12	NoID
+0.05	mzspec:MSV000082085:Blank_pos_47:scan:5412	0.72	11	NoID
+0.02	mzspec:MSV000084314:MSV000084873:scan:4416	0.71	8	NoID
+0.02	mzspec:MSV000084118:NIH_Nat-Mix21-24_NH4Acetat01_3:scan:4760	0.7	8	NoID
+0.02	mzspec:MSV000084314:MSV000082952:scan:5796	0.7	6	NoID

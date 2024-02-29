@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085129:2859_Pl_M6	-0.0	mzspec:MSV000085129:2859_Pl_M6:scan:4833	1	0.86	11	MSV000085129	NoID	MSV000085129/ccms_peak/mzMLs_2/2859_Pl_M6.mzML	MSV000085129/2859_Pl_M6.mzML	MSV000085129	Magnoliopsida	3398	No	No	No
+mzspec:MSV000083814:Dendrocnide_moroides_leaf	0.0	mzspec:MSV000083814:Dendrocnide_moroides_leaf:scan:9659	1	0.76	9	MSV000083814	NoID	MSV000083814/ccms_peak/Dendrocnide_moroides_leaf.mzML	MSV000083814/Dendrocnide_moroides_leaf.mzML	MSV000083814	Dendrocnide moroides	1842752	No	No	No

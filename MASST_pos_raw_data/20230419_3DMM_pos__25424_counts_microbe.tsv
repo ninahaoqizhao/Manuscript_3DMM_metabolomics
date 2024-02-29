@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088697:03_Anabaena_PCC7120_SPE	0.0	mzspec:MSV000088697:03_Anabaena_PCC7120_SPE:scan:6092	1	0.71	8	MSV000088697	NoID	MSV000088697/peak/mzML/dda_msms_mzml/03_Anabaena_PCC7120_SPE.mzML	MSV000088697/03_Anabaena_PCC7120_SPE.mzML	MSV000088697	Nostoc sp. PCC 7120		103690	automatic	No	No	No

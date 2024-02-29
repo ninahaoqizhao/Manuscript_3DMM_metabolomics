@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080116:879-m_P1-A-3_01_36266	-0.04	mzspec:MSV000080116:879-m_P1-A-3_01_36266:scan:195	1	0.85	5	MSV000080116	NoID	MSV000080116/updates/2016-09-21_dfloros_547f5137/peak/mzXMLs/Mono/879-m_P1-A-3_01_36266.mzXML	MSV000080116/879-m_P1-A-3_01_36266.mzXML	MSV000080116	Actinomycetes	Actinomycetia	1760	automatic	No	No	No
+mzspec:MSV000085071:P3_B8_BB8_01_52818	0.03	mzspec:MSV000085071:P3_B8_BB8_01_52818:scan:596	1	0.72	5	MSV000085071	NoID	MSV000085071/ccms_peak/Mushrooms_NEG_P3_mzXML/P3_B8_BB8_01_52818.mzML	MSV000085071/P3_B8_BB8_01_52818.mzML	MSV000085071	Fungi		4751	automatic	No	No	No

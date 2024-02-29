@@ -1,0 +1,11 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-02_soak:scan:5184	0.92	8	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-02_soak:scan:5184	0.92	8	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-06_soak:scan:5022	0.86	7	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-06_soak:scan:5022	0.86	7	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-23_soak:scan:5262	0.75	6	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-23_soak:scan:5262	0.75	6	NoID
+-0.03	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-31_son:scan:5258	0.74	7	NoID
+-0.03	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-31_son:scan:5258	0.74	7	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-31_soak:scan:5220	0.73	6	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-31_soak:scan:5220	0.73	6	NoID

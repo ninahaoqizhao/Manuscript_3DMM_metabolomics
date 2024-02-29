@@ -1,0 +1,22 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088570:Enterococcus_faecium_TX1330_T00_NoBileSalts:scan:2877	0.75	8	NoID
+0.0	mzspec:MSV000088570:Blank_11_PlateD_no_inj_End:scan:2849	0.75	7	NoID
+0.0	mzspec:MSV000088570:Blank_PlateD_Mid_RowB_no_inj:scan:2765	0.74	8	NoID
+0.0	mzspec:MSV000083791:std_mix:scan:3791	0.73	6	NoID
+0.0	mzspec:MSV000083383:Std_Mix:scan:3791	0.73	6	NoID
+0.0	mzspec:MSV000088570:Blank_04_PlateD_no_inj:scan:2771	0.72	8	NoID
+-0.0	mzspec:MSV000080167:P6B04:scan:4732	0.72	7	NoID
+0.01	mzspec:MSV000080167:P8F11BlankSwab:scan:4776	0.72	7	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_rhamnosus_ATCC_8530_T72_NoBileSalts:scan:2845	0.72	7	NoID
+0.0	mzspec:MSV000088570:Enterococcus_faecium_TX1330_T00_BileSaltsAdded:scan:2893	0.72	7	NoID
+0.0	mzspec:MSV000088570:Streptococcus_mitis_bv2_F0392_T00_NoBileSalts:scan:2843	0.72	7	NoID
+0.0	mzspec:MSV000088570:Blank_11_PlateB_no_inj_End:scan:2780	0.72	6	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_reuteri_CF48-3A_T00_NoBileSalts:scan:2860	0.71	7	NoID
+0.0	mzspec:MSV000083791:Std_Mix_Fe_final_2:scan:4048	0.71	6	NoID
+0.0	mzspec:MSV000088570:Blank_11_PlateA_no_inj_End:scan:2837	0.71	6	NoID
+0.0	mzspec:MSV000083791:Std_Mix_Fe:scan:4098	0.71	6	NoID
+0.01	mzspec:MSV000080167:P7A12_160603212721:scan:4531	0.71	6	NoID
+0.0	mzspec:MSV000088570:Enterococcus_faecium_TX1330_T72_BileSaltsAdded:scan:2843	0.7	7	NoID
+0.0	mzspec:MSV000080167:P6B05:scan:4700	0.7	6	NoID
+0.01	mzspec:MSV000080167:P2C12_160527185956:scan:4378	0.7	6	NoID
+0.0	mzspec:MSV000080167:P6B03:scan:4758	0.7	6	NoID

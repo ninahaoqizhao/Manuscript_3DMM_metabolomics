@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000080167:P5F05:scan:4683	0.92	7	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_T72_BileSaltsAdded:scan:2897	0.91	8	NoID
+-0.0	mzspec:MSV000080167:P7C02:scan:4781	0.9	7	NoID
+-0.0	mzspec:MSV000080167:P7B10:scan:4726	0.9	7	NoID
+0.0	mzspec:MSV000080167:P6C03:scan:4713	0.89	7	NoID
+0.0	mzspec:MSV000080167:P6B02:scan:4650	0.89	7	NoID
+-0.0	mzspec:MSV000080167:P5E03:scan:4755	0.88	7	NoID
+-0.01	mzspec:MSV000080167:P5H07:scan:4802	0.88	7	NoID
+0.01	mzspec:MSV000080167:P3D03_160530140246:scan:4758	0.87	7	NoID
+0.01	mzspec:MSV000080167:P6A04:scan:4653	0.84	6	NoID
+-0.0	mzspec:MSV000088570:Streptococcus_mitis_bv2_F0392_T72_NoBileSalts:scan:2846	0.79	6	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_T00_NoBileSalts:scan:2859	0.79	5	NoID
+0.0	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_T72_NoBileSalts:scan:2876	0.78	6	NoID
+0.0	mzspec:MSV000084556:Blanklcms_1:scan:3476	0.77	5	NoID

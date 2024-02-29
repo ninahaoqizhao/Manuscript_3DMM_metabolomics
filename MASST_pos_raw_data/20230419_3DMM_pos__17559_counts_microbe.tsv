@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_1_a	0.05	mzspec:MSV000082999:Isa_1_a:scan:2104	2	0.75	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_1_a.mzML	MSV000082999/Isa_1_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_4_b	0.05	mzspec:MSV000082999:Isa_4_b:scan:1940	2	0.72	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_4_b.mzML	MSV000082999/Isa_4_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_7_b	0.05	mzspec:MSV000082999:Isa_7_b:scan:1916	2	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_7_b.mzML	MSV000082999/Isa_7_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_6_a	0.05	mzspec:MSV000082999:Isa_6_a:scan:1805	2	0.71	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_6_a.mzML	MSV000082999/Isa_6_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

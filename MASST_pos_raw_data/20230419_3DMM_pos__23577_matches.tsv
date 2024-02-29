@@ -1,0 +1,9 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000080492:A3_BA3_01_2835:scan:766	0.9	5	NoID
+-0.04	mzspec:MSV000088570:MRS_medium_blank:scan:2724	0.87	7	NoID
+-0.04	mzspec:MSV000078670:EH_11092013_Ento_Sponge:scan:4018	0.86	6	NoID
+-0.04	mzspec:MSV000078667:EH_11092013_Ento_Sponge:scan:4018	0.86	6	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_rhamnosus_ATCC_8530_T00_NoBileSalts:scan:2708	0.85	6	NoID
+-0.04	mzspec:MSV000088570:MRS_medium_blank_T00_NoBileSalts:scan:2715	0.84	6	NoID
+-0.04	mzspec:MSV000088570:Lactobacillus_Johnsonii_T00_NoBileSalts:scan:2707	0.8	6	NoID
+-0.0	mzspec:MSV000088570:Lactobacillus_plantarum_ATCC_BAA793_20210802061036:scan:2637	0.76	5	NoID

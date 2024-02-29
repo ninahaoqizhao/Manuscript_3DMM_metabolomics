@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087905:deltaEDDS-21R	-0.0	mzspec:MSV000087905:deltaEDDS-21R:scan:3112	1	0.72	5	MSV000087905	NoID	MSV000087905/ccms_peak/raw/deltaEDDS-21R.mzML	MSV000087905/deltaEDDS-21R.mzML	MSV000087905	Bacteria		2	automatic	No	No	No

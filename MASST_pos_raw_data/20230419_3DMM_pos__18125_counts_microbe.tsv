@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082999:Isa_2_b	0.05	mzspec:MSV000082999:Isa_2_b:scan:2174	2	0.73	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_2_b.mzML	MSV000082999/Isa_2_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_4_b	0.05	mzspec:MSV000082999:Isa_4_b:scan:1998	2	0.73	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_4_b.mzML	MSV000082999/Isa_4_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_3_a	0.05	mzspec:MSV000082999:Isa_3_a:scan:1953	2	0.73	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_3_a.mzML	MSV000082999/Isa_3_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000082999:Isa_7_a	0.05	mzspec:MSV000082999:Isa_7_a:scan:1996	2	0.72	5	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_7_a.mzML	MSV000082999/Isa_7_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000083383:isa_3_fe	0.05	mzspec:MSV000083383:isa_3_fe:scan:1840	2	0.71	5	MSV000083383	NoID	MSV000083383/updates/2019-10-30_allegraaron_e0b9cac9/other/allegraaron/190222_isa_wine_fungus infusion/mzXML/isa_3_fe.mzML	MSV000083383/isa_3_fe.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	316435	maual	No	No	No

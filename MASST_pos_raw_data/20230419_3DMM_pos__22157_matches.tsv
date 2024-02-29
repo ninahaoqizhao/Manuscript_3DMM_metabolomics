@@ -1,0 +1,12 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000084314:MSV000082380:scan:5614	0.89	5	NoID
+-0.0	mzspec:MSV000084314:MSV000083523:scan:1890	0.88	5	NoID
+-0.0	mzspec:MSV000083523:1606_seed_6_5_days_mitad_raiz:scan:2706	0.87	5	NoID
+-0.0	mzspec:MSV000083523:1606-FZB42_seed_3_5_days_inicio_raiz:scan:2540	0.87	5	NoID
+-0.0	mzspec:MSV000082380:1606-FZB42_seed_3_5_days_inicio_raiz:scan:2540	0.87	5	NoID
+-0.0	mzspec:MSV000082380:Pect_seed_2_5_days_extremo_raiz:scan:2831	0.87	5	NoID
+-0.0	mzspec:MSV000083523:190402_Carlos_roots_MZmine2_37_corr16-4_1E5_1E3_correlated_GNPS:scan:5341	0.86	5	NoID
+-0.0	mzspec:MSV000082380:1606-FZB42_seed_3_5_days_mitad_raiz:scan:2793	0.86	5	NoID
+-0.0	mzspec:MSV000083523:1606-FZB42_seed_3_5_days_mitad_raiz:scan:2793	0.86	5	NoID
+0.0	mzspec:MSV000087991:m1364_2_01_RB3_01_62201:scan:906	0.75	7	NoID
+0.0	mzspec:MSV000087991:m1364_2_01_RB3_02_62202:scan:906	0.71	6	NoID

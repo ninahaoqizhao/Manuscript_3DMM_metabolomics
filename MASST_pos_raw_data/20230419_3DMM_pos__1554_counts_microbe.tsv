@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083383:QC_6	-0.0	mzspec:MSV000083383:QC_6:scan:1030	1	0.87	8	MSV000083383	NoID	MSV000083383/ccms_peak/Blanks_QC_wash/QC_6.mzML	MSV000083383/QC_6.mzML	MSV000083383	Escherichia coli Nissle	Escherichia coli Nissle 1917	qc	maual	No	No	Yes
+mzspec:MSV000088196:P1R2C9	-0.0	mzspec:MSV000088196:P1R2C9:scan:711	1	0.79	6	MSV000088196	NoID	MSV000088196/ccms_peak/ORNL R2 Raw/P1R2C9.mzML	MSV000088196/P1R2C9.mzML	MSV000088196	Rhodococcus sp. OK551		2135730	automatic	Yes	No	No

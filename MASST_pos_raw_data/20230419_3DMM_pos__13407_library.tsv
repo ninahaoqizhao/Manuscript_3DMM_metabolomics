@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952621	CCMSLIB00009952621	0.76	7	Suspect related to Marrubiin (predicted molecular formula: C20H32O4) with delta m/z 4.032 (putative explanation: x2 reduction; atomic difference: 4H)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009949771	CCMSLIB00009949771	0.75	7	Suspect related to Isopimaric acid (predicted molecular formula: C20H30O3) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O)	[M+H]+	1

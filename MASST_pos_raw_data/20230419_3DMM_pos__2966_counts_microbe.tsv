@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089506:344_1-60_01_13161	-0.04	mzspec:MSV000089506:344_1-60_01_13161:scan:2654	1	0.75	5	MSV000089506	NoID	MSV000089506/ccms_peak/LOTE03/344_1-60_01_13161.mzML	MSV000089506/344_1-60_01_13161.mzML	MSV000089506	Streptomyces xylanilyticus		1807871	manual	Yes	No	No

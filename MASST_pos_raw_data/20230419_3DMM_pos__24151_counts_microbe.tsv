@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084165:MC_actAB_E_June	0.02	mzspec:MSV000084165:MC_actAB_E_June:scan:37622	1	0.74	6	MSV000084165	NoID	MSV000084165/ccms_peak/MC_actAB_E_June.mzML	MSV000084165/MC_actAB_E_June.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No

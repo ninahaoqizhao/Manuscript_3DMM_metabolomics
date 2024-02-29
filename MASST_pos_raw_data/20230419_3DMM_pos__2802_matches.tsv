@@ -1,0 +1,9 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000083559:11713.18.S.18D:scan:775	0.94	6	NoID
+0.0	mzspec:MSV000083559:11713.10.F.10F:scan:801	0.94	5	NoID
+-0.0	mzspec:MSV000084314:MSV000080627:scan:45735	0.91	6	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_34:scan:829	0.91	5	NoID
+0.0	mzspec:MSV000087872:Coleus-forskohlii-stem-nBuOH:scan:1645	0.9	5	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_13:scan:855	0.89	6	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_30:scan:845	0.8	6	NoID
+0.01	mzspec:MSV000080627:ONR_Stool_17:scan:856	0.76	5	NoID

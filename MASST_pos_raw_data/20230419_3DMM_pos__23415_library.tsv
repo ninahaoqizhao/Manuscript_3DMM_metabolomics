@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009932156	CCMSLIB00009932156	0.71	5	Suspect related to 15-Hydroxy-11Z,13E-eicosadienoic acid (predicted molecular formula: C24H44O3) with delta m/z 74.073 (putative explanation: unspecified|unspecified; atomic difference: 2C,8H,3N|4C,10H,1O)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946476	CCMSLIB00009946476	0.71	5	Suspect related to Docosatrienoic acid (predicted molecular formula: C24H44O3) with delta m/z 46.042 (putative explanation: unspecified|unspecified; atomic difference: 2C,6H,1O|4H,3N)	[M+H]+	1

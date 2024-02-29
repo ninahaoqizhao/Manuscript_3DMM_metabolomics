@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003137268	CCMSLIB00003137268	0.75	7	Spectral Match to p-tert-Octylphenol undecaglycol ether from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010000244	CCMSLIB00010000244	0.75	7	Suspect related to Spectral Match to p-tert-Octylphenol decaglycol ether from NIST14 (predicted molecular formula: unknown) with delta m/z 44.026 (putative explanation: Ethanolation|Gly->Thr substitution|PEG repeat unit|unspecified; atomic difference: 2C,4H,1O|2C,4H,1O|2C,4H,1O|2H,3N)	[M+H]+	1

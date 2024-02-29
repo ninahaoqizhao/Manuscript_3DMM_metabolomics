@@ -1,0 +1,12 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.02	mzspec:MSV000088570:Lactobacillus_rhamnosus_ATCC_8530_20210802064329:scan:2522	0.89	6	NoID
+0.02	mzspec:MSV000084314:MSV000088570:scan:79383	0.89	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_gasseri_MV-22_20210802053743:scan:2525	0.86	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_20210802054840:scan:2515	0.86	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_reuteri_CF48-3A_T00_NoBileSalts:scan:2498	0.86	5	NoID
+0.02	mzspec:MSV000088570:MRS_medium_blank_T72_BileSaltsAdded:scan:2522	0.86	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_acidophilus_ATCC_832_T00_NoBileSalts:scan:2505	0.84	5	NoID
+0.03	mzspec:MSV000088570:MRS_medium_blank_T72_NoBileSalts:scan:2506	0.84	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_gasseri_ATCC_33323_T72_BileSaltsAdded:scan:2526	0.83	5	NoID
+0.02	mzspec:MSV000088570:Lactobacillus_Johnsonii_T00_NoBileSalts:scan:2513	0.79	5	NoID
+0.03	mzspec:MSV000081318:2016_11_21_sponge_theonellamides:scan:3903	0.71	5	NoID

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF153_E09_neg	0.04	mzspec:MSV000087728:VGF153_E09_neg:scan:617	1	0.7	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_neg_with_QC_and_blanks_raw/VGF153_E09_neg.mzML	MSV000087728/VGF153_E09_neg.mzML	MSV000087728	Crotalaria retusa	165774	Yes	No	No

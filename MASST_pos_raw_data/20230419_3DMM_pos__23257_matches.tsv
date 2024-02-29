@@ -1,0 +1,13 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000082582:Wash_33:scan:1134	0.86	7	NoID
+-0.0	mzspec:MSV000082433:546:scan:2565	0.85	8	NoID
+0.0	mzspec:MSV000082433:294:scan:2566	0.84	8	NoID
+0.0	mzspec:MSV000083772:18_S8-DOM-1-Fri-low_A:scan:3457	0.79	7	NoID
+-0.04	mzspec:MSV000082953:P2_C9:scan:4116	0.72	6	NoID
+0.0	mzspec:MSV000083889:IB-Spray-DOM_MZmine237-17-7-Kai_IIN_GNPS_merged:scan:97456	0.71	6	NoID
+0.0	mzspec:MSV000083889:IB-Spray-DOM_MZmine237-17-7-Kai_IIN_SIRIUS_merged:scan:97456	0.71	6	NoID
+0.0	mzspec:MSV000083383:S_ATX-3:scan:4749	0.71	6	NoID
+0.0	mzspec:MSV000083889:IB-Spray-DOM_MZmine237-17-7-Kai_IIN_GNPS_merged2:scan:97456	0.71	6	NoID
+0.0	mzspec:MSV000083889:IB_MZmine_1_GNPS_merged08:scan:97456	0.71	6	NoID
+0.0	mzspec:MSV000083889:2019_5_16_IB_DOM_2:scan:3912	0.71	6	NoID
+0.0	mzspec:MSV000082952:DOM_2D_acidic_15:scan:3150	0.7	6	NoID

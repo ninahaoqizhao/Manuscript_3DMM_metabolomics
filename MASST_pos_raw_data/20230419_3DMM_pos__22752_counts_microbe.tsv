@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000081097:GNPS_Aspergillus_wentii_4	-0.05	mzspec:MSV000081097:GNPS_Aspergillus_wentii_4:scan:15606	1	0.71	7	MSV000081097	NoID	MSV000081097/ccms_peak/GNPS_Aspergillus_wentii_4.mzML	MSV000081097/GNPS_Aspergillus_wentii_4.mzML	MSV000081097	Aspergillus		5052	automatic	No	No	No

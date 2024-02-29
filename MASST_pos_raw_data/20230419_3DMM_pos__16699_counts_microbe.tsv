@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089524:A1_batch5_DrLicona_300nguL_2uLiny_21nov2021	-0.0	mzspec:MSV000089524:A1_batch5_DrLicona_300nguL_2uLiny_21nov2021:scan:4294967295	1	0.75	6	MSV000089524	NoID	MSV000089524/raw/A1_batch5_DrLicona_300nguL_2uLiny_21nov2021.mzML	MSV000089524/A1_batch5_DrLicona_300nguL_2uLiny_21nov2021.mzML	MSV000089524	Streptomyces sp. KL111A	Streptomyces sp.	1883	manual	Yes	No	No

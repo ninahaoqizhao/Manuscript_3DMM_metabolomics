@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009978887	CCMSLIB00009978887	0.93	5	Suspect related to Palmitoyl ethanolamide (predicted molecular formula: C14H31NO) with delta m/z -70.042 (putative explanation: nan (reverse)|Butyryl (reverse)|Crotonaldehyde (reverse)|nan (reverse); atomic difference: -2C,-4H,-3N|-4C,-6H,-1O|-4C,-6H,-1O|-4C,-6H,-1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010000741	CCMSLIB00010000741	0.9	5	Suspect related to Stearoyl ethanolamide (predicted molecular formula: C14H31NO) with delta m/z -98.074 (putative explanation: Acetone chemical artifact (reverse); atomic difference: -6C,-10H,-1O)	[M+H]+	1

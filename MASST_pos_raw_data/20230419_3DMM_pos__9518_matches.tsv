@@ -1,0 +1,20 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088137:Blank_00_no_inj:scan:1304	0.84	6	NoID
+0.0	mzspec:MSV000088137:BLANK1_1D:scan:1295	0.83	7	NoID
+0.0	mzspec:MSV000088137:QC_Mix_01:scan:1271	0.82	6	NoID
+0.0	mzspec:MSV000088137:Blank_Plate02_00_no_inj:scan:1287	0.77	6	NoID
+-0.0	mzspec:MSV000089558:Blank_Solvent_15:scan:1263	0.76	6	NoID
+0.0	mzspec:MSV000088645:Blank_03_P02_no_inj:scan:1287	0.76	5	NoID
+0.0	mzspec:MSV000088137:Blank_Plate03_03_no_inj:scan:1254	0.74	6	NoID
+-0.0	mzspec:MSV000089540:G3_Ctrl:scan:1554	0.74	6	NoID
+0.0	mzspec:MSV000087612:Blank_Plate01_00_no_inj:scan:1245	0.74	5	NoID
+-0.0	mzspec:MSV000089558:Blank_Solvent_10:scan:1265	0.73	6	NoID
+-0.0	mzspec:MSV000089558:Blank_03_no_inj:scan:1268	0.73	6	NoID
+0.0	mzspec:MSV000088640:Blank_04_P01_no_inj:scan:1277	0.72	5	NoID
+-0.0	mzspec:MSV000088640:6034929:scan:1311	0.72	5	NoID
+0.0	mzspec:MSV000088137:Blank_Plate02_11_no_inj_RESTART_20210525125422:scan:1265	0.71	6	NoID
+0.0	mzspec:MSV000088137:QC_Mix_02:scan:1357	0.71	6	NoID
+0.0	mzspec:MSV000088640:Blank_02_P02_no_inj_Presequence:scan:1258	0.71	6	NoID
+0.0	mzspec:MSV000088546:Blank_00_P01_no_inj:scan:1208	0.71	5	NoID
+0.0	mzspec:MSV000088546:Blank_00_P02_no_inj:scan:1202	0.71	5	NoID
+-0.0	mzspec:MSV000088645:4057180621:scan:1292	0.7	5	NoID

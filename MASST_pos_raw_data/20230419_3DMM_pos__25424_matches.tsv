@@ -1,0 +1,18 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000089313:SEED_Grant_iimn_gnps:scan:68182	0.83	5	NoID
+0.0	mzspec:MSV000089313:SEED_Grant_sirius:scan:2814	0.83	5	NoID
+0.0	mzspec:MSV000089313:SEED_Grant_2_sirius_iimn:scan:2763	0.8	5	NoID
+-0.0	mzspec:MSV000089313:SEED_Grant_2_gnps:scan:17860	0.8	5	NoID
+-0.0	mzspec:MSV000089313:SEED_Grant_2_iimn_gnps:scan:17860	0.8	5	NoID
+0.0	mzspec:MSV000089313:SEED_Grant_2_Sirius:scan:2763	0.8	5	NoID
+0.02	mzspec:MSV000085871:Mouse_Whole_Brain_CHCl3_Lip_ext_3Xdil_incl_list_pos_CE_10_30:scan:7660	0.77	7	NoID
+-0.0	mzspec:MSV000089313:14HM443:scan:2700	0.72	7	NoID
+0.02	mzspec:MSV000080627:QC_MeOH_161004124821:scan:2854	0.72	7	NoID
+0.0	mzspec:MSV000089313:Blank_02_no_inj:scan:2722	0.72	5	NoID
+0.0	mzspec:MSV000088697:03_Anabaena_PCC7120_SPE:scan:6092	0.71	8	NoID
+0.0	mzspec:MSV000086312:Frass_20LA_LCMSMS:scan:9145	0.71	7	NoID
+-0.02	mzspec:MSV000086330:Std_Novobiocin:scan:7140	0.71	7	NoID
+0.0	mzspec:MSV000089313:14HM311:scan:2808	0.71	7	NoID
+0.0	mzspec:MSV000089313:14HM452:scan:2860	0.71	7	NoID
+-0.0	mzspec:MSV000083306:QEC18polar_F1-1_F2-1_NIST-2_To-1_20181230113559:scan:6096	0.71	6	NoID
+-0.0	mzspec:MSV000089313:14HM502:scan:2677	0.7	6	NoID

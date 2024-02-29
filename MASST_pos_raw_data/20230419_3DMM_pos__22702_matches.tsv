@@ -1,0 +1,6 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000080627:ONR_Stool_32:scan:2447	0.78	8	NoID
+-0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab018_A15M_Pos_MS2_rep1:scan:6443	0.75	7	NoID
+-0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab018_A15M_Pos_MS2_rep3:scan:6407	0.74	7	NoID
+-0.0	mzspec:MSV000080627:ONR_Stool_5:scan:2421	0.74	6	NoID
+0.0	mzspec:MSV000087995:DOM_Interlab-LCMS_Lab018_A_Pos_MS2_rep3:scan:5622	0.71	7	NoID

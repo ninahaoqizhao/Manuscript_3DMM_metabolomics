@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:12	0.0	mzspec:MSV000083835:12:scan:6119	1	0.89	7	MSV000083835	NoID	MSV000083835/peak/MeOH_High_res_mzML/12.mzML	MSV000083835/12.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:12 Control TSB meth-pos	0.0	mzspec:MSV000083835:12 Control TSB meth-pos:scan:6119	1	0.89	7	MSV000083835	NoID	MSV000083835/updates/2019-05-21_lfnothias_ad043d61/peak/Methanol/Control/12 Control TSB meth-pos.mzXML	MSV000083835/12 Control TSB meth-pos.mzXML	MSV000083835	Streptomyces		qc	automatic	No	No	Yes
+mzspec:MSV000080559:O_1	0.0	mzspec:MSV000080559:O_1:scan:2421	1	0.79	7	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/O_1.mzXML	MSV000080559/O_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

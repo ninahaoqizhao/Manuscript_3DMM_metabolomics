@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088519:Biotic_2	0.0	mzspec:MSV000088519:Biotic_2:scan:2323	1	0.83	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Biotic_2.mzML	MSV000088519/Biotic_2.mzML	MSV000088519	Bacteria		2	automatic	No	No	No
+mzspec:MSV000089834:Pig_34	0.0	mzspec:MSV000089834:Pig_34:scan:1861	1	0.82	5	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2020/Pig_34.mzML	MSV000089834/Pig_34.mzML	MSV000089834	Leeuwenhoekiella aequorea wadden sea isolate	Leeuwenhoekiella aequorea	283736	manual	No	No	No
+mzspec:MSV000088519:Biotic_3	0.0	mzspec:MSV000088519:Biotic_3:scan:2320	1	0.8	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Biotic_3.mzML	MSV000088519/Biotic_3.mzML	MSV000088519	Bacteria		2	automatic	No	No	No
+mzspec:MSV000089834:Pig_19	0.0	mzspec:MSV000089834:Pig_19:scan:1640	1	0.79	5	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2020/Pig_19.mzML	MSV000089834/Pig_19.mzML	MSV000089834	Erythrobacter aquimaris wadden sea isolate	Erythrobacter aquimaris	255984	manual	No	No	No

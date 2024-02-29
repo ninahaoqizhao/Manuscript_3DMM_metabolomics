@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.03	mzspec:MSV000082647:81995:scan:3845	0.91	7	NoID
+0.04	mzspec:MSV000083077:PHT_20_155_Cort_1200:scan:2522	0.86	7	NoID
+0.04	mzspec:MSV000081351:Solvent_Blank_10:scan:2281	0.82	6	NoID
+0.04	mzspec:MSV000083077:PHT_20_155_Cort_1600:scan:2504	0.82	6	NoID
+0.04	mzspec:MSV000082331:B3_Apple_Apple1:scan:7709	0.71	6	NoID
+0.04	mzspec:MSV000081949:jb418_alone_rep_2:scan:3291	0.7	6	NoID
+0.04	mzspec:MSV000082331:D3_Tomato:scan:5894	0.7	6	NoID

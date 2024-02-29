@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083835:25	0.04	mzspec:MSV000083835:25:scan:535	1	0.73	5	MSV000083835	NoID	MSV000083835/peak/MeOH_Neg_mzML/25.mzML	MSV000083835/25.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000083835:26	0.04	mzspec:MSV000083835:26:scan:524	1	0.7	5	MSV000083835	NoID	MSV000083835/peak/MeOH_Neg_mzML/26.mzML	MSV000083835/26.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No

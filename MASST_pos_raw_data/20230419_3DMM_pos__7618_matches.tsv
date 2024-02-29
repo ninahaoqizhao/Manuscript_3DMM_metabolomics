@@ -1,0 +1,21 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000082433:M-469:scan:1349	0.76	8	NoID
+-0.0	mzspec:MSV000082433:M-473:scan:1354	0.76	8	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-06_soak:scan:5290	0.75	6	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-06_soak:scan:5290	0.75	6	NoID
+-0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-31_son:scan:5524	0.74	6	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-23_soak:scan:5494	0.74	6	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-02_soak:scan:5477	0.74	6	NoID
+-0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-31_soak:scan:5488	0.74	6	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-23_soak:scan:5494	0.74	6	NoID
+-0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-31_soak:scan:5488	0.74	6	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-02_soak:scan:5477	0.74	6	NoID
+-0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-31_son:scan:5524	0.74	6	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-21_soak:scan:5454	0.74	6	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-21_soak:scan:5454	0.74	6	NoID
+-0.0	mzspec:MSV000082433:498:scan:1342	0.73	7	NoID
+-0.0	mzspec:MSV000084314:MSV000082433:scan:43164	0.73	7	NoID
+-0.0	mzspec:MSV000082433:516:scan:1345	0.72	7	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-11:scan:4600	0.72	6	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-11:scan:4607	0.71	6	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-15:scan:4606	0.71	6	NoID

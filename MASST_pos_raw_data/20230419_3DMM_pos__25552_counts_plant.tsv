@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF142_G11_pos	0.0	mzspec:MSV000087728:VGF142_G11_pos:scan:4072	1	0.93	8	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF142_G11_pos.mzML	MSV000087728/VGF142_G11_pos.mzML	MSV000087728	Wisteria brachybotrys	185975	Yes	No	No
+mzspec:MSV000087728:VGF142_D11_pos	-0.0	mzspec:MSV000087728:VGF142_D11_pos:scan:4074	1	0.92	8	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF142_D11_pos.mzML	MSV000087728/VGF142_D11_pos.mzML	MSV000087728	Croton thorelii	1633398	Yes	No	No
+mzspec:MSV000087728:VGF142_G08_pos	0.0	mzspec:MSV000087728:VGF142_G08_pos:scan:3955	1	0.75	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF142_G08_pos.mzML	MSV000087728/VGF142_G08_pos.mzML	MSV000087728	Phtheirospermum japonicum	374723	Yes	No	No

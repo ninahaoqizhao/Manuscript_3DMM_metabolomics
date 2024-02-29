@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000089558:355_2:scan:2943	0.93	8	NoID
+-0.0	mzspec:MSV000089558:356_15:scan:2955	0.79	6	NoID
+0.0	mzspec:MSV000083729:StromTissue050719_adducts:scan:3098	0.74	5	NoID
+0.0	mzspec:MSV000083729:StromTissueOnlyGNPS042119:scan:3098	0.74	5	NoID
+-0.0	mzspec:MSV000089558:353_10:scan:2905	0.73	6	NoID
+0.0	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_SIRIUS:scan:2060	0.73	5	NoID
+0.0	mzspec:MSV000083729:Stromatolite_Tissue_2A-R_pos:scan:5000	0.73	5	NoID
+-0.0	mzspec:MSV000083729:Stromatolite_Tissue_116_pos:scan:5000	0.73	5	NoID
+0.0	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_no_IIN:scan:2060	0.73	5	NoID
+0.0	mzspec:MSV000083729:Stromatolite_TissueOnly_Pos_with_IIN:scan:2060	0.73	5	NoID
+-0.0	mzspec:MSV000084314:MSV000083729:scan:9954	0.71	5	NoID
+-0.0	mzspec:MSV000084314:MSV000080559:scan:8481	0.71	5	NoID
+-0.0	mzspec:MSV000080559:L_4:scan:3017	0.71	5	NoID

@@ -1,0 +1,9 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086639:PLT1_G1_TEST	-0.0	mzspec:MSV000086639:PLT1_G1_TEST:scan:3628	5	0.81	9	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT1_G1_TEST.mzML	MSV000086639/PLT1_G1_TEST.mzML	MSV000086639	Bacteria		2	automatic	No	No	No
+mzspec:MSV000081065:5_23_I	-0.01	mzspec:MSV000081065:5_23_I:scan:3013	5	0.75	8	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_I.mzXML	MSV000081065/5_23_I.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000081065:5_48_I	-0.01	mzspec:MSV000081065:5_48_I:scan:3277	5	0.74	8	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_48_I.mzXML	MSV000081065/5_48_I.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000081065:5_23_III	-0.01	mzspec:MSV000081065:5_23_III:scan:3153	5	0.74	8	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_III.mzXML	MSV000081065/5_23_III.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000081065:5_23_II	-0.01	mzspec:MSV000081065:5_23_II:scan:3013	5	0.73	8	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_II.mzXML	MSV000081065/5_23_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000082377:SPE80	0.0	mzspec:MSV000082377:SPE80:scan:1703	5	0.72	8	MSV000082377	NoID	MSV000082377/ccms_peak/180517_raw/SPE80.mzML	MSV000082377/SPE80.mzML	MSV000082377	Pseudomonas		286	automatic	No	No	No
+mzspec:MSV000083134:blank_0	-0.01	mzspec:MSV000083134:blank_0:scan:2863	5	0.72	8	MSV000083134	NoID	MSV000083134/ccms_peak/raw/blank_0.mzML	MSV000083134/blank_0.mzML	MSV000083134	Escherichia coli		blank	automatic	No	Yes	No
+mzspec:MSV000086639:PLT1_C5	-0.0	mzspec:MSV000086639:PLT1_C5:scan:3665	5	0.71	8	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT1_C5.mzML	MSV000086639/PLT1_C5.mzML	MSV000086639	Bacteroides thetaiotaomicron		818	automatic	Yes	No	No

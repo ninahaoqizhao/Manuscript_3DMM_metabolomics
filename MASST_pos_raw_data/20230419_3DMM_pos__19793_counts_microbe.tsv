@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086314:P141_LCMSMS	0.0	mzspec:MSV000086314:P141_LCMSMS:scan:7928	2	0.86	6	MSV000086314	NoID	MSV000086314/ccms_peak/Microbes_LCMSMS/P141_LCMSMS.mzML	MSV000086314/P141_LCMSMS.mzML	MSV000086314	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000088827:Toly-200A2	0.01	mzspec:MSV000088827:Toly-200A2:scan:4294967295	2	0.85	6	MSV000088827	NoID	MSV000088827/peak/Toly-200A2.mzML	MSV000088827/Toly-200A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No

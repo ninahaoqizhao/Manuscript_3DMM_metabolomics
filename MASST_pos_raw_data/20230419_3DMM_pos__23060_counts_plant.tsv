@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000086427:VGF152_E11	0.03	mzspec:MSV000086427:VGF152_E11:scan:2927	1	0.72	7	MSV000086427	NoID	MSV000086427/ccms_peak/ecometabo_rawfiles/VGF152_E11.mzML	MSV000086427/VGF152_E11.mzML	MSV000086427	Banisteriopsis harleyi	1027069	Yes	No	No
+mzspec:MSV000087728:VGF150_A04_pos	0.04	mzspec:MSV000087728:VGF150_A04_pos:scan:2967	1	0.71	7	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF150_A04_pos.mzML	MSV000087728/VGF150_A04_pos.mzML	MSV000087728	Gossypium herbaceum	34274	Yes	No	No
+mzspec:MSV000087728:VGF144_H07_pos	-0.02	mzspec:MSV000087728:VGF144_H07_pos:scan:4014	1	0.7	7	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF144_H07_pos.mzML	MSV000087728/VGF144_H07_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No

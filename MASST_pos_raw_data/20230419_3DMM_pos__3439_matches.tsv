@@ -1,0 +1,27 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000079034:150116_EF_PMA_PSN475_NC-101-10-f_ddMS2_pos:scan:947	0.92	8	NoID
+-0.0	mzspec:MSV000079069:150220_EF_PMA_PSN473_LN-2276-f_ddMS2_pos:scan:1058	0.9	8	NoID
+-0.0	mzspec:MSV000079034:150116_EF_PMA_PSN474_LN-2662-f_ddMS2_pos:scan:937	0.9	8	NoID
+-0.0	mzspec:MSV000082382:Leaf5_FZB42_1:scan:995	0.81	7	NoID
+-0.0	mzspec:MSV000082380:FZB42_seed_3_5_days_mitad_raiz:scan:994	0.79	6	NoID
+-0.0	mzspec:MSV000083523:FZB42_seed_3_5_days_mitad_raiz:scan:994	0.79	6	NoID
+-0.02	mzspec:MSV000087872:pEAQ-CcaBURP2-day6:scan:2017	0.78	7	NoID
+-0.0	mzspec:MSV000082382:Root_FZB42_3:scan:994	0.78	6	NoID
+-0.0	mzspec:MSV000082382:Stem5_1606_4:scan:1061	0.78	6	NoID
+-0.0	mzspec:MSV000084674:Control_seed_4_5_days_mitad_raiz_180512080823:scan:999	0.78	6	NoID
+-0.0	mzspec:MSV000084674:Control_seed_3_5_days_mitad_raiz_180512073809:scan:1004	0.78	6	NoID
+-0.0	mzspec:MSV000082380:Control_seed_3_5_days_mitad_raiz_180512073809:scan:1004	0.78	6	NoID
+-0.0	mzspec:MSV000082380:Control_seed_4_5_days_mitad_raiz_180512080823:scan:999	0.78	6	NoID
+-0.0	mzspec:MSV000082380:Control_seed_1_5_days_inicio_raiz:scan:998	0.77	6	NoID
+-0.0	mzspec:MSV000083523:190402_Carlos_roots_MZmine2_37_corr16-4_1E5_1E3_correlated_GNPS:scan:31617	0.77	6	NoID
+-0.0	mzspec:MSV000082380:1606-Pect-FZB42_seed_1_5_days_mitad_raiz:scan:976	0.77	6	NoID
+-0.0	mzspec:MSV000082380:1606-3610_seed_2_5_days_mitad_raiz:scan:992	0.77	6	NoID
+-0.0	mzspec:MSV000083523:Control_seed_1_5_days_inicio_raiz:scan:998	0.77	6	NoID
+-0.0	mzspec:MSV000083523:1606-3610_seed_2_5_days_mitad_raiz:scan:992	0.77	6	NoID
+-0.0	mzspec:MSV000082380:1606-FZB42_seed_1_5_days_mitad_raiz:scan:994	0.77	6	NoID
+-0.0	mzspec:MSV000083523:1606-FZB42_seed_1_5_days_mitad_raiz:scan:994	0.77	6	NoID
+-0.0	mzspec:MSV000082382:Leaf5_FZB42_2:scan:969	0.76	6	NoID
+-0.0	mzspec:MSV000081463:H2_4_Locular_Tissue_2_Y_F2:scan:2955	0.74	6	NoID
+-0.0	mzspec:MSV000079034:150116_EF_PMA_PSN474_LN-510-f_ddMS2_pos:scan:983	0.73	7	NoID
+-0.0	mzspec:MSV000082382:Leaf6_1606-3610_1:scan:1025	0.73	6	NoID
+0.0	mzspec:MSV000087872:Plectranthus-bipinnatus-stem-nBuOH:scan:1919	0.7	7	NoID

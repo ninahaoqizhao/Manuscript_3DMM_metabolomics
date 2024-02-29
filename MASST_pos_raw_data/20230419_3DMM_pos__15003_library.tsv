@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946111	CCMSLIB00009946111	0.78	5	Suspect related to Dihomo-.gamma.-linolenic acid methyl ester (predicted molecular formula: C20H30O3) with delta m/z -2.052 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009941836	CCMSLIB00009941836	0.73	5	Suspect related to Aleuritic acid (predicted molecular formula: C20H36O6) with delta m/z 68.025 (putative explanation: unspecified|Crotonylation|unspecified; atomic difference: 2C,2H,3N|4C,4H,1O|4C,4H,1O)	[M-3H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009951052	CCMSLIB00009951052	0.72	5	Suspect related to Linoelaidic acid (predicted molecular formula: C20H32O4) with delta m/z 55.988 (putative explanation: DST crosslinker cleaved by sodium periodate|unspecified; atomic difference: 2C,2O|2C,2O)	[M-H2O+H]+	1

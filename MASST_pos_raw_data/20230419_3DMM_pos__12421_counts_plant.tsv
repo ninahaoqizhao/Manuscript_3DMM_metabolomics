@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF155_H08_pos	0.0	mzspec:MSV000087728:VGF155_H08_pos:scan:1768	1	0.78	8	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF155_H08_pos.mzML	MSV000087728/VGF155_H08_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No
+mzspec:MSV000086644:104_MJB2374_6ul_GC8_01_22294	0.05	mzspec:MSV000086644:104_MJB2374_6ul_GC8_01_22294:scan:2959	1	0.71	8	MSV000086644	NoID	MSV000086644/ccms_peak/20201229_Myoporeae_full_dataset/104_MJB2374_6ul_GC8_01_22294.mzML	MSV000086644/104_MJB2374_6ul_GC8_01_22294.mzML	MSV000086644	Eremophila grandiflora	2652547	No	No	No

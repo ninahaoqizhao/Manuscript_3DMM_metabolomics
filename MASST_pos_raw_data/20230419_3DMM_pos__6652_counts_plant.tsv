@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF157_C02_pos	0.0	mzspec:MSV000087728:VGF157_C02_pos:scan:1216	1	0.78	10	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF157_C02_pos.mzML	MSV000087728/VGF157_C02_pos.mzML	MSV000087728	Ochna integerrima	210381	Yes	No	No
+mzspec:MSV000087728:VGF157_H04_pos	-0.0	mzspec:MSV000087728:VGF157_H04_pos:scan:1249	1	0.77	10	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF157_H04_pos.mzML	MSV000087728/VGF157_H04_pos.mzML	MSV000087728	Strychnos nux-vomica	28545	Yes	No	No
+mzspec:MSV000087728:VGF141_H09_pos	0.0	mzspec:MSV000087728:VGF141_H09_pos:scan:1236	1	0.73	9	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF141_H09_pos.mzML	MSV000087728/VGF141_H09_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No

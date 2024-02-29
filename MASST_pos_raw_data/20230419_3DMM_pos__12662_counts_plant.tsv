@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000080553:1BB7_Z4_Flower2_Rosumarinus_BB7_01_26653	-0.04	mzspec:MSV000080553:1BB7_Z4_Flower2_Rosumarinus_BB7_01_26653:scan:1974	1	0.75	6	MSV000080553	NoID	MSV000080553/peak/Rosumarinus/1BB7_Z4_Flower2_Rosumarinus_BB7_01_26653.mzXML	MSV000080553/1BB7_Z4_Flower2_Rosumarinus_BB7_01_26653.mzXML	MSV000080553	Salvia rosmarinus	39367	No	No	No
+mzspec:MSV000087728:VGF144_H04_pos	0.0	mzspec:MSV000087728:VGF144_H04_pos:scan:1204	1	0.75	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF144_H04_pos.mzML	MSV000087728/VGF144_H04_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No

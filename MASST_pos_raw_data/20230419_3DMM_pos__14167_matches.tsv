@@ -1,0 +1,19 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088137:mars0008:scan:1676	0.81	7	NoID
+0.0	mzspec:MSV000080187:Blank_GA2_01_243:scan:1746	0.75	6	NoID
+0.0	mzspec:MSV000080179:Blank_GA2_01_243:scan:1746	0.75	6	NoID
+-0.04	mzspec:MSV000079714:group4_P2_F9:scan:1974	0.75	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_F9:scan:1974	0.75	5	NoID
+0.0	mzspec:MSV000083118:20180626-Cfe-DMSO-14point784-14point788:scan:4465	0.74	5	NoID
+-0.04	mzspec:MSV000079714:group4_P2_G6:scan:1961	0.74	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_G6:scan:1961	0.74	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_F8:scan:2006	0.73	5	NoID
+-0.04	mzspec:MSV000079714:group4_P2_F8:scan:2006	0.73	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_C9:scan:1938	0.72	5	NoID
+-0.04	mzspec:MSV000079714:group4_P2_C9:scan:1938	0.72	5	NoID
+0.0	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab024_A_POS_MS2_rep2:scan:4984	0.71	5	NoID
+0.0	mzspec:MSV000088008:DOM_Interlab-LCMS_Lab024_A_POS_MS2_rep2:scan:4984	0.71	5	NoID
+-0.04	mzspec:MSV000079714:group4_P2_E6:scan:2004	0.71	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_E6:scan:2004	0.71	5	NoID
+-0.04	mzspec:MSV000079697:group4_P2_D1:scan:1974	0.7	5	NoID
+-0.04	mzspec:MSV000079714:group4_P2_D1:scan:1974	0.7	5	NoID

@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000081116:Strept_roseosporus_Mix2_SampleB4:scan:1054	0.89	11	NoID
+0.0	mzspec:MSV000081116:S_albus_J1074_Mix4_SampleA6:scan:1078	0.89	11	NoID
+-0.0	mzspec:MSV000081116:Strept_roseosporus_Mix1_SampleB3:scan:1055	0.86	11	NoID
+0.01	mzspec:MSV000081116:Strept_roseosporus_Mix4_SampleB6:scan:1185	0.85	10	NoID
+0.0	mzspec:MSV000081116:S_albus_J1074_Mix6_SampleA8:scan:1034	0.83	11	NoID
+0.0	mzspec:MSV000081116:Strept_roseosporus_Mix5_SampleB7:scan:1455	0.83	10	NoID
+0.0	mzspec:MSV000081116:S_albus_J1074_SampleA1_media:scan:945	0.82	10	NoID
+0.0	mzspec:MSV000081116:ISP2_Mix3_SampleC5:scan:1056	0.8	10	NoID
+0.0	mzspec:MSV000081116:Strept_roseosporus_SampleB1_media:scan:969	0.78	10	NoID
+0.0	mzspec:MSV000081116:ISP2_SampleC2_control:scan:961	0.76	9	NoID
+0.0	mzspec:MSV000081116:Contr_TSB__Mix5_SampleG7:scan:1882	0.76	9	NoID
+0.0	mzspec:MSV000081116:ISP2_Mix4_SampleC6:scan:1020	0.75	9	NoID
+0.01	mzspec:MSV000081116:ISP2_Mix2_SampleC4:scan:1048	0.73	9	NoID

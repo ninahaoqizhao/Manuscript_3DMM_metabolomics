@@ -1,0 +1,18 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000086012:Blank_no_inj_GA1_01_55942:scan:1680	0.89	13	NoID
+-0.0	mzspec:MSV000085724:X3097210_RG9_01_55127:scan:1815	0.84	10	NoID
+-0.0	mzspec:MSV000085607:X3097210_RG9_01_55127:scan:1815	0.84	10	NoID
+0.0	mzspec:MSV000086012:Blank_no_inj_GA1_01_55849:scan:1686	0.83	11	NoID
+0.0	mzspec:MSV000078667:EH_Entotheonella_enriched_combined:scan:5992	0.82	10	NoID
+0.0	mzspec:MSV000078670:EH_Entotheonella_enriched_combined:scan:5992	0.82	10	NoID
+0.0	mzspec:MSV000082467:Chol_ile_1in50_RC6_01_12112:scan:3781	0.81	9	NoID
+0.0	mzspec:MSV000082610:Chol_ile_1in50_RC6_01_12112:scan:3781	0.81	9	NoID
+0.0	mzspec:MSV000084312:Sample:scan:359	0.8	12	NoID
+-0.01	mzspec:MSV000084314:MSV000088021:scan:349907	0.8	11	NoID
+-0.0	mzspec:MSV000088021:Blank_131:scan:3426	0.79	11	NoID
+0.0	mzspec:MSV000085103:stdmix_20_1mm_ph2:scan:4026	0.77	8	NoID
+-0.0	mzspec:MSV000084907:E5_T0_16_GA10_01_51946:scan:1703	0.72	9	NoID
+-0.0	mzspec:MSV000088661:BLANK_5:scan:314	0.71	10	NoID
+0.0	mzspec:MSV000083302:Solvent_Blank_19_GA3_01_40444:scan:1704	0.71	8	NoID
+0.0	mzspec:MSV000086015:Blank_no_inj_GA1_01_55739:scan:1698	0.71	7	NoID
+-0.0	mzspec:MSV000085744:RP(+)_UrineHigh_DDA1:scan:4297	0.71	5	NoID

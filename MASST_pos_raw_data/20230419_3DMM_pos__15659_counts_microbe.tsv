@@ -1,0 +1,7 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:H_4	0.0	mzspec:MSV000080559:H_4:scan:2106	1	0.98	12	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_4.mzXML	MSV000080559/H_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000083396:J_Fungal_filtrate_24h_P1A3	0.0	mzspec:MSV000083396:J_Fungal_filtrate_24h_P1A3:scan:2414	1	0.98	11	MSV000083396	NoID	MSV000083396/peak/1901_fungal_symbiont_confirmation_inclusion_list_mzML/J_Fungal_filtrate_24h_P1A3.mzML	MSV000083396/J_Fungal_filtrate_24h_P1A3.mzML	MSV000083396	Fungi		4751	automatic	No	No	No
+mzspec:MSV000080559:H_2	0.0	mzspec:MSV000080559:H_2:scan:2112	1	0.94	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/H_2.mzXML	MSV000080559/H_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:I_4	0.0	mzspec:MSV000080559:I_4:scan:2106	1	0.94	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_4.mzXML	MSV000080559/I_4.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:I_2	0.0	mzspec:MSV000080559:I_2:scan:2116	1	0.94	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_2.mzXML	MSV000080559/I_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:J_2	0.0	mzspec:MSV000080559:J_2:scan:2102	1	0.94	11	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/J_2.mzXML	MSV000080559/J_2.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

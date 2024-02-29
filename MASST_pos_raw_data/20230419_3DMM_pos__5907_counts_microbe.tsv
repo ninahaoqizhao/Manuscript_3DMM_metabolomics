@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086550:PLT8_H10_GH10_01_58249	0.01	mzspec:MSV000086550:PLT8_H10_GH10_01_58249:scan:983	1	0.73	7	MSV000086550	NoID	MSV000086550/ccms_peak/mzXML/DATA_PLATE_8_mzXML/PLT8_H10_GH10_01_58249.mzML	MSV000086550/PLT8_H10_GH10_01_58249.mzML	MSV000086550	Bacteria		2	automatic	No	No	No

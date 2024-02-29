@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946035	CCMSLIB00009946035	0.79	5	Suspect related to Diethyl azelate (predicted molecular formula: C11H22O5) with delta m/z -10.021 (putative explanation: Pro->Ser substitution; atomic difference: -2C,-2H,1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009990695	CCMSLIB00009990695	0.73	5	Suspect related to Spectral Match to Azelaic acid from NIST14 (predicted molecular formula: C11H22O5) with delta m/z 46.042 (putative explanation: unspecified|unspecified; atomic difference: 2C,6H,1O|4H,3N)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992612	CCMSLIB00009992612	0.73	5	Suspect related to Spectral Match to Diethyl azelate from NIST14 (predicted molecular formula: C11H22O5) with delta m/z -10.021 (putative explanation: Pro->Ser substitution; atomic difference: -2C,-2H,1O)	[M+H]+	1

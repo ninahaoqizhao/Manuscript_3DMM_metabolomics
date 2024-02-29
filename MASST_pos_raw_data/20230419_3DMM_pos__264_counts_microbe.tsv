@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000081097:GNPS_Aspergillu_aculeatus_1	-0.04	mzspec:MSV000081097:GNPS_Aspergillu_aculeatus_1:scan:8789	1	0.74	5	MSV000081097	NoID	MSV000081097/ccms_peak/GNPS_Aspergillu_aculeatus_1.mzML	MSV000081097/GNPS_Aspergillu_aculeatus_1.mzML	MSV000081097	Aspergillus		5052	automatic	No	No	No
+mzspec:MSV000084595:48_MB-4_M_SAMPLE_WT_D12	0.0	mzspec:MSV000084595:48_MB-4_M_SAMPLE_WT_D12:scan:1210	1	0.72	5	MSV000084595	NoID	MSV000084595/ccms_peak/Positive_RAW/48_MB-4_M_SAMPLE_WT_D12.mzML	MSV000084595/48_MB-4_M_SAMPLE_WT_D12.mzML	MSV000084595	Streptomyces		1883	automatic	No	No	No

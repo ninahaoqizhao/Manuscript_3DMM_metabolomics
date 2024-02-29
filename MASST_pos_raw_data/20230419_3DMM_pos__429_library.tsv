@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952489	CCMSLIB00009952489	0.99	5	Suspect related to Maltotriose (predicted molecular formula: C6H15NO6) with delta m/z -307.079 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952377	CCMSLIB00009952377	0.93	5	Suspect related to Maltose (predicted molecular formula: C10H17NO2S) with delta m/z -127.016 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

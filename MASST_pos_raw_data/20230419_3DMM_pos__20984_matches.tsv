@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000083651:Marinobacter_A2:scan:2505	0.92	12	NoID
+0.0	mzspec:MSV000083651:Marinobacter_A3:scan:2527	0.91	11	NoID
+0.0	mzspec:MSV000084314:MSV000083651:scan:5712	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_B3_Fe_3mM:scan:2576	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_A2_Fe_3mM:scan:2542	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_B2_Fe_3mM:scan:2565	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_B2:scan:2526	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_A3_Fe_3mM:scan:2536	0.9	11	NoID
+0.0	mzspec:MSV000083651:Marinobacter_B1:scan:2520	0.87	10	NoID
+0.0	mzspec:MSV000083651:Marinobacter_A1:scan:2563	0.86	10	NoID
+0.0	mzspec:MSV000083651:Marinobacter_B1_Fe_3mM:scan:2566	0.86	10	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A1_Fe_3mM:scan:2568	0.85	10	NoID
+0.0	mzspec:MSV000084314:MSV000085120:scan:502285	0.74	8	NoID
+0.0	mzspec:MSV000085120:BAX1422_2x_BC4_01_25356:scan:1626	0.72	9	NoID

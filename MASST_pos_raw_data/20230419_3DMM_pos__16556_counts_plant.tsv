@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085119:P5_H11_GH11_01_54029	0.0	mzspec:MSV000085119:P5_H11_GH11_01_54029:scan:1102	1	0.83	8	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate5_POS/P5_H11_GH11_01_54029.mzML	MSV000085119/P5_H11_GH11_01_54029.mzML	MSV000085119	Stigmaphyllon saxicola	1804203	Yes	No	No
+mzspec:MSV000085119:P2_H11_BH11_01_53746	0.0	mzspec:MSV000085119:P2_H11_BH11_01_53746:scan:1096	1	0.81	8	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate2_POS/P2_H11_BH11_01_53746.mzML	MSV000085119/P2_H11_BH11_01_53746.mzML	MSV000085119	Stigmaphyllon saxicola	1804203	Yes	No	No

@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086666:01003-88-27	-0.0	mzspec:MSV000086666:01003-88-27:scan:2711	1	0.88	8	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-27.mzML	MSV000086666/01003-88-27.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000086666:01003-88-19	-0.0	mzspec:MSV000086666:01003-88-19:scan:2592	1	0.85	8	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-19.mzML	MSV000086666/01003-88-19.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000086666:01003-88-26	-0.0	mzspec:MSV000086666:01003-88-26:scan:2629	1	0.83	7	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-26.mzML	MSV000086666/01003-88-26.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000085000:KM_EN-dark	-0.0	mzspec:MSV000085000:KM_EN-dark:scan:4128	1	0.7	6	MSV000085000	NoID	MSV000085000/peak/KM_EN-dark.mzXML	MSV000085000/KM_EN-dark.mzXML	MSV000085000	Epicoccum nigrum cf0051	Epicoccum nigrum	105696	manual	Yes	No	No

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088519:Biotic_1	0.0	mzspec:MSV000088519:Biotic_1:scan:4675	1	0.81	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Biotic_1.mzML	MSV000088519/Biotic_1.mzML	MSV000088519	Bacteria		2	automatic	No	No	No

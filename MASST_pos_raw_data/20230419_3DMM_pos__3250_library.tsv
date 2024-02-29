@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000853494	CCMSLIB00000853494	0.84	5	NCGC00385190-01_C16H24O7_4-(3-Hydroxybutyl)phenyl beta-D-glucopyranoside	M+NH4	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004714839	CCMSLIB00004714839	0.83	5	(2S,3R,4S,5S,6R)-2-[4-(3-hydroxybutyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004714840	CCMSLIB00004714840	0.82	5	(2S,3R,4S,5S,6R)-2-[4-(3-hydroxybutyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009972186	CCMSLIB00009972186	0.81	5	Suspect related to NCGC00380875-01_C21H32O11_4-(4-Hydroxyphenyl)-2-butanyl 6-O-[(4xi)-alpha-L-threo-pentofuranosyl]-beta-D-glucopyranoside (predicted molecular formula: unknown) with delta m/z -132.042 (putative explanation: Pentose (reverse); atomic difference: -5C,-8H,-4O)	[M+NH4]+	1

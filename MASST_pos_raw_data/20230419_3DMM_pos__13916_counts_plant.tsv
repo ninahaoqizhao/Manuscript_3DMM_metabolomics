@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085119:P4_E4_BE4_01_53872	0.02	mzspec:MSV000085119:P4_E4_BE4_01_53872:scan:992	1	0.72	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate4_POS/P4_E4_BE4_01_53872.mzML	MSV000085119/P4_E4_BE4_01_53872.mzML	MSV000085119	Bronwenia megaptera	1561753	Yes	No	No
+mzspec:MSV000085119:P3_F1_GF1_01_53794	0.02	mzspec:MSV000085119:P3_F1_GF1_01_53794:scan:998	1	0.7	5	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate3_POS/P3_F1_GF1_01_53794.mzML	MSV000085119/P3_F1_GF1_01_53794.mzML	MSV000085119	Tetrapterys cardiophylla	1561826	Yes	No	No

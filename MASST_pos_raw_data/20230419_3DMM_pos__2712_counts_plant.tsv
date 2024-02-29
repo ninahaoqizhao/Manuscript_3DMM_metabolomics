@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087872:Leucanthemum-leaf-nBuOH	-0.0	mzspec:MSV000087872:Leucanthemum-leaf-nBuOH:scan:1633	1	0.93	7	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Leucanthemum-leaf-nBuOH.mzML	MSV000087872/Leucanthemum-leaf-nBuOH.mzML	MSV000087872	Leucanthemum	99071	No	No	No
+mzspec:MSV000087872:Leucanthemum-stem-nBuOH	-0.0	mzspec:MSV000087872:Leucanthemum-stem-nBuOH:scan:1686	1	0.91	6	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Leucanthemum-stem-nBuOH.mzML	MSV000087872/Leucanthemum-stem-nBuOH.mzML	MSV000087872	Leucanthemum	99071	No	No	No

@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088690:100218031	0.04	mzspec:MSV000088690:100218031:scan:2559	1	0.87	9	MSV000088690	NoID	MSV000088690/peak/100218031.mzML	MSV000088690/100218031.mzML	MSV000088690	Fungi		4751	automatic	No	No	No
+mzspec:MSV000084595:48_MB-4_M_SAMPLE_WT_D12	0.0	mzspec:MSV000084595:48_MB-4_M_SAMPLE_WT_D12:scan:3569	1	0.76	6	MSV000084595	NoID	MSV000084595/ccms_peak/Positive_RAW/48_MB-4_M_SAMPLE_WT_D12.mzML	MSV000084595/48_MB-4_M_SAMPLE_WT_D12.mzML	MSV000084595	Streptomyces		1883	automatic	No	No	No

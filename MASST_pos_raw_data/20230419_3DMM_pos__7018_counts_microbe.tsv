@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P1_B5_GB5_01_52846	-0.03	mzspec:MSV000085071:P1_B5_GB5_01_52846:scan:1062	1	0.76	5	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P1_mzXML/P1_B5_GB5_01_52846.mzXML	MSV000085071/P1_B5_GB5_01_52846.mzXML	MSV000085071	Amanita protecta		1579108	automatic	Yes	No	No

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089952:083_Ecoli_W3110_Pooled Sample_5h_MBL	0.05	mzspec:MSV000089952:083_Ecoli_W3110_Pooled Sample_5h_MBL:scan:4294967295	1	0.74	5	MSV000089952	NoID	MSV000089952/peak/XGLab_Ecoli_W3110/Growth Phase_Intra_MBL/083_Ecoli_W3110_Pooled Sample_5h_MBL.mzML	MSV000089952/083_Ecoli_W3110_Pooled Sample_5h_MBL.mzML	MSV000089952	Escherichia coli K-12 W3110	Escherichia coli	316407	manual	No	No	No

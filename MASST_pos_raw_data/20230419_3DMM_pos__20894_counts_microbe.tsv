@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084873:WTB_Fe_noHCl	-0.05	mzspec:MSV000084873:WTB_Fe_noHCl:scan:3418	1	0.71	10	MSV000084873	NoID	MSV000084873/ccms_peak/raw/WTB_Fe_noHCl.mzML	MSV000084873/WTB_Fe_noHCl.mzML	MSV000084873	Alteromonas		226	automatic	No	No	No

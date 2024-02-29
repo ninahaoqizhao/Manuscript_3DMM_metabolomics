@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	MassIVE	Filename	node_id
+mzspec:MSV000084900:G79300_1x_rerun_10ul_RC2_01_18904	-0.04	mzspec:MSV000084900:G79300_1x_rerun_10ul_RC2_01_18904:scan:886	1	0.83	6	MSV000084900	NoID	MSV000084900	G79300_1x_rerun_10ul_RC2_01_18904.mzXML	dragonfruit
+mzspec:MSV000084900:G75622_rerun_BD4_01_19081	-0.04	mzspec:MSV000084900:G75622_rerun_BD4_01_19081:scan:892	1	0.8	6	MSV000084900	NoID	MSV000084900	G75622_rerun_BD4_01_19081.mzXML	complex

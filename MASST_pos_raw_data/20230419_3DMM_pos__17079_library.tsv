@@ -1,0 +1,6 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009952732	CCMSLIB00009952732	0.99	5	Suspect related to Massbank: N-lauroylethanolamine|N-(2-hydroxyethyl)dodecanamide (predicted molecular formula: C15H29NO3) with delta m/z 27.995 (putative explanation: Formylation|Ser->Asp substitution|Thr->Glu substitution; atomic difference: 1C,1O|1C,1O|1C,1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136448	CCMSLIB00003136448	0.99	5	Spectral Match to N-Lauroylsarcosine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138901	CCMSLIB00003138901	0.98	5	Spectral Match to N-Lauroylsarcosine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136535	CCMSLIB00003136535	0.98	5	Spectral Match to N-Lauroylsarcosine from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005763913	CCMSLIB00005763913	0.97	5	Massbank:LU068302 N-Dodecanoyl-N-methylglycine|N-Lauroylsarcosine|2-[dodecanoyl(methyl)amino]acetic acid	M+H	1

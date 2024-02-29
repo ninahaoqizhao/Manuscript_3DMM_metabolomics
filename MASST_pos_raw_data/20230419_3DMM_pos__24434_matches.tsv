@@ -1,0 +1,23 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000081492:QC_02:scan:3565	0.98	10	NoID
+0.0	mzspec:MSV000081492:QC_01:scan:3582	0.97	9	NoID
+0.0	mzspec:MSV000081949:jb418_alone_rep_2:scan:3694	0.97	8	NoID
+0.0	mzspec:MSV000081492:72849:scan:3432	0.96	9	NoID
+0.0	mzspec:MSV000081949:e_coli_alone__rep_1:scan:3730	0.96	9	NoID
+0.0	mzspec:MSV000081949:e_coli_alone__rep_2:scan:3716	0.95	7	NoID
+0.0	mzspec:MSV000081492:dhmc_9_10:scan:3565	0.94	9	NoID
+0.0	mzspec:MSV000081949:jb418_alone_rep_1:scan:3719	0.94	7	NoID
+0.0	mzspec:MSV000081492:72847:scan:3527	0.93	8	NoID
+0.0	mzspec:MSV000081949:jb418_alone_rep_3:scan:3713	0.93	7	NoID
+0.0	mzspec:MSV000081949:e_coli_alone__rep_3:scan:3709	0.92	7	NoID
+0.0	mzspec:MSV000081492:QC_01_170626113747:scan:3556	0.89	8	NoID
+0.0	mzspec:MSV000081949:jb418_rs17_rep_3:scan:3714	0.85	6	NoID
+0.0	mzspec:MSV000082953:P4_D11:scan:3947	0.79	8	NoID
+0.0	mzspec:MSV000082953:MzMine_Export_MS2Filtered_forGNPS:scan:20152	0.79	8	NoID
+0.0	mzspec:MSV000082647:81995:scan:4020	0.79	7	NoID
+0.0	mzspec:MSV000084595:48_MB-4_M_SAMPLE_WT_D12:scan:3639	0.78	8	NoID
+0.0	mzspec:MSV000089061:Soil_F5F_pos:scan:5765	0.75	6	NoID
+0.0	mzspec:MSV000089061:Soil_F5_pos:scan:5619	0.71	5	NoID
+-0.0	mzspec:MSV000083320:99675:scan:3577	0.7	7	NoID
+0.0	mzspec:MSV000081492:dhmc_7_1:scan:3658	0.7	5	NoID
+0.0	mzspec:MSV000079069:150220_EF_PMA_PSN473_LN-1676-f_ddMS2_pos:scan:5191	0.7	5	NoID

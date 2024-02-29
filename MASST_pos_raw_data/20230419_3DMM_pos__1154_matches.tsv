@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.02	mzspec:MSV000089558:Blank_01_no_inj:scan:3177	0.89	5	NoID
+0.02	mzspec:MSV000088640:6034857:scan:3229	0.83	5	NoID
+0.02	mzspec:MSV000088640:6034612:scan:3228	0.82	5	NoID
+0.02	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-17:scan:753	0.81	5	NoID
+0.02	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-21:scan:762	0.81	5	NoID
+-0.04	mzspec:MSV000088008:DOM_Interlab-LCMS_Lab024_A5M_POS_MS2_rep3:scan:3694	0.8	5	NoID
+-0.04	mzspec:MSV000088823:DOM_Interlab-LCMS_Lab024_A5M_POS_MS2_rep3:scan:3694	0.8	5	NoID

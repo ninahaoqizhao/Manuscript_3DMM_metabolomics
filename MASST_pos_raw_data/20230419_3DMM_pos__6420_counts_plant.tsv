@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF156_B11_neg	0.03	mzspec:MSV000087728:VGF156_B11_neg:scan:883	1	0.73	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_neg_with_QC_and_blanks_raw/VGF156_B11_neg.mzML	MSV000087728/VGF156_B11_neg.mzML	MSV000087728	Cycas	3395	Yes	No	No
+mzspec:MSV000087728:VGF150_C02_neg	0.03	mzspec:MSV000087728:VGF150_C02_neg:scan:893	1	0.72	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_neg_with_QC_and_blanks_raw/VGF150_C02_neg.mzML	MSV000087728/VGF150_C02_neg.mzML	MSV000087728	Aegle marmelos	68527	Yes	No	No

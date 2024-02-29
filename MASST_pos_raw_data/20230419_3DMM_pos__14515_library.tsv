@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009951166	CCMSLIB00009951166	0.9	9	Suspect related to Linoleic acid methyl ester (predicted molecular formula: C18H36O4) with delta m/z 22.002 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009954098	CCMSLIB00009954098	0.89	8	Suspect related to Massbank:EQ331602 Linoleic acid|(9Z,12Z)-octadeca-9,12-dienoic acid (predicted molecular formula: C18H36O4) with delta m/z 36.021 (putative explanation: 2x water; atomic difference: 4H,2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005489366	CCMSLIB00005489366	0.79	8	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14 [IIN-based on: CCMSLIB00003139643]	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009981284	CCMSLIB00009981284	0.78	6	Suspect related to Ricinoleic acid methyl ester (predicted molecular formula: C21H36NO2) with delta m/z 22.002 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1

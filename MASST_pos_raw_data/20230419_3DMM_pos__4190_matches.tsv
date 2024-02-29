@@ -1,0 +1,12 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000082433:586:scan:1038	0.92	12	NoID
+0.0	mzspec:MSV000084314:MSV000082433:scan:118360	0.92	11	NoID
+0.0	mzspec:MSV000082433:498:scan:1040	0.88	11	NoID
+0.0	mzspec:MSV000087872:Betula-populifolia-stem-nBuOH:scan:2003	0.88	11	NoID
+0.0	mzspec:MSV000083559:11713.16.S.16D:scan:935	0.87	11	NoID
+0.0	mzspec:MSV000087872:Betula-papyrifera-stem-nBuOH:scan:1919	0.86	11	NoID
+0.0	mzspec:MSV000082331:F2_swab_blank:scan:2112	0.86	10	NoID
+-0.0	mzspec:MSV000087872:Illicium-verum-leaf-nBuOH:scan:2112	0.84	11	NoID
+0.0	mzspec:MSV000087872:Pinus-banksiana-leaf-nBuOH:scan:1988	0.83	12	NoID
+0.0	mzspec:MSV000087872:Thuja-occidentalis-leaf-nBuOH:scan:2012	0.82	11	NoID
+0.0	mzspec:MSV000087872:Pinus-strobus-leaf-nBuOH:scan:1971	0.79	11	NoID

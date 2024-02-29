@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089522:022-2_1-98_01_6154	0.0	mzspec:MSV000089522:022-2_1-98_01_6154:scan:3773	1	0.78	5	MSV000089522	NoID	MSV000089522/ccms_peak/022-2_1-98_01_6154.mzML	MSV000089522/022-2_1-98_01_6154.mzML	MSV000089522	Bacteria	Bacteria	2	manual	Yes	No	No
+mzspec:MSV000087052:022-2_1-98_01_6154	0.0	mzspec:MSV000087052:022-2_1-98_01_6154:scan:3773	1	0.78	5	MSV000087052	NoID	MSV000087052/peak/ID_mzXML/022-2_1-98_01_6154.mzXML	MSV000087052/022-2_1-98_01_6154.mzXML	MSV000087052	Rhodobacteraceae BRB-022	Rhodobacteraceae bacterium	1904441	manual	Yes	No	No

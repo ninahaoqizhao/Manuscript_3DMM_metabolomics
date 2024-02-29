@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P3_A8_BA8_01_52750	0.02	mzspec:MSV000085071:P3_A8_BA8_01_52750:scan:228	1	0.8	5	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P3_mzXML/P3_A8_BA8_01_52750.mzXML	MSV000085071/P3_A8_BA8_01_52750.mzXML	MSV000085071	Cantharellus formosus		75102	automatic	Yes	No	No

@@ -1,0 +1,10 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933030	CCMSLIB00009933030	0.88	6	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C20H28O5S) with delta m/z 17.993 (putative explanation: fluorination; atomic difference: 1F,-1H)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005749721	CCMSLIB00005749721	0.86	5	Massbank:PR304010 Secoisolariciresinol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933017	CCMSLIB00009933017	0.85	5	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C20H30O8) with delta m/z 36.021 (putative explanation: 2x water; atomic difference: 4H,2O)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005746713	CCMSLIB00005746713	0.84	5	Massbank:PR304006 Secoisolariciresinol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009920296	CCMSLIB00009920296	0.78	6	Suspect related to (-)-Secoisolariciresinol (predicted molecular formula: C11H26N8O8) with delta m/z 36.021 (putative explanation: 2x water; atomic difference: 4H,2O)	[M-2H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005738934	CCMSLIB00005738934	0.75	5	Massbank:PR304005 Secoisolariciresinol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005747981	CCMSLIB00005747981	0.75	5	Massbank:PR310441 Secoisolariciresinol	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009933032	CCMSLIB00009933032	0.74	5	Suspect related to 2,3-bis[(4-hydroxy-3-methoxyphenyl)methyl]butane-1,4-diol (predicted molecular formula: C13H28N6O5S) with delta m/z 18.017 (putative explanation: unspecified; atomic difference: unspecified)	[M-H2O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000079066	CCMSLIB00000079066	0.73	5	SECOISOLARICIRESINOL	[M+H]	1

@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089834:MS58_COO168_07	0.0	mzspec:MSV000089834:MS58_COO168_07:scan:6381	2	0.71	9	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2022/MS58_COO168_07.mzML	MSV000089834/MS58_COO168_07.mzML	MSV000089834	Cognatiyoonia koreensis wadden sea isolate	Cognatiyoonia koreensis	364200	manual	No	No	No
+mzspec:MSV000089834:MS58_2_05	0.0	mzspec:MSV000089834:MS58_2_05:scan:6311	2	0.7	9	MSV000089834	NoID	MSV000089834/peak/microbeMASST/2022/MS58_2_05.mzML	MSV000089834/MS58_2_05.mzML	MSV000089834	Algibacter aquimarinus wadden sea isolate	Algibacter aquimarinus	1136748	manual	No	No	No

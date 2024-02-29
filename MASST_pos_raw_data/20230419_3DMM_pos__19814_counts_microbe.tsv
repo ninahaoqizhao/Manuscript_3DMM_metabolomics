@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086879:D3_1	-0.0	mzspec:MSV000086879:D3_1:scan:4294967295	1	0.9	7	MSV000086879	NoID	MSV000086879/ccms_peak/peak/D3_1.mzML	MSV000086879/D3_1.mzML	MSV000086879	Homo sapiens		9606	automatic	No	No	No
+mzspec:MSV000081064:blank_2_170505112237	0.04	mzspec:MSV000081064:blank_2_170505112237:scan:1044	1	0.79	5	MSV000081064	NoID	MSV000081064/ccms_peak/Aaron_May_2017/170501_HPLC_polished/blank_2_170505112237.mzML	MSV000081064/blank_2_170505112237.mzML	MSV000081064	Methylobacter tundripaludum		blank	automatic	No	Yes	No
+mzspec:MSV000086879:D3_2	0.01	mzspec:MSV000086879:D3_2:scan:4294967295	1	0.76	6	MSV000086879	NoID	MSV000086879/ccms_peak/peak/D3_2.mzML	MSV000086879/D3_2.mzML	MSV000086879	Homo sapiens		9606	automatic	No	No	No

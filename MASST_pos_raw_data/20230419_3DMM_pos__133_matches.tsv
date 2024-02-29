@@ -1,0 +1,8 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000087694:90:scan:889	1.0	6	NoID
+0.0	mzspec:MSV000087694:78:scan:867	0.88	5	NoID
+0.04	mzspec:MSV000083665:6-mix_03_190318163308:scan:67	0.81	5	NoID
+0.04	mzspec:MSV000083665:pos_conditioning_QC_02:scan:78	0.8	5	NoID
+-0.05	mzspec:MSV000086621:CMB-B003-E1-MSMS:scan:4294967295	0.75	5	NoID
+-0.0	mzspec:MSV000085744:RP(+)_UrineHigh_DDA3:scan:434	0.74	5	NoID
+-0.05	mzspec:MSV000086621:CMB-B009-C12-MSMS:scan:4294967295	0.72	5	NoID

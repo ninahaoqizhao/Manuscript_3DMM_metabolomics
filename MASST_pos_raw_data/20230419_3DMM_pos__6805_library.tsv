@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946305	CCMSLIB00009946305	0.87	6	Suspect related to Dimethyl azelate (predicted molecular formula: unknown) with delta m/z 74.035 (putative explanation: unspecified|unspecified; atomic difference: 1C,4H,3N,1O|3C,6H,2O)	[M-CH4O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009990698	CCMSLIB00009990698	0.71	6	Suspect related to Spectral Match to Azelaic acid from NIST14 (predicted molecular formula: C13H22O5) with delta m/z 70.042 (putative explanation: unspecified|Butyryl|Crotonaldehyde|unspecified; atomic difference: 2C,4H,3N|4C,6H,1O|4C,6H,1O|4C,6H,1O)	[M+H]+	1

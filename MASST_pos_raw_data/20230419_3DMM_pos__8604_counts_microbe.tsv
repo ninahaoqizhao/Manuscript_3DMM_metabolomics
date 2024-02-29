@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000080559:Blank_0	-0.01	mzspec:MSV000080559:Blank_0:scan:1529	3	0.94	10	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/Blank_0.mzXML	MSV000080559/Blank_0.mzXML	MSV000080559	Amycolatopsis		blank	automatic	No	Yes	No
+mzspec:MSV000082379:3610_LB_96h_02	-0.0	mzspec:MSV000082379:3610_LB_96h_02:scan:1482	3	0.81	8	MSV000082379	NoID	MSV000082379/ccms_peak/raw/3610_LB_96h_02.mzML	MSV000082379/3610_LB_96h_02.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:3610_LB_96h_02	-0.0	mzspec:MSV000082402:3610_LB_96h_02:scan:1482	3	0.81	8	MSV000082402	NoID	MSV000082402/ccms_peak/raw/3610_LB_96h_02.mzML	MSV000082402/3610_LB_96h_02.mzML	MSV000082402	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082379:T6SS_LB_96h_02x	-0.0	mzspec:MSV000082379:T6SS_LB_96h_02x:scan:1507	3	0.79	7	MSV000082379	NoID	MSV000082379/ccms_peak/raw/T6SS_LB_96h_02x.mzML	MSV000082379/T6SS_LB_96h_02x.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:T6SS_LB_96h_02x	-0.0	mzspec:MSV000082402:T6SS_LB_96h_02x:scan:1507	3	0.79	7	MSV000082402	NoID	MSV000082402/ccms_peak/raw/T6SS_LB_96h_02x.mzML	MSV000082402/T6SS_LB_96h_02x.mzML	MSV000082402	Bacteria		2	automatic	No	No	No

@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135566	CCMSLIB00003135566	0.96	8	Spectral Match to Cyclopentasiloxane, decamethyl- from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138218	CCMSLIB00003138218	0.94	7	Spectral Match to Cyclopentasiloxane, decamethyl- from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004695012	CCMSLIB00004695012	0.82	5	sulochrin	[M+K]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004695013	CCMSLIB00004695013	0.78	6	sulochrin	[M+K]+	1

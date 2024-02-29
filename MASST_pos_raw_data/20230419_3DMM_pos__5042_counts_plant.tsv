@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000085657:QC_1	0.05	mzspec:MSV000085657:QC_1:scan:306	1	0.85	5	MSV000085657	NoID	MSV000085657/ccms_peak/raw/QC_1.mzML	MSV000085657/QC_1.mzML	MSV000085657	QC	QC	Yes	No	Yes

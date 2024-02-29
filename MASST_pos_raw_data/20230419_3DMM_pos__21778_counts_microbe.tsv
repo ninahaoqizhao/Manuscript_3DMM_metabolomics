@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000079518:A1_unlab_ATCC_pre	-0.03	mzspec:MSV000079518:A1_unlab_ATCC_pre:scan:4735	1	0.79	5	MSV000079518	NoID	MSV000079518/ccms_peak/A1_unlab_ATCC_pre.mzXML	MSV000079518/A1_unlab_ATCC_pre.mzXML	MSV000079518	Streptomyces albus ATCC 21838	Streptomyces albus subsp. albus DSM 41398	1081613	maual	No	No	No

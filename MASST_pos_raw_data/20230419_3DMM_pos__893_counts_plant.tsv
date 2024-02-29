@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF153_A08_pos	-0.04	mzspec:MSV000087728:VGF153_A08_pos:scan:674	1	0.83	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF153_A08_pos.mzML	MSV000087728/VGF153_A08_pos.mzML	MSV000087728	Ainsliaea yunnanensis	418279	Yes	No	No
+mzspec:MSV000087728:VGF150_B08_pos	-0.04	mzspec:MSV000087728:VGF150_B08_pos:scan:520	1	0.83	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF150_B08_pos.mzML	MSV000087728/VGF150_B08_pos.mzML	MSV000087728	Physalis peruviana	126903	Yes	No	No
+mzspec:MSV000087728:VGF153_F07_pos	-0.04	mzspec:MSV000087728:VGF153_F07_pos:scan:504	1	0.79	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF153_F07_pos.mzML	MSV000087728/VGF153_F07_pos.mzML	MSV000087728	Croton meridionalis	2028267	Yes	No	No

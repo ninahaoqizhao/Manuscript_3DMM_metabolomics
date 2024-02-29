@@ -1,0 +1,16 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000087872:Illicium-verum-leaf-nBuOH:scan:1691	0.89	11	NoID
+0.0	mzspec:MSV000084314:MSV000083320:scan:188554	0.89	10	NoID
+0.0	mzspec:MSV000083320:BLANK4_4B:scan:1103	0.88	10	NoID
+-0.0	mzspec:MSV000083320:99445:scan:1095	0.88	10	NoID
+-0.0	mzspec:MSV000087872:Illicium-verum-stem-nBuOH:scan:1763	0.87	13	NoID
+0.0	mzspec:MSV000087872:Larix-laricina-leaf-nBuOH:scan:1736	0.87	12	NoID
+0.0	mzspec:MSV000087872:Thuja-occidentalis-leaf-nBuOH:scan:1777	0.86	12	NoID
+0.04	mzspec:MSV000084314:MSV000087872:scan:224820	0.86	10	NoID
+-0.0	mzspec:MSV000083320:99599:scan:1098	0.85	9	NoID
+0.0	mzspec:MSV000087872:Ginkgo-biloba-stem-nBuOH:scan:1696	0.84	10	NoID
+-0.0	mzspec:MSV000083320:BLANK4_4A_20181110122153:scan:1102	0.84	9	NoID
+0.0	mzspec:MSV000083320:99377:scan:1095	0.84	9	NoID
+0.0	mzspec:MSV000087872:Thuja-occidentalis-stem-nBuOH:scan:1944	0.83	10	NoID
+0.0	mzspec:MSV000087872:Thuja-occidentalis-flower-nBuOH:scan:1601	0.83	10	NoID
+-0.0	mzspec:MSV000087872:Juniperus-horizontalis-stem-nBuOH:scan:1760	0.79	10	NoID

@@ -1,0 +1,21 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088137:2044:scan:794	0.85	6	NoID
+0.0	mzspec:MSV000088137:mars00078:scan:792	0.85	6	NoID
+0.0	mzspec:MSV000086415:52940446:scan:790	0.82	6	NoID
+-0.05	mzspec:MSV000089558:Blank_09_no_inj:scan:1541	0.82	5	NoID
+0.0	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-17_soak:scan:2320	0.82	5	NoID
+0.0	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-17_soak:scan:2320	0.82	5	NoID
+0.0	mzspec:MSV000086415:55897318:scan:783	0.81	6	NoID
+0.0	mzspec:MSV000086415:50408077:scan:788	0.81	6	NoID
+-0.05	mzspec:MSV000089558:Blank_05_no_inj:scan:1531	0.81	5	NoID
+-0.05	mzspec:MSV000089558:MEI_C10-B14:scan:1530	0.79	5	NoID
+0.04	mzspec:MSV000086221:20180126_vjw839_Metabolomics_XBridge1_WS-04_soak:scan:3047	0.78	6	NoID
+0.04	mzspec:MSV000086208:20180126_vjw839_Metabolomics_XBridge1_WS-04_soak:scan:3047	0.78	6	NoID
+-0.05	mzspec:MSV000089558:Blank_Solvent_6:scan:1528	0.78	5	NoID
+0.0	mzspec:MSV000088137:mars00073:scan:803	0.77	6	NoID
+-0.05	mzspec:MSV000089558:Blank_Solvent_4:scan:1519	0.77	5	NoID
+0.0	mzspec:MSV000086415:4576591:scan:789	0.75	6	NoID
+0.0	mzspec:MSV000086415:20819999:scan:794	0.73	6	NoID
+0.0	mzspec:MSV000086415:10473384:scan:792	0.71	5	NoID
+0.0	mzspec:MSV000088137:mars00061:scan:806	0.7	5	NoID
+-0.0	mzspec:MSV000088137:mars00056:scan:808	0.7	5	NoID

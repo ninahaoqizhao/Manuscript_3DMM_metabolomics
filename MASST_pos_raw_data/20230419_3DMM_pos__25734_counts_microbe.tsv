@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088519:Blank_1	0.0	mzspec:MSV000088519:Blank_1:scan:6560	1	0.85	5	MSV000088519	NoID	MSV000088519/ccms_peak/raw/Blank_1.mzML	MSV000088519/Blank_1.mzML	MSV000088519	Bacteria		blank	automatic	No	Yes	No

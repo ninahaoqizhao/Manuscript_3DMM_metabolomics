@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083651:Marinobacter_A3_Fe_3mM	-0.01	mzspec:MSV000083651:Marinobacter_A3_Fe_3mM:scan:2065	1	0.76	9	MSV000083651	NoID	MSV000083651/ccms_peak/raw/Marinobacter_A3_Fe_3mM.mzML	MSV000083651/Marinobacter_A3_Fe_3mM.mzML	MSV000083651	Marinobacter		2742	automatic	No	No	No
+mzspec:MSV000083651:Marinobacter_A2_Fe_3mM	-0.01	mzspec:MSV000083651:Marinobacter_A2_Fe_3mM:scan:2059	1	0.75	8	MSV000083651	NoID	MSV000083651/ccms_peak/raw/Marinobacter_A2_Fe_3mM.mzML	MSV000083651/Marinobacter_A2_Fe_3mM.mzML	MSV000083651	Marinobacter		2742	automatic	No	No	No

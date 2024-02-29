@@ -1,0 +1,14 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139641	CCMSLIB00003139641	0.8	6	Spectral Match to Ile-Gly-Ile from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003140175	CCMSLIB00003140175	0.8	5	Spectral Match to Leu-Gly-Leu from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009997643	CCMSLIB00009997643	0.79	6	Suspect related to Spectral Match to Phe-Leu from NIST14 (predicted molecular formula: C14H27N3O4) with delta m/z 23.036 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003137259	CCMSLIB00003137259	0.77	5	Spectral Match to Leu-Gly-Leu from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009993961	CCMSLIB00009993961	0.76	5	Suspect related to Spectral Match to Ile-Arg from NIST14 (predicted molecular formula: C14H27N3O4) with delta m/z 14.002 (putative explanation: unspecified; atomic difference: 1N)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009999010	CCMSLIB00009999010	0.76	5	Suspect related to Spectral Match to Thr-Val-Leu from NIST14 (predicted molecular formula: unknown) with delta m/z -29.994 (putative explanation: Homoserine|Met->Thr substitution|Hydroxylation of thiomethyl; atomic difference: -1C,-2H,1O,-1S|-1C,-2H,1O,-1S|1O,-1S,-1C,-2H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134723	CCMSLIB00003134723	0.75	5	Spectral Match to Leu-Gly-Leu from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003137073	CCMSLIB00003137073	0.74	5	Spectral Match to Leu-Gly-Leu from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009997604	CCMSLIB00009997604	0.72	5	Suspect related to Spectral Match to Phe-Ile from NIST14 (predicted molecular formula: C14H27N3O4) with delta m/z 23.036 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009994885	CCMSLIB00009994885	0.72	5	Suspect related to Spectral Match to Leu-Phe from NIST14 (predicted molecular formula: C14H27N3O4) with delta m/z 23.036 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138318	CCMSLIB00003138318	0.72	5	Spectral Match to Ile-Gly-Ile from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136453	CCMSLIB00003136453	0.72	5	Spectral Match to Ile-Gly-Ile from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009993423	CCMSLIB00009993423	0.7	5	Suspect related to Spectral Match to Gly-Leu from NIST14 (predicted molecular formula: C14H27N3O4) with delta m/z 113.085 (putative explanation: Acetyldeoxyhypusine|Serine; atomic difference: 6C,11H,1N,1O|6C,11H,1N,1O)	[M+H]+	1

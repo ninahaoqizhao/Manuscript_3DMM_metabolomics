@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087904:pSK019_M9_Lassopeptide_Ecoli_XAD	0.05	mzspec:MSV000087904:pSK019_M9_Lassopeptide_Ecoli_XAD:scan:5580	1	0.72	5	MSV000087904	NoID	MSV000087904/ccms_peak/RAW/pSK019_M9_Lassopeptide_Ecoli_XAD.mzML	MSV000087904/pSK019_M9_Lassopeptide_Ecoli_XAD.mzML	MSV000087904	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082999:Isa_4_b	-0.04	mzspec:MSV000082999:Isa_4_b:scan:3119	1	0.71	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_4_b.mzML	MSV000082999/Isa_4_b.mzML	MSV000082999	Fungi		4751	automatic	No	No	No
+mzspec:MSV000084165:MC_ABsoxR_I_June	-0.04	mzspec:MSV000084165:MC_ABsoxR_I_June:scan:35976	1	0.71	6	MSV000084165	NoID	MSV000084165/ccms_peak/MC_ABsoxR_I_June.mzML	MSV000084165/MC_ABsoxR_I_June.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No
+mzspec:MSV000082999:Isa_11_a	-0.03	mzspec:MSV000082999:Isa_11_a:scan:3235	1	0.7	6	MSV000082999	NoID	MSV000082999/ccms_peak/raw/Isa_11_a.mzML	MSV000082999/Isa_11_a.mzML	MSV000082999	Fungi		4751	automatic	No	No	No

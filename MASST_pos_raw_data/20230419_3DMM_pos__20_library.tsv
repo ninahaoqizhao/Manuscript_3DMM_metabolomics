@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005740456	CCMSLIB00005740456	0.8	7	Massbank:PR310824 N-Fructosyl isoleucine	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009961319	CCMSLIB00009961319	0.77	7	Suspect related to Massbank:PR310826 N-Fructosyl phenylalanine (predicted molecular formula: C15H21N2O4) with delta m/z -33.984 (putative explanation: Phe->Leu/Ile substitution; atomic difference: -3C,2H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009961316	CCMSLIB00009961316	0.72	6	Suspect related to Massbank:PR310825 N-Fructosyl isoleucine (predicted molecular formula: C12H25NO8) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)	[M-H2O+H]+	1

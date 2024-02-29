@@ -1,0 +1,25 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-3:scan:4582	0.91	10	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-11:scan:4614	0.9	10	NoID
+-0.0	mzspec:MSV000080629:194:scan:1509	0.89	10	NoID
+-0.0	mzspec:MSV000080628:bedding_20160306:scan:1508	0.89	10	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-11:scan:4619	0.88	9	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-19:scan:4596	0.88	9	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_1-15:scan:4605	0.88	9	NoID
+0.0	mzspec:MSV000080905:P5_EMP_9:scan:1144	0.87	9	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_25:scan:1472	0.86	9	NoID
+-0.0	mzspec:MSV000084783:bedding:scan:2794	0.86	9	NoID
+0.0	mzspec:MSV000084753:L:scan:2674	0.86	9	NoID
+0.0	mzspec:MSV000080629:72:scan:1508	0.86	8	NoID
+0.0	mzspec:MSV000084314:MSV000086209:scan:265137	0.85	7	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-19:scan:4637	0.84	8	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_2-2:scan:4600	0.84	8	NoID
+0.0	mzspec:MSV000080628:Bedding_20160320:scan:1502	0.84	8	NoID
+0.0	mzspec:MSV000080628:bedding_20160320:scan:1502	0.84	8	NoID
+0.0	mzspec:MSV000080629:109:scan:1489	0.83	9	NoID
+0.0	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-23:scan:4624	0.83	8	NoID
+0.0	mzspec:MSV000080629:18:scan:1505	0.83	8	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_7:scan:1486	0.83	7	NoID
+0.0	mzspec:MSV000080627:ONR_Stool_5:scan:1481	0.79	6	NoID
+-0.0	mzspec:MSV000080628:bedding_20161114:scan:1525	0.78	6	NoID
+-0.0	mzspec:MSV000080629:210:scan:1530	0.74	6	NoID

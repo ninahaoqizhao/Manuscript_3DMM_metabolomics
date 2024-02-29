@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000081064:blank_0	0.0	mzspec:MSV000081064:blank_0:scan:2487	1	0.71	9	MSV000081064	NoID	MSV000081064/ccms_peak/Aaron_May_2017/170420_Aaron_Screen/blank_0.mzML	MSV000081064/blank_0.mzML	MSV000081064	Methylobacter tundripaludum		blank	automatic	No	Yes	No

@@ -1,0 +1,26 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.03	mzspec:MSV000080016:System_blank_02:scan:2216	0.78	5	NoID
+-0.03	mzspec:MSV000080015:Blank_2:scan:4196	0.75	5	NoID
+-0.03	mzspec:MSV000079888:Corn10_Bsubt_D09:scan:2190	0.75	5	NoID
+-0.03	mzspec:MSV000079888:Corn02_control_A08:scan:2164	0.74	5	NoID
+-0.03	mzspec:MSV000079888:System-blank_2:scan:2145	0.74	5	NoID
+-0.03	mzspec:MSV000080016:QC_01:scan:2280	0.73	5	NoID
+-0.03	mzspec:MSV000080016:SC_infected_A03:scan:2158	0.73	5	NoID
+-0.03	mzspec:MSV000079888:Corn12_CL21_F04:scan:2173	0.73	5	NoID
+-0.03	mzspec:MSV000079888:Corn08_Bsubt_C09:scan:2186	0.73	5	NoID
+-0.03	mzspec:MSV000079888:Corn08_Bsubt_D01:scan:2156	0.73	5	NoID
+-0.03	mzspec:MSV000079888:Corn06_Bsubt_C08:scan:2172	0.73	5	NoID
+-0.03	mzspec:MSV000079888:Corn12_CL21_F01:scan:2177	0.72	5	NoID
+-0.03	mzspec:MSV000080016:QC_02:scan:2209	0.72	5	NoID
+-0.03	mzspec:MSV000079888:System-Blank-out:scan:2172	0.72	5	NoID
+0.04	mzspec:MSV000084020:RRC_3_51:scan:1491	0.72	5	NoID
+-0.03	mzspec:MSV000080016:QC_07:scan:2205	0.72	5	NoID
+-0.03	mzspec:MSV000079888:Corn10_Bsubt_D12:scan:2188	0.72	5	NoID
+-0.03	mzspec:MSV000079888:Corn08_Bsubt_C12:scan:2196	0.72	5	NoID
+-0.03	mzspec:MSV000080016:SC_infected_D09:scan:2247	0.72	5	NoID
+-0.03	mzspec:MSV000079697:group2_P2_H3:scan:2348	0.72	5	NoID
+-0.03	mzspec:MSV000079888:Corn11_CL21_E04:scan:2199	0.71	5	NoID
+-0.03	mzspec:MSV000080015:Blank_5:scan:4295	0.71	5	NoID
+-0.03	mzspec:MSV000080016:SC_healthy_D06:scan:2169	0.71	5	NoID
+-0.03	mzspec:MSV000080015:Blank_4:scan:4263	0.71	5	NoID
+-0.03	mzspec:MSV000080016:QC_08:scan:2180	0.7	5	NoID

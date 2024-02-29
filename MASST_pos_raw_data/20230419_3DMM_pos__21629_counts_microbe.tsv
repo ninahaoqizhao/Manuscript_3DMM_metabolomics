@@ -1,0 +1,6 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084165:MC-145-ESept	0.0	mzspec:MSV000084165:MC-145-ESept:scan:35074	1	0.89	5	MSV000084165	NoID	MSV000084165/ccms_peak/MC-145-ESept.mzML	MSV000084165/MC-145-ESept.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No
+mzspec:MSV000084165:MC_actAB_E_June	-0.0	mzspec:MSV000084165:MC_actAB_E_June:scan:35217	1	0.85	5	MSV000084165	NoID	MSV000084165/ccms_peak/MC_actAB_E_June.mzML	MSV000084165/MC_actAB_E_June.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No
+mzspec:MSV000080559:I_3	-0.04	mzspec:MSV000080559:I_3:scan:2557	1	0.73	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/I_3.mzXML	MSV000080559/I_3.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:L_1	-0.04	mzspec:MSV000080559:L_1:scan:2593	1	0.72	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/L_1.mzXML	MSV000080559/L_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No
+mzspec:MSV000080559:K_1	-0.04	mzspec:MSV000080559:K_1:scan:2551	1	0.7	5	MSV000080559	NoID	MSV000080559/ccms_peak/mzxml/K_1.mzXML	MSV000080559/K_1.mzXML	MSV000080559	Amycolatopsis		1813	automatic	No	No	No

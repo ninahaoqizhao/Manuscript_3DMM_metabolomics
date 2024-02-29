@@ -1,0 +1,18 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000089558:Blank_08_no_inj:scan:1619	0.87	5	NoID
+-0.0	mzspec:MSV000089558:Blank_27_no_inj:scan:1614	0.85	6	NoID
+-0.0	mzspec:MSV000087844:20210623_03_SST_1uL:scan:4422	0.85	5	NoID
+0.0	mzspec:MSV000081949:Wash_14:scan:997	0.85	5	NoID
+-0.04	mzspec:MSV000089061:Soil_f2_5_56_pos:scan:2767	0.83	5	NoID
+-0.0	mzspec:MSV000087844:20210623_18_Blank_10uL:scan:4239	0.83	5	NoID
+-0.0	mzspec:MSV000089558:Blank_06_no_inj:scan:1638	0.83	5	NoID
+-0.0	mzspec:MSV000087844:20210623_01_Blank_10uL:scan:4293	0.83	5	NoID
+-0.04	mzspec:MSV000080905:P5_EMP_47:scan:1944	0.8	5	NoID
+-0.0	mzspec:MSV000081949:Wash_03:scan:4131	0.79	5	NoID
+-0.04	mzspec:MSV000088732:5ugmL_Opti_AGC_5E6_3:scan:2101	0.78	5	NoID
+-0.0	mzspec:MSV000089558:Blank_04_no_inj:scan:1633	0.77	5	NoID
+-0.0	mzspec:MSV000089558:Blank_Solvent_24:scan:1610	0.76	5	NoID
+-0.03	mzspec:MSV000082739:20160623_S00021739_P:scan:1787	0.76	5	NoID
+-0.0	mzspec:MSV000089558:Blank_25_no_inj:scan:1638	0.74	5	NoID
+-0.04	mzspec:MSV000088732:5ugmL_Opti_Top5_3:scan:3905	0.72	5	NoID
+-0.0	mzspec:MSV000089558:Blank_Solvent_8:scan:1617	0.71	5	NoID

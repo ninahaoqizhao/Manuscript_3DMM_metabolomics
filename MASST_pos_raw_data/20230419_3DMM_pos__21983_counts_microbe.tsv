@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000078891:2014_10_06_WT	0.0	mzspec:MSV000078891:2014_10_06_WT:scan:4184	1	0.92	8	MSV000078891	NoID	MSV000078891/ccms_peak/massive_cyanos/2014_10_06_WT.mzXML	MSV000078891/2014_10_06_WT.mzXML	MSV000078891	N. punctiforme PCC 73102	Nostoc punctiforme PCC 73102	63737	manual	Yes	No	No
+mzspec:MSV000088535:17-20_BM	-0.0	mzspec:MSV000088535:17-20_BM:scan:3332	1	0.82	7	MSV000088535	NoID	MSV000088535/ccms_peak/Raw_peptide_Lukas/17-20_BM.mzML	MSV000088535/17-20_BM.mzML	MSV000088535	Staphylococcus		1279	automatic	No	No	No
+mzspec:MSV000079472:M59	0.01	mzspec:MSV000079472:M59:scan:4294967295	1	0.71	9	MSV000079472	NoID	MSV000079472/peak/M59.mzXML	MSV000079472/M59.mzXML	MSV000079472	Salinospora	Salinispora	168694	automatic	No	No	No

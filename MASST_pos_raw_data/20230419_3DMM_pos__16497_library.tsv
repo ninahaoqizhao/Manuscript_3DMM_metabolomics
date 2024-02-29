@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009965862	CCMSLIB00009965862	1.0	5	Suspect related to N,N-Dimethyldodecylamine N-oxide (predicted molecular formula: C16H35NO) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005772795	CCMSLIB00005772795	0.77	5	Massbank:AU240806 Lauric isopropanolamide|N-(2-hydroxypropyl)dodecanamide	M+H	1

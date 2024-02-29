@@ -1,0 +1,3 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944896	CCMSLIB00009944896	0.84	11	Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 148.038 (putative explanation: glycosyl-L-hydroxyproline; atomic difference: 5C,8H,5O)	[M+NH4]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944879	CCMSLIB00009944879	0.81	10	Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 74.017 (putative explanation: polysiloxane repeat unit|Gly->Met substitution|unspecified; atomic difference: 2C,6H,1O,1Si|3C,6H,1S|6C,2H)	[M+NH4]+	1

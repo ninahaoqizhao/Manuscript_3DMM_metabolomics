@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000089522:127_1-60_01_6050	-0.02	mzspec:MSV000089522:127_1-60_01_6050:scan:500	1	0.74	5	MSV000089522	NoID	MSV000089522/ccms_peak/127_1-60_01_6050.mzML	MSV000089522/127_1-60_01_6050.mzML	MSV000089522	Streptomyces fradiae		1906	automatic	Yes	No	No
+mzspec:MSV000089523:236_1-17_01_11556	-0.04	mzspec:MSV000089523:236_1-17_01_11556:scan:1589	1	0.74	5	MSV000089523	NoID	MSV000089523/ccms_peak/236_1-17_01_11556.mzML	MSV000089523/236_1-17_01_11556.mzML	MSV000089523	Microbacteriaceae		85023	manual	Yes	No	No
+mzspec:MSV000089522:135-2_1-68_01_6117	0.02	mzspec:MSV000089522:135-2_1-68_01_6117:scan:548	1	0.72	5	MSV000089522	NoID	MSV000089522/ccms_peak/135-2_1-68_01_6117.mzML	MSV000089522/135-2_1-68_01_6117.mzML	MSV000089522	Streptomyces albogriseolus		1887	automatic	Yes	No	No

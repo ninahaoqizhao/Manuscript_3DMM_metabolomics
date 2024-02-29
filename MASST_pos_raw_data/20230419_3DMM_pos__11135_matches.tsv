@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000088137:mars00095:scan:1483	0.85	7	NoID
+0.0	mzspec:MSV000088137:mars00044:scan:1512	0.8	7	NoID
+0.0	mzspec:MSV000088137:mars00052:scan:1522	0.8	6	NoID
+0.0	mzspec:MSV000088137:mars00031:scan:1501	0.79	7	NoID
+0.0	mzspec:MSV000088137:mars00082:scan:1486	0.78	7	NoID
+0.0	mzspec:MSV000088137:mars00084:scan:1506	0.75	6	NoID
+0.0	mzspec:MSV000088137:mars00118:scan:1508	0.72	5	NoID
+-0.02	mzspec:MSV000079714:group4_P2_B10:scan:593	0.72	5	NoID
+-0.02	mzspec:MSV000079697:group4_P2_B10:scan:593	0.72	5	NoID
+0.0	mzspec:MSV000088137:BLANK1_1A:scan:1457	0.71	6	NoID
+0.0	mzspec:MSV000087948:CMI_YB7_05ul:scan:1468	0.71	5	NoID
+-0.02	mzspec:MSV000079714:group4_P2_G11:scan:641	0.71	5	NoID
+-0.02	mzspec:MSV000079697:group4_P2_G11:scan:641	0.71	5	NoID

@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000086644:007_RMF54_6ul_BA7_01_22637	0.01	mzspec:MSV000086644:007_RMF54_6ul_BA7_01_22637:scan:1494	1	0.85	5	MSV000086644	NoID	MSV000086644/ccms_peak/20201229_Myoporeae_full_dataset/007_RMF54_6ul_BA7_01_22637.mzML	MSV000086644/007_RMF54_6ul_BA7_01_22637.mzML	MSV000086644	Eremophila platycalyx	2528951	No	No	No
+mzspec:MSV000087728:VGF144_E06_pos	0.0	mzspec:MSV000087728:VGF144_E06_pos:scan:908	1	0.84	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF144_E06_pos.mzML	MSV000087728/VGF144_E06_pos.mzML	MSV000087728	Nelumbo nucifera	4432	Yes	No	No

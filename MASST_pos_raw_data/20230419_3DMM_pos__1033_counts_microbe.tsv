@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085858:27_0_M_Control_OBA_C3	0.0	mzspec:MSV000085858:27_0_M_Control_OBA_C3:scan:1747	1	0.77	5	MSV000085858	NoID	MSV000085858/ccms_peak/27_0_M_Control_OBA_C3.mzML	MSV000085858/27_0_M_Control_OBA_C3.mzML	MSV000085858	Streptomyces scabiei 87.22		qc	automatic	No	No	Yes
+mzspec:MSV000084595:27_0_M_Control_OBA_C3	0.0	mzspec:MSV000084595:27_0_M_Control_OBA_C3:scan:1747	1	0.77	5	MSV000084595	NoID	MSV000084595/ccms_peak/Positive_RAW/27_0_M_Control_OBA_C3.mzML	MSV000084595/27_0_M_Control_OBA_C3.mzML	MSV000084595	Streptomyces		qc	automatic	No	No	Yes

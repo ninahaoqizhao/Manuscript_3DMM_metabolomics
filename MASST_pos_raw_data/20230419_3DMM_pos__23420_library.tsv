@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005436264	CCMSLIB00005436264	0.88	11	Contaminants septum vial Thermo C4000-53 and C4000-54 serie	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009944926	CCMSLIB00009944926	0.85	10	Suspect related to Contaminants septum vial Thermo C4000-53 and C4000-54 serie (predicted molecular formula: C18H33NO15S) with delta m/z -222.057 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009974987	CCMSLIB00009974987	0.84	11	Suspect related to NCGC00385199-01!2-[3,4-bis[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy]phenyl]-5,7-dihydroxychromen-4-one (predicted molecular formula: unknown) with delta m/z -92.028 (putative explanation: Tyr->Ala substitution; atomic difference: -6C,-4H,-1O)	[M+NH4]+	1

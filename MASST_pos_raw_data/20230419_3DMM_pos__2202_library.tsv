@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946312	CCMSLIB00009946312	0.85	5	Suspect related to Dimethyl sebacate (predicted molecular formula: C9H16O2) with delta m/z -74.037 (putative explanation: nan (reverse)|nan (reverse); atomic difference: -1C,-4H,-3N,-1O|-3C,-6H,-2O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010002612	CCMSLIB00010002612	0.84	5	Suspect related to Undecanedioic acid (predicted molecular formula: C9H16O2) with delta m/z -60.021 (putative explanation: nan (reverse)|nan (reverse); atomic difference: -2C,-4H,-2O|-2H,-3N,-1O)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135185	CCMSLIB00003135185	0.84	5	Spectral Match to 4-Hydroxynonenal from NIST14	M+H	1

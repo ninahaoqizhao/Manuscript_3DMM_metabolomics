@@ -1,0 +1,19 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000083651:Marinobacter_A1_Fe_3mM:scan:1772	0.93	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A2_Fe_3mM:scan:1740	0.93	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A1:scan:1765	0.93	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_B3:scan:1752	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A3_Fe_3mM:scan:1743	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A3:scan:1738	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_B1:scan:1730	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_B1_Fe_3mM:scan:1766	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_A2:scan:1722	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_B3_Fe_3mM:scan:1778	0.92	7	NoID
+-0.0	mzspec:MSV000083651:Marinobacter_B2_Fe_3mM:scan:1764	0.9	7	NoID
+-0.0	mzspec:MSV000084314:MSV000083651:scan:2281	0.88	7	NoID
+0.0	mzspec:MSV000081351:38698:scan:1872	0.88	7	NoID
+0.04	mzspec:MSV000081351:38997:scan:1837	0.77	7	NoID
+0.04	mzspec:MSV000085480:ENTP_8:scan:2724	0.76	6	NoID
+0.04	mzspec:MSV000081351:38800:scan:1869	0.74	6	NoID
+0.04	mzspec:MSV000081351:38776:scan:1884	0.71	6	NoID
+0.04	mzspec:MSV000081351:38829:scan:1913	0.71	6	NoID

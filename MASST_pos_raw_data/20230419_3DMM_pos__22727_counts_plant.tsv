@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF150_B05_pos	0.02	mzspec:MSV000087728:VGF150_B05_pos:scan:3271	1	0.75	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF150_B05_pos.mzML	MSV000087728/VGF150_B05_pos.mzML	MSV000087728	Schleichera oleosa	290996	Yes	No	No
+mzspec:MSV000086427:VGF152_A02	0.02	mzspec:MSV000086427:VGF152_A02:scan:2998	1	0.7	5	MSV000086427	NoID	MSV000086427/ccms_peak/ecometabo_rawfiles/VGF152_A02.mzML	MSV000086427/VGF152_A02.mzML	MSV000086427	Banisteriopsis harleyi	1027069	Yes	No	No

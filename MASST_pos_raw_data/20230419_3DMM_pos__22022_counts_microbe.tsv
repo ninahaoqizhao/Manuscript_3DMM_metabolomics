@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083660:19	0.0	mzspec:MSV000083660:19:scan:3172	1	0.86	8	MSV000083660	NoID	MSV000083660/peak/mzXML/12min_samples/19.mzXML	MSV000083660/19.mzXML	MSV000083660	Pseudomonas psychrophila		122355	automatic	No	No	No
+mzspec:MSV000083660:19_20190222204247	-0.0	mzspec:MSV000083660:19_20190222204247:scan:3189	1	0.82	7	MSV000083660	NoID	MSV000083660/peak/mzXML/12min_samples/19_20190222204247.mzXML	MSV000083660/19_20190222204247.mzXML	MSV000083660	Pseudomonas psychrophila		122355	automatic	No	No	No

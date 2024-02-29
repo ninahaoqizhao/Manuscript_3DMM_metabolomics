@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000089540:A6_Ctrl:scan:4009	0.87	5	NoID
+-0.0	mzspec:MSV000089540:F6_Ctrl:scan:5188	0.83	5	NoID
+-0.0	mzspec:MSV000089540:H10_Ctrl:scan:4028	0.83	5	NoID
+0.0	mzspec:MSV000089540:F3_Ctrl:scan:4871	0.82	5	NoID
+0.0	mzspec:MSV000089540:I8_Ctrl:scan:4492	0.82	5	NoID
+0.0	mzspec:MSV000089540:G3_H2O2:scan:4640	0.82	5	NoID
+0.0	mzspec:MSV000089540:D7_Ctrl:scan:4576	0.82	5	NoID
+0.0	mzspec:MSV000089540:I4_Ctrl:scan:4054	0.81	5	NoID
+-0.0	mzspec:MSV000089540:G9_Ctrl:scan:4591	0.81	5	NoID
+-0.0	mzspec:MSV000089540:D9_Ctrl:scan:3678	0.8	5	NoID
+-0.0	mzspec:MSV000089540:Blk_1_20220517161329:scan:3751	0.79	5	NoID
+-0.0	mzspec:MSV000089540:E6_Ctrl:scan:3922	0.79	5	NoID
+0.0	mzspec:MSV000089540:I10_Ctrl:scan:4284	0.77	5	NoID
+0.0	mzspec:MSV000089540:B3_NPS:scan:6050	0.74	5	NoID

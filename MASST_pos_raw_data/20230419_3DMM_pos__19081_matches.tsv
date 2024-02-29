@@ -1,0 +1,10 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000081492:72845:scan:2755	0.98	8	NoID
+0.01	mzspec:MSV000082953:P1_D4:scan:3273	0.96	9	NoID
+0.0	mzspec:MSV000082953:MzMine_Export_MS2Filtered_forGNPS:scan:5541	0.96	9	NoID
+0.01	mzspec:MSV000084945:LB_Blank_Tri_SPE_1_P2-A-3_01_4734:scan:5342	0.93	5	NoID
+0.0	mzspec:MSV000082157:2_61:scan:2941	0.88	5	NoID
+0.01	mzspec:MSV000084355:P37_D3_no_no_no_unknown_190919201024:scan:3751	0.86	5	NoID
+0.0	mzspec:MSV000087904:Cl482_1_Lassopeptide_Ecoli_Butanol:scan:4899	0.84	5	NoID
+0.01	mzspec:MSV000087904:Cl482_2_Lassopeptide_Ecoli_Butanol:scan:4314	0.8	5	NoID
+0.0	mzspec:MSV000082953:P4_D8:scan:3252	0.73	6	NoID

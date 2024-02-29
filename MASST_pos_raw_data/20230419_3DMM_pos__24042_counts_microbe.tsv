@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000087130:IS_31	0.0	mzspec:MSV000087130:IS_31:scan:7002	1	0.76	5	MSV000087130	NoID	MSV000087130/ccms_peak/Bt_raw/IS_31.mzML	MSV000087130/IS_31.mzML	MSV000087130	Bacteroides thetaiotaomicron		818	automatic	No	No	No
+mzspec:MSV000090007:Yeast_12_C_pos_1	0.0	mzspec:MSV000090007:Yeast_12_C_pos_1:scan:3194	1	0.73	6	MSV000090007	NoID	MSV000090007/peak/lipid_RP_MZML/Yeast_12_C_pos_1.mzML	MSV000090007/Yeast_12_C_pos_1.mzML	MSV000090007	Komagataella phaffii		460519	automatic	No	No	No

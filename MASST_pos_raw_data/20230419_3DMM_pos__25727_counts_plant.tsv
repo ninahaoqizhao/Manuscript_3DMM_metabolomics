@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087148:GNPS - AH-30	0.0	mzspec:MSV000087148:GNPS - AH-30:scan:29105	1	0.92	14	MSV000087148	NoID	MSV000087148/peak/GNPS - AH-30.mzXML	MSV000087148/GNPS - AH-30.mzXML	MSV000087148	Nelumbo nucifera	4432	No	No	No
+mzspec:MSV000083215:Celtis_occidentalis_leaf	0.0	mzspec:MSV000083215:Celtis_occidentalis_leaf:scan:8018	1	0.81	11	MSV000083215	NoID	MSV000083215/raw/Celtis_occidentalis_leaf.mzXML	MSV000083215/Celtis_occidentalis_leaf.mzXML	MSV000083215	Celtis occidentalis	228587	No	No	No
+mzspec:MSV000087711:AM_6RF4574_POS	0.0	mzspec:MSV000087711:AM_6RF4574_POS:scan:5292	1	0.74	13	MSV000087711	NoID	MSV000087711/ccms_peak/AM_6RF4574_POS.mzML	MSV000087711/AM_6RF4574_POS.mzML	MSV000087711	Solanum caavurana	2598621	No	No	No

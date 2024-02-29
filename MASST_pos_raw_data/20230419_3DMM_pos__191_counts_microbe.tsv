@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085261:So1d-SCA	0.0	mzspec:MSV000085261:So1d-SCA:scan:4294967295	1	0.75	5	MSV000085261	NoID	MSV000085261/ccms_peak/GNPS-Completed/So1d/So1d-SCA.mzML	MSV000085261/So1d-SCA.mzML	MSV000085261	Bacteria		2	automatic	No	No	No
+mzspec:MSV000085261:Dwa41.01-ISP2	0.0	mzspec:MSV000085261:Dwa41.01-ISP2:scan:4294967295	1	0.72	5	MSV000085261	NoID	MSV000085261/ccms_peak/GNPS-Completed/Dwa/Dwa41.01-ISP2.mzML	MSV000085261/Dwa41.01-ISP2.mzML	MSV000085261	Bacteria		2	automatic	No	No	No

@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000087728:VGF157_C09_pos	-0.0	mzspec:MSV000087728:VGF157_C09_pos:scan:761	1	0.91	7	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF157_C09_pos.mzML	MSV000087728/VGF157_C09_pos.mzML	MSV000087728	Manilkara zapota	3741	Yes	No	No
+mzspec:MSV000087728:VGF142_E06_pos	-0.0	mzspec:MSV000087728:VGF142_E06_pos:scan:979	1	0.88	6	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF142_E06_pos.mzML	MSV000087728/VGF142_E06_pos.mzML	MSV000087728	Saussurea amara	238930	Yes	No	No
+mzspec:MSV000087872:Quercus-rubra-stem-nBuOH	0.0	mzspec:MSV000087872:Quercus-rubra-stem-nBuOH:scan:2048	1	0.87	5	MSV000087872	NoID	MSV000087872/ccms_peak/MassIVE - Matthaei + Herbarium datasets/Quercus-rubra-stem-nBuOH.mzML	MSV000087872/Quercus-rubra-stem-nBuOH.mzML	MSV000087872	Quercus rubra	3512	No	No	No

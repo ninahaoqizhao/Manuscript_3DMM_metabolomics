@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000083660:13_1_3mMFe	-0.0	mzspec:MSV000083660:13_1_3mMFe:scan:1685	1	0.84	7	MSV000083660	NoID	MSV000083660/peak/mzXML/12min_samples/13_1_3mMFe.mzXML	MSV000083660/13_1_3mMFe.mzXML	MSV000083660	Pseudomonas psychrophila		122355	automatic	No	No	No
+mzspec:MSV000083835:35	0.0	mzspec:MSV000083835:35:scan:3406	1	0.73	6	MSV000083835	NoID	MSV000083835/peak/EtOAc_Neg_mzML/35.mzML	MSV000083835/35.mzML	MSV000083835	Streptomyces		1883	automatic	No	No	No
+mzspec:MSV000086666:01003-88-7	0.0	mzspec:MSV000086666:01003-88-7:scan:2101	1	0.72	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-7.mzML	MSV000086666/01003-88-7.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No

@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086666:01003-88-2	0.02	mzspec:MSV000086666:01003-88-2:scan:2099	1	0.96	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-2.mzML	MSV000086666/01003-88-2.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000086666:01003-88-44	0.02	mzspec:MSV000086666:01003-88-44:scan:2061	1	0.93	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-44.mzML	MSV000086666/01003-88-44.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No
+mzspec:MSV000086666:01003-88-22	0.02	mzspec:MSV000086666:01003-88-22:scan:2027	1	0.88	5	MSV000086666	NoID	MSV000086666/ccms_peak/01003-88-22.mzML	MSV000086666/01003-88-22.mzML	MSV000086666	Actinobacteria		201174	automatic	No	No	No

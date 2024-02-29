@@ -1,0 +1,5 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.01	mzspec:MSV000085852:Blank_ResusSolvent:scan:2296	0.91	9	NoID
+-0.0	mzspec:MSV000083772:blank_0:scan:2385	0.89	9	NoID
+-0.01	mzspec:MSV000081456:2017080202_blank_170804224537:scan:2930	0.84	9	NoID
+0.04	mzspec:MSV000081456:HILIC_QC_170804223111:scan:3168	0.81	8	NoID

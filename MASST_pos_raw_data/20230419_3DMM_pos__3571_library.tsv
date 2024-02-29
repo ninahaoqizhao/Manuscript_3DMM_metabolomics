@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992281	CCMSLIB00009992281	0.94	6	Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 45.058 (putative explanation: unspecified; atomic difference: 2C,7H,1N)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009999386	CCMSLIB00009999386	0.93	6	Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 1.031 (putative explanation: transamination; atomic difference: transformation)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009999385	CCMSLIB00009999385	0.73	9	Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: C22H46O9S) with delta m/z 1.015 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

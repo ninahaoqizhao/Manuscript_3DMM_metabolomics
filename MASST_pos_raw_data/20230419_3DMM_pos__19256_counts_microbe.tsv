@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000088827:Toly-200A2	-0.03	mzspec:MSV000088827:Toly-200A2:scan:4294967295	1	0.74	6	MSV000088827	NoID	MSV000088827/peak/Toly-200A2.mzML	MSV000088827/Toly-200A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No
+mzspec:MSV000084100:SPE1-2_A4	-0.03	mzspec:MSV000084100:SPE1-2_A4:scan:2355	1	0.72	6	MSV000084100	NoID	MSV000084100/peak/mzML/SPE1-2_A4.mzML	MSV000084100/SPE1-2_A4.mzML	MSV000084100	Cyanobacteria		1117	automatic	No	No	No
+mzspec:MSV000088827:Toly-137A2	-0.03	mzspec:MSV000088827:Toly-137A2:scan:4294967295	1	0.71	6	MSV000088827	NoID	MSV000088827/peak/Toly-137A2.mzML	MSV000088827/Toly-137A2.mzML	MSV000088827	Tolypocladium species	Tolypocladium	29909	maual	No	No	No

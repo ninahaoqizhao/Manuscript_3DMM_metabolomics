@@ -1,0 +1,4 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084165:MC_actAB_I_June	-0.0	mzspec:MSV000084165:MC_actAB_I_June:scan:35398	1	0.94	7	MSV000084165	NoID	MSV000084165/ccms_peak/MC_actAB_I_June.mzML	MSV000084165/MC_actAB_I_June.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No
+mzspec:MSV000078891:2014_10_06_WT	0.0	mzspec:MSV000078891:2014_10_06_WT:scan:3945	1	0.84	7	MSV000078891	NoID	MSV000078891/ccms_peak/massive_cyanos/2014_10_06_WT.mzXML	MSV000078891/2014_10_06_WT.mzXML	MSV000078891	N. punctiforme PCC 73102	Nostoc punctiforme PCC 73102	63737	manual	Yes	No	No
+mzspec:MSV000084165:MC_ABsoxR_I_June	-0.0	mzspec:MSV000084165:MC_ABsoxR_I_June:scan:35411	1	0.83	5	MSV000084165	NoID	MSV000084165/ccms_peak/MC_ABsoxR_I_June.mzML	MSV000084165/MC_ABsoxR_I_June.mzML	MSV000084165	Streptomyces sp.		1931	automatic	No	No	No

@@ -1,0 +1,5 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946032	CCMSLIB00009946032	0.91	6	Suspect related to Diethyl azelate (predicted molecular formula: C12H18O4) with delta m/z -18.047 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946302	CCMSLIB00009946302	0.91	6	Suspect related to Dimethyl azelate (predicted molecular formula: unknown) with delta m/z 42.01 (putative explanation: Acetylation|Ser->Glu substitution|unspecified; atomic difference: 2C,2H,1O|2C,2H,1O|3N)	[M-CH4O+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009946263	CCMSLIB00009946263	0.77	5	Suspect related to Dimethyl azelate (predicted molecular formula: C12H18O4) with delta m/z 9.984 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992608	CCMSLIB00009992608	0.77	5	Suspect related to Spectral Match to Diethyl azelate from NIST14 (predicted molecular formula: C12H18O4) with delta m/z -18.047 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000084884:Sacch00196_MS2	0.0	mzspec:MSV000084884:Sacch00196_MS2:scan:6722	1	0.7	5	MSV000084884	NoID	MSV000084884/ccms_peak/Sacch00196_MS2.mzML	MSV000084884/Sacch00196_MS2.mzML	MSV000084884	Bacteria		2	automatic	No	No	No

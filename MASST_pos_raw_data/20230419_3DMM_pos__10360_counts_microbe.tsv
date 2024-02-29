@@ -1,0 +1,7 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000086639:PLT1_G1_TEST	0.01	mzspec:MSV000086639:PLT1_G1_TEST:scan:3638	5	0.96	12	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT1_G1_TEST.mzML	MSV000086639/PLT1_G1_TEST.mzML	MSV000086639	Bacteria		2	automatic	No	No	No
+mzspec:MSV000086639:PLT1_G1	0.0	mzspec:MSV000086639:PLT1_G1:scan:3688	5	0.94	12	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT1_G1.mzML	MSV000086639/PLT1_G1.mzML	MSV000086639	Bacteroides vulgatus	Phocaeicola vulgatus	821	automatic	Yes	No	No
+mzspec:MSV000081065:5_48_II	-0.01	mzspec:MSV000081065:5_48_II:scan:3384	5	0.91	11	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_48_II.mzXML	MSV000081065/5_48_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000086639:PLT1_F1	-0.0	mzspec:MSV000086639:PLT1_F1:scan:3689	5	0.9	11	MSV000086639	NoID	MSV000086639/ccms_peak/raw/PLT1_F1.mzML	MSV000086639/PLT1_F1.mzML	MSV000086639	Bacteroides vulgatus	Phocaeicola vulgatus	821	automatic	Yes	No	No
+mzspec:MSV000081065:5_23_II	-0.01	mzspec:MSV000081065:5_23_II:scan:3022	5	0.87	10	MSV000081065	NoID	MSV000081065/ccms_peak/mzxml/5_23_II.mzXML	MSV000081065/5_23_II.mzXML	MSV000081065	Escherichia coli		562	automatic	No	No	No
+mzspec:MSV000083134:blank_0	-0.01	mzspec:MSV000083134:blank_0:scan:2865	5	0.85	10	MSV000083134	NoID	MSV000083134/ccms_peak/raw/blank_0.mzML	MSV000083134/blank_0.mzML	MSV000083134	Escherichia coli		blank	automatic	No	Yes	No

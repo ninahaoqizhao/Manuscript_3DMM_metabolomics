@@ -1,0 +1,14 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.0	mzspec:MSV000089540:F4_NPS:scan:1384	0.74	5	NoID
+-0.0	mzspec:MSV000089540:E10_NPS:scan:1420	0.73	5	NoID
+-0.0	mzspec:MSV000089540:J4_Ctrl:scan:1492	0.73	5	NoID
+0.0	mzspec:MSV000088040:Prevotella_buccae_AO21_SI-1:scan:1055	0.73	5	NoID
+-0.0	mzspec:MSV000089540:J3_Ctrl:scan:1315	0.72	5	NoID
+0.0	mzspec:MSV000089540:E2_NPS:scan:1792	0.72	5	NoID
+0.0	mzspec:MSV000084314:MSV000088040:scan:68594	0.72	5	NoID
+0.0	mzspec:MSV000088040:Parabacteroides_Distasonas_CLO3T12C09_CO-1:scan:1077	0.72	5	NoID
+0.04	mzspec:MSV000088040:Bacteroides_uniformis_AO9_CO-2:scan:1532	0.71	5	NoID
+0.04	mzspec:MSV000088040:Clostridium_scindens_ATCC35704_CO-2:scan:1530	0.71	5	NoID
+0.0	mzspec:MSV000089540:J5_NPS:scan:1424	0.71	5	NoID
+0.04	mzspec:MSV000088040:Enterococcus_faecalis_V583_CO-1:scan:1542	0.7	5	NoID
+0.04	mzspec:MSV000088040:Bacteroides_dorei_DSM_17855_CO-1:scan:1538	0.7	5	NoID

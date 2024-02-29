@@ -1,0 +1,4 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000084112:11129_NT1D015_JJK_Ur:scan:1898	0.9	9	NoID
+-0.01	mzspec:MSV000082261:11129_NT1D015_JJK_Ur:scan:1898	0.9	9	NoID
+-0.05	mzspec:MSV000083541:S1_blank_100H2O:scan:3110	0.76	5	NoID

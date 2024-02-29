@@ -1,0 +1,4 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009950490	CCMSLIB00009950490	0.89	7	Suspect related to Lactose (predicted molecular formula: C20H25NO5) with delta m/z 17.062 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009964456	CCMSLIB00009964456	0.77	6	Suspect related to Melibiose (predicted molecular formula: unknown) with delta m/z 17.062 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009935717	CCMSLIB00009935717	0.74	5	Suspect related to 2.alpha.-Mannobiose (predicted molecular formula: C14H25N5O6) with delta m/z 17.062 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

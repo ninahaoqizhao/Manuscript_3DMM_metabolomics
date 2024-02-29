@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000086644:342_RMF181_6ul_GC6_01_22555	-0.02	mzspec:MSV000086644:342_RMF181_6ul_GC6_01_22555:scan:4372	1	0.73	7	MSV000086644	NoID	MSV000086644/ccms_peak/20201229_Myoporeae_full_dataset/342_RMF181_6ul_GC6_01_22555.mzML	MSV000086644/342_RMF181_6ul_GC6_01_22555.mzML	MSV000086644	Eremophila battii	2652484	No	No	No
+mzspec:MSV000085119:P2_B6_BB6_01_53664	-0.03	mzspec:MSV000085119:P2_B6_BB6_01_53664:scan:1230	1	0.73	7	MSV000085119	NoID	MSV000085119/ccms_peak/Malpighiaceae_POS/Malpighiaceae_Plate2_POS/P2_B6_BB6_01_53664.mzML	MSV000085119/P2_B6_BB6_01_53664.mzML	MSV000085119	Heteropterys pauciflora	259665	Yes	No	No

@@ -1,0 +1,3 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxa_NCBI	ReDU_Availability	Blank	QC
+mzspec:MSV000082962:11-20-3_13_RC11_01_30744	0.0	mzspec:MSV000082962:11-20-3_13_RC11_01_30744:scan:675	1	0.72	5	MSV000082962	NoID	MSV000082962/ccms_peak/Branch_Bridal/Samples/Healthy/11-20-3_13_RC11_01_30744.mzML	MSV000082962/11-20-3_13_RC11_01_30744.mzML	MSV000082962	Citrus sinensis	2711	Yes	No	No
+mzspec:MSV000087728:VGF158_C07_pos	0.0	mzspec:MSV000087728:VGF158_C07_pos:scan:682	1	0.71	5	MSV000087728	NoID	MSV000087728/ccms_peak/VGF_pos_with_QC_and_blanks_raw/VGF158_C07_pos.mzML	MSV000087728/VGF158_C07_pos.mzML	MSV000087728	Clausena wallichii	159038	Yes	No	No

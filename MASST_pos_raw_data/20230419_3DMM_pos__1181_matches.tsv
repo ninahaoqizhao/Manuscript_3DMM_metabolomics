@@ -1,0 +1,15 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000086209:20160906_pgk965_SloanSurfaceProject_Metabolomics_3-6:scan:3660	0.82	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-6:scan:798	0.78	5	NoID
+-0.04	mzspec:MSV000088226:Fraction-6:scan:1529	0.78	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-5:scan:721	0.77	5	NoID
+-0.04	mzspec:MSV000088137:mars00073:scan:499	0.77	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-1:scan:608	0.76	5	NoID
+-0.04	mzspec:MSV000086415:90942860:scan:782	0.75	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-4:scan:1636	0.75	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-2:scan:1528	0.75	5	NoID
+0.0	mzspec:MSV000088226:Fraction-6-3:scan:626	0.75	5	NoID
+-0.04	mzspec:MSV000086415:92393245:scan:792	0.73	5	NoID
+-0.04	mzspec:MSV000086415:17929065:scan:793	0.73	5	NoID
+-0.04	mzspec:MSV000086415:64287431:scan:785	0.72	5	NoID
+-0.04	mzspec:MSV000086415:20779834:scan:792	0.72	5	NoID

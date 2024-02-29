@@ -1,0 +1,21 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.05	mzspec:MSV000084325:Pos_heartQC_mid_190910220914:scan:838	0.99	5	NoID
+0.05	mzspec:MSV000083665:6-mix_01_test1:scan:587	0.98	5	NoID
+0.05	mzspec:MSV000083665:6-mix_01_test2:scan:477	0.98	5	NoID
+0.05	mzspec:MSV000085142:carnitine_LI_B_Nov_m14:scan:3394	0.97	5	NoID
+-0.05	mzspec:MSV000085142:LI_pooledQC_mid_191102050439:scan:3293	0.96	5	NoID
+-0.01	mzspec:MSV000078891:EH_2014_05_18_KOminusN_low:scan:761	0.95	5	NoID
+-0.01	mzspec:MSV000078891:EH_2014_05_18_WTminusN_low:scan:838	0.95	5	NoID
+0.05	mzspec:MSV000083665:2nd_m4C_P1_G3_BothExt:scan:3645	0.92	5	NoID
+-0.05	mzspec:MSV000080183:32-F-01:scan:241	0.9	5	NoID
+-0.05	mzspec:MSV000081482:32-F-01:scan:241	0.9	5	NoID
+-0.05	mzspec:MSV000084325:Pos_P33_A7_oesophagus_carnitine:scan:41	0.84	5	NoID
+-0.05	mzspec:MSV000080183:02-F-08:scan:2582	0.79	5	NoID
+-0.05	mzspec:MSV000080183:43-F-05:scan:2686	0.76	5	NoID
+-0.05	mzspec:MSV000082782:IDSpos:scan:1904	0.75	5	NoID
+-0.05	mzspec:MSV000080183:41-F-04:scan:2714	0.73	5	NoID
+-0.05	mzspec:MSV000080183:26-F-01:scan:3445	0.72	5	NoID
+-0.05	mzspec:MSV000081482:26-F-01:scan:3445	0.72	5	NoID
+-0.05	mzspec:MSV000081482:32-F-10:scan:2524	0.72	5	NoID
+-0.05	mzspec:MSV000080183:32-F-10:scan:2524	0.72	5	NoID
+-0.05	mzspec:MSV000080183:04-F-10:scan:2495	0.71	5	NoID

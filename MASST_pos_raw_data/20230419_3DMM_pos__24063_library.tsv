@@ -1,0 +1,9 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009992490	CCMSLIB00009992490	1.0	7	Suspect related to Spectral Match to Dibutyl adipate from NIST14 (predicted molecular formula: C22H42O4) with delta m/z 112.125 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009945992	CCMSLIB00009945992	1.0	7	Suspect related to Dibutyl adipate (predicted molecular formula: C22H42O4) with delta m/z 112.125 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135189	CCMSLIB00003135189	0.99	6	Spectral Match to Hexanedioic acid, bis(2-ethylhexyl) ester from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003138267	CCMSLIB00003138267	0.98	7	Spectral Match to Hexanedioic acid, bis(2-ethylhexyl) ester from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003135171	CCMSLIB00003135171	0.97	6	Spectral Match to Hexanedioic acid, bis(2-ethylhexyl) ester from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003136593	CCMSLIB00003136593	0.96	6	Spectral Match to Hexanedioic acid, bis(2-ethylhexyl) ester from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003139554	CCMSLIB00003139554	0.92	6	Spectral Match to Hexanedioic acid, bis(2-ethylhexyl) ester from NIST14	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00009945972	CCMSLIB00009945972	0.83	6	Suspect related to Di(2-ethylhexyl)phthalate (DEHP) (predicted molecular formula: C22H42O4) with delta m/z -19.969 (putative explanation: unspecified; atomic difference: unspecified)	[M+H]+	1

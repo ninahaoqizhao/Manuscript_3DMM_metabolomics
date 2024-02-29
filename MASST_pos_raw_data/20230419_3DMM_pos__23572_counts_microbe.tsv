@@ -1,0 +1,5 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000082379:Triple_LB_24h_01	-0.01	mzspec:MSV000082379:Triple_LB_24h_01:scan:2827	1	0.74	6	MSV000082379	NoID	MSV000082379/ccms_peak/raw/Triple_LB_24h_01.mzML	MSV000082379/Triple_LB_24h_01.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:Triple_LB_24h_01	-0.01	mzspec:MSV000082402:Triple_LB_24h_01:scan:2827	1	0.74	6	MSV000082402	NoID	MSV000082402/ccms_peak/raw/Triple_LB_24h_01.mzML	MSV000082402/Triple_LB_24h_01.mzML	MSV000082402	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082379:3610_LB_24h_01	-0.02	mzspec:MSV000082379:3610_LB_24h_01:scan:2795	1	0.72	6	MSV000082379	NoID	MSV000082379/ccms_peak/raw/3610_LB_24h_01.mzML	MSV000082379/3610_LB_24h_01.mzML	MSV000082379	Bacteria		2	automatic	No	No	No
+mzspec:MSV000082402:3610_LB_24h_01	-0.02	mzspec:MSV000082402:3610_LB_24h_01:scan:2795	1	0.72	6	MSV000082402	NoID	MSV000082402/ccms_peak/raw/3610_LB_24h_01.mzML	MSV000082402/3610_LB_24h_01.mzML	MSV000082402	Bacteria		2	automatic	No	No	No

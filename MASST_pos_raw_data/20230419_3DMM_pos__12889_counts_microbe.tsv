@@ -1,0 +1,2 @@
+file_usi	Delta Mass	USI	Charge	Cosine	Matching Peaks	Dataset	Status	Filepath	Filename	MassIVE	Taxaname_file	Taxaname_alternative	Taxa_NCBI	Taxa_Assigment	ReDU_Availability	Blank	QC
+mzspec:MSV000085071:P2_A7_BA7_01_52945	0.01	mzspec:MSV000085071:P2_A7_BA7_01_52945:scan:976	1	0.74	5	MSV000085071	NoID	MSV000085071/peak/Mushrooms_POS_P2_mzXML/P2_A7_BA7_01_52945.mzXML	MSV000085071/P2_A7_BA7_01_52945.mzXML	MSV000085071	Tricholoma portentosum		54541	automatic	Yes	No	No
